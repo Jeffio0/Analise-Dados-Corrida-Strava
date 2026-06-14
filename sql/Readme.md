@@ -1,4 +1,4 @@
-** Reademe**
+** Readme**
 
 ** Dashboard de Performance Corrida -  Análise essencial.**
 
