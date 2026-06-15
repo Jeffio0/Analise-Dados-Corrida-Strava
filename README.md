@@ -68,3 +68,12 @@ O banco de dados SQLite (`Minhas_atividades_strava`) utilizará estritamente as 
 11. `Calorias`
 
 ---
+
+Projeto-Analise-Dados/
+│
+├── datasets/           # Arquivos CSV, Excel, etc.
+├── sql/                # Scripts SQL
+├── powerbi/            # Arquivos .pbix
+├── docs/               # Documentação e imagens
+├── README.md           # Descrição do projeto
+└── .gitignore
