@@ -19,6 +19,7 @@ O objetivo principal nesta fase é responder às perguntas fundamentais de compo
 - Impacto do Relevo (Altimetria): Qual é o impacto real do ganho de elevação acumulado no ritmo médio (*pace*) da corrida? E como ele afeta a velocidade média do ciclismo?
 - Performance em Corrida (Evolução Histórica): Como o *pace* nas corridas evoluiu ao longo do tempo, cruzando a distância percorrida com a eficiência cardíaca (BPM)?
 - Velocidade Crítica - CS (Bônus de Performance): Como estimar a Velocidade Crítica do atleta na corrida utilizando o modelo linear matemático (Distância vs. Tempo) a partir dos seus recordes históricos?
+- Volume por Equipamento (Ciclo de Vida): Análise da quilometragem acumulada por equipamento utilizado nas atividades, considerando bicicletas e calçados de corrida. A visualização apresenta o volume total registrado por equipamento, sua representatividade em relação à vida útil estimada e a distribuição desse volume nas metas de treinamento do atleta (5 km, 8 km, 10 km, 12 km, 15 km, 20 km e 21,1 km).
 
 ---
 
@@ -58,14 +59,12 @@ O banco de dados SQLite (`Minhas_atividades_strava`) utilizará estritamente as 
 1. `ID da atividade`
 2. `Data da atividade`
 3. `Hora de início`
-4. `Nome da atividade`
-5. `Tipo de atividade`
-6. `Tempo de movimentação`
-7. `Distância`
-8. `Ganho de elevação`
-9. `Temperatura média`
-10. `Frequência cardíaca média`
-11. `Calorias`
+4. `Tipo de atividade`
+5. `Tempo de movimentação`
+6. `Distância`
+7. `Ganho de elevação`
+8. `Calorias`
+8. `Equipamento da atividade`
 
 ---
 
