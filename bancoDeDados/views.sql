@@ -5,8 +5,8 @@ DROP VIEW IF EXISTS vmAtividadesGerais;
 CREATE VIEW vmAtividadesGeraisCorrida AS
 SELECT
      id_da_atividade,
-    data_da_atividad AS data_da_Atividade,
-    tipo_de_atividad AS tipo_de_Atividade,
+    data_da_atividad AS data_da_atividade,
+    tipo_de_atividad AS tipo_de_atividade,
     tempo_de_movimen AS tempo_de_movimento,
     dist_ncia_17 AS distancia,
     ganho_de_eleva_o AS ganho_de_elevacao,
@@ -19,8 +19,8 @@ DROP VIEW IF EXISTS vmAtividadesGeraisCorrida;
 CREATE VIEW vmAtividadesGeraisCorrida AS
 SELECT
       id_da_atividade,
-    data_da_atividad AS data_da_Atividade,
-    tipo_de_atividad AS tipo_de_Atividade,
+    data_da_atividad AS data_da_atividade,
+    tipo_de_atividad AS tipo_de_atividade,
     tempo_de_movimen AS tempo_de_movimento,
     dist_ncia_17 AS distancia,
     ganho_de_eleva_o AS ganho_de_elevacao,
@@ -34,8 +34,8 @@ SELECT
     CREATE VIEW vmAtividadesGeraisPedalada AS
 SELECT
     id_da_atividade,
-    data_da_atividad AS data_da_Atividade,
-    tipo_de_atividad AS tipo_de_Atividade,
+    data_da_atividad AS data_da_atividade,
+    tipo_de_atividad AS tipo_de_atividade,
     tempo_de_movimen AS tempo_de_movimento,
     dist_ncia_17 AS distancia,
     ganho_de_eleva_o AS ganho_de_elevacao,
