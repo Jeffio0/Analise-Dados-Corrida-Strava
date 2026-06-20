@@ -48,3 +48,5 @@ O banco de dados SQLite (Minhas_atividades_strava) utilizará estritamente as se
 ├── docs/            # Documentação e imagens
 ├── README.md        # Descrição do projeto
 └── .gitignore
+
+
