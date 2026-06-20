@@ -58,13 +58,11 @@ O banco de dados SQLite (`Minhas_atividades_strava`) utilizará estritamente as 
 
 1. `ID da atividade`
 2. `Data da atividade`
-3. `Hora de início`
-4. `Tipo de atividade`
-5. `Tempo de movimentação`
-6. `Distância`
-7. `Ganho de elevação`
-8. `Calorias`
-8. `Equipamento da atividade`
+3. `Tipo de atividade`
+4. `Tempo de movimentação`
+5. `Distância`
+6. `Ganho de elevação`
+7. `Equipamento da atividade`
 
 ---
 
