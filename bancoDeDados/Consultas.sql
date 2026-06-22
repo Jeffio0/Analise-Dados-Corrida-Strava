@@ -27,7 +27,8 @@ SELECT
 --- Nomeando as Pedaladas    
 SELECT
     DISTINCT distancia,
-    'TP ' || CAST(distancia AS REAL) || ' km' As nome_atividade, ganho_elevacao
+    'TP ' || CAST(distancia AS REAL) || ' km' As nome_atividade, 
+    ganho_elevacao
     FROM atividades_gerais
    WHERE tipo_atividade = 'Pedalada' 
             AND CAST(distancia AS REAL) >= 20 --converte a distancia em número real (decimal)
@@ -74,6 +75,21 @@ SELECT id_atividade,
     FROM atividades_gerais
     ORDER BY hora_atividade DESC;
 
+--- Identificação como não informado para treinos indoor e treino com peso
+    SELECT id_atividade,
+    tipo_atividade,
+CASE
+    WHEN equipamento = '' AND tipo_atividade = 'Corrida' THEN 'Puma Flyer Runner'
+    WHEN equipamento = '' AND tipo_atividade = 'Pedalada' THEN 'GTSM1'
+    WHEN equipamento = '' AND tipo_atividade = 'Treino' THEN 'Não se Aplica'
+    WHEN equipamento = '' AND tipo_atividade = 'Treinamento com peso' THEN 'Não se Aplica'
+    WHEN equipamento = '' AND tipo_atividade = 'Caminhada' THEN 'Não se Aplica'
+    ELSE equipamento
+    END AS equipamentos
+FROM atividades_gerais
+
+    
+    
     --- Unificando as consultas
     SELECT
         id_atividade,
@@ -85,7 +101,26 @@ SELECT id_atividade,
     || CAST(distancia AS REAL)
     || ' km'  AS nome_atividade,
         tipo_atividade,
-        data_atividade,
+        SUBSTR(data_atividade,(INSTR(data_atividade,',')-4),4)||'-'||
+CASE
+WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'jan' THEN '01'
+WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'fev' THEN '02'
+WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'mar' THEN '03'
+WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'abr' THEN '04'
+WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'mai' THEN '05'
+WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'jun' THEN '06'
+WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'jul' THEN '07'
+WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'ago' THEN '08'
+WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'set' THEN '09'
+WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'out' THEN '10'
+WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'nov' THEN '11'
+WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'dez' THEN '12'
+END ||'-'||
+CASE
+    WHEN LENGTH(TRIM(SUBSTR(data_atividade,1,2))) = 1 THEN 0||TRIM(SUBSTR(data_atividade,1,2))
+    ELSE TRIM(SUBSTR(data_atividade,1,2))
+END
+AS data_atividade_DMA,
         CASE --Definição do período do dia
         WHEN SUBSTR(data_atividade, -8, 5) BETWEEN '04:00' AND '11:59' THEN 'Manhã'
         WHEN SUBSTR(data_atividade, -8, 5) BETWEEN '12:00' AND '17:59' THEN 'Tarde'
@@ -94,7 +129,14 @@ SELECT id_atividade,
     END AS horario,
         CAST(distancia AS REAL) AS distancia_absoluta,
         ganho_elevacao,
-        equipamento
+       CASE
+    WHEN equipamento = '' AND tipo_atividade = 'Corrida' THEN 'Puma Flyer Runner'
+    WHEN equipamento = '' AND tipo_atividade = 'Pedalada' THEN 'GTSM1'
+    WHEN equipamento = '' AND tipo_atividade = 'Treino' THEN 'Não se Aplica'
+    WHEN equipamento = '' AND tipo_atividade = 'Treinamento com peso' THEN 'Não se Aplica'
+    WHEN equipamento = '' AND tipo_atividade = 'Caminhada' THEN 'Não se Aplica'
+    ELSE equipamento
+    END AS equipamentos
         FROM atividades_gerais
        WHERE ganho_elevacao > 0 
             AND
