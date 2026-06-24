@@ -1,750 +1,750 @@
-id_atividade,nome_atividade,tipo_atividade,data_atividade_DMA,horario,distancia_percorrida,Pace_Ritmo,ganho_elevacao,equipamentos
-5638756330,TC 4.0 km,Corrida,2021-07-16,Noite,4.0,00:05:43,59.1,Puma Flyer Runner
-5654965254,TC 5.0 km,Corrida,2021-07-19,Noite,5.0,00:06:10,56.2,Puma Flyer Runner
-5676023275,TC 4.0 km,Corrida,2021-07-23,Noite,4.0,00:05:56,62.1,Puma Flyer Runner
-5777954981,TC 4.0 km,Corrida,2021-08-11,Noite,4.0,00:06:02,23.7,Puma Flyer Runner
-5788098018,TC 5.0 km,Corrida,2021-08-13,Noite,5.0,00:06:15,46.9,Puma Flyer Runner
-5793498511,TC 4.0 km,Corrida,2021-08-14,Noite,4.0,00:05:41,32.5,Puma Flyer Runner
-5804553149,TC 6.0 km,Corrida,2021-08-16,Noite,6.0,00:06:30,61.9,Puma Flyer Runner
-5825774271,TC 5.0 km,Corrida,2021-08-20,Noite,5.0,00:06:12,43.7,Puma Flyer Runner
-5842297287,TC 6.0 km,Corrida,2021-08-23,Noite,6.0,00:06:40,61,Puma Flyer Runner
-5853277422,TC 5.0 km,Corrida,2021-08-25,Noite,5.0,00:06:22,78.9,Puma Flyer Runner
-5863562115,TC 6.0 km,Corrida,2021-08-27,Noite,6.0,00:06:03,84.3,Puma Flyer Runner
-5879724030,TC 6.0 km,Corrida,2021-08-30,Noite,6.0,00:06:42,83.2,Puma Flyer Runner
-5918263028,TC 9.0 km,Corrida,2021-09-06,Noite,9.0,00:06:27,95.9,Puma Flyer Runner
-5931719894,TC 5.0 km,Corrida,2021-09-09,Manhã,5.0,00:06:09,49.1,Puma Flyer Runner
-5945169301,TC 9.0 km,Corrida,2021-09-11,Noite,9.0,00:06:23,91.6,Puma Flyer Runner
-5956199054,TC 5.0 km,Corrida,2021-09-13,Noite,5.0,00:06:44,80.9,Puma Flyer Runner
-5984869378,TC 5.0 km,Corrida,2021-09-19,Manhã,5.0,00:05:40,22.7,Puma Flyer Runner
-6054488627,TC 4.0 km,Corrida,2021-10-02,Noite,4.0,00:05:55,98.2,Puma Flyer Runner
-6074468261,TC 5.0 km,Corrida,2021-10-06,Noite,5.0,00:06:37,96.5,Puma Flyer Runner
-6114628296,TP 20.0 km,Pedalada,2021-10-15,Noite,20.0,20.8,245.5,GTSM1
-6125689150,TP 21.0 km,Pedalada,2021-10-17,Manhã,21.0,20.66,301,GTSM1
-6143606745,TP 24.0 km,Pedalada,2021-10-20,Noite,24.0,22.27,281.4,GTSM1
-6152170530,TP 24.0 km,Pedalada,2021-10-22,Noite,24.0,20.56,368.7,GTSM1
-6166469200,TC 7.0 km,Corrida,2021-10-25,Noite,7.0,00:06:05,79,Puma Flyer Runner
-6171901988,TP 23.0 km,Pedalada,2021-10-27,Noite,23.0,21.15,304.7,GTSM1
-6181206814,TP 26.0 km,Pedalada,2021-10-29,Noite,26.0,25.02,283.6,GTSM1
-6184972365,TP 26.0 km,Pedalada,2021-10-29,Noite,26.0,20.92,311.9,GTSM1
-6208705648,TP 25.0 km,Pedalada,2021-11-03,Noite,25.0,22.23,311.1,GTSM1
-6222064466,TP 31.0 km,Pedalada,2021-11-06,Noite,31.0,21.84,221.9,GTSM1
-6231472812,TP 35.0 km,Pedalada,2021-11-08,Noite,35.0,22.11,273.3,GTSM1
-6245687885,TP 31.0 km,Pedalada,2021-11-11,Noite,31.0,18.13,204,GTSM1
-6249501063,TP 24.0 km,Pedalada,2021-11-12,Noite,24.0,20.85,319.2,GTSM1
-6254479573,TP 30.0 km,Pedalada,2021-11-14,Noite,30.0,17.28,188.3,GTSM1
-6272867221,TP 25.0 km,Pedalada,2021-11-18,Noite,25.0,20.02,356,GTSM1
-6280925632,TC 10.0 km,Corrida,2021-11-19,Noite,10.0,00:05:44,104.4,Puma Flyer Runner
-6311063141,TC 11.0 km,Corrida,2021-11-26,Noite,11.0,00:05:59,108,Puma Flyer Runner
-6372263824,TC 8.0 km,Corrida,2021-12-11,Noite,8.0,00:06:18,152.9,Puma Flyer Runner
-6385146959,TP 20.0 km,Pedalada,2021-12-15,Noite,20.0,22.43,226,GTSM1
-6385151933,TP 25.0 km,Pedalada,2021-12-10,Noite,25.0,17.99,361,GTSM1
-6396306874,TC 6.0 km,Corrida,2021-12-17,Noite,6.0,00:05:55,63.6,Puma Flyer Runner
-6414114414,TC 7.0 km,Corrida,2021-12-22,Manhã,7.0,00:06:13,50,Puma Flyer Runner
-6433217322,TC 7.0 km,Corrida,2021-12-27,Manhã,7.0,00:06:27,19.2,Puma Flyer Runner
-6458352363,TP 20.0 km,Pedalada,2022-01-01,Noite,20.0,25.06,167,GTSM1
-6540830048,TP 24.0 km,Pedalada,2022-01-17,Noite,24.0,24.82,264,GTSM1
-6587553377,TP 25.0 km,Pedalada,2022-01-27,Noite,25.0,25.03,237.7,GTSM1
-6637783400,TP 32.0 km,Pedalada,2022-02-05,Noite,32.0,22.21,332,GTSM1
-6673892742,TP 22.0 km,Pedalada,2022-02-12,Noite,22.0,23.84,265,GTSM1
-6689557595,TP 25.0 km,Pedalada,2022-02-15,Noite,25.0,25.11,282,GTSM1
-6699421495,TP 26.0 km,Pedalada,2022-02-17,Noite,26.0,23.33,366,GTSM1
-6708743720,TP 27.0 km,Pedalada,2022-02-19,Noite,27.0,24.1,294,GTSM1
-6714378807,TP 24.0 km,Pedalada,2022-02-21,Noite,24.0,25.27,261,GTSM1
-6724298420,TP 31.0 km,Pedalada,2022-02-22,Noite,31.0,17.92,308,GTSM1
-6738220664,TP 37.0 km,Pedalada,2022-02-25,Noite,37.0,24.71,410,GTSM1
-6743283576,TP 40.0 km,Pedalada,2022-02-26,Noite,40.0,22.5,393,GTSM1
-6769689623,TP 58.0 km,Pedalada,2022-03-03,Noite,58.0,22.21,435,GTSM1
-6779057038,TC 7.0 km,Corrida,2022-03-05,Noite,7.0,00:04:44,88.7,Puma Flyer Runner
-6785056124,TP 25.0 km,Pedalada,2022-03-06,Noite,25.0,24.35,252,GTSM1
-6795269750,TP 38.0 km,Pedalada,2022-03-08,Noite,38.0,19.17,354,GTSM1
-6814884813,TP 33.0 km,Pedalada,2022-03-12,Noite,33.0,22.62,291,GTSM1
-6831209624,TP 79.0 km,Pedalada,2022-03-15,Noite,79.0,22.64,558,GTSM1
-6841131999,TP 57.0 km,Pedalada,2022-03-17,Noite,57.0,24.51,385,GTSM1
-6845705448,TP 54.0 km,Pedalada,2022-03-18,Noite,54.0,23.11,539,GTSM1
-6852601502,TC 5.0 km,Corrida,2022-03-20,Manhã,5.0,00:05:52,55.3,Puma Flyer Runner
-6867676610,TP 40.0 km,Pedalada,2022-03-22,Noite,40.0,20.14,417,GTSM1
-6873063962,TP 30.0 km,Pedalada,2022-03-24,Noite,30.0,29.23,245,GTSM1
-6878346701,TP 55.0 km,Pedalada,2022-03-24,Noite,55.0,20.29,595,GTSM1
-6882882043,TP 49.0 km,Pedalada,2022-03-25,Noite,49.0,19.3,442,GTSM1
-6892576968,TP 118.0 km,Pedalada,2022-03-27,Manhã,118.0,25.86,622,GTSM1
-6904492238,TP 43.0 km,Pedalada,2022-03-29,Noite,43.0,29.18,263,GTSM1
-6910756946,TC 5.0 km,Corrida,2022-03-31,Manhã,5.0,00:05:12,55.8,Puma Flyer Runner
-6922869755,TP 35.0 km,Pedalada,2022-04-03,Noite,35.0,27.04,316,GTSM1
-6928307904,TP 40.0 km,Pedalada,2022-04-03,Noite,40.0,28.1,210,GTSM1
-6947846912,TP 75.0 km,Pedalada,2022-04-07,Noite,75.0,22.24,496,Show Gravel
-6951615915,TC 10.0 km,Corrida,2022-04-08,Noite,10.0,00:05:50,105.1,Puma Flyer Runner
-6956791709,TP 43.0 km,Pedalada,2022-04-09,Noite,43.0,25.14,263,Show Gravel
-6967724386,TP 71.0 km,Pedalada,2022-04-11,Noite,71.0,24.24,494,Show Gravel
-6977552161,TC 7.0 km,Corrida,2022-04-13,Noite,7.0,00:05:16,78.5,Puma Flyer Runner
-6985581534,TP 73.0 km,Pedalada,2022-04-15,Manhã,73.0,24.59,482,Show Gravel
-6993619257,TP 40.0 km,Pedalada,2022-04-16,Noite,40.0,28.64,223,Show Gravel
-7004880384,TP 40.0 km,Pedalada,2022-04-18,Noite,40.0,18.26,696,Show Gravel
-7018015185,TP 105.0 km,Pedalada,2022-04-21,Manhã,105.0,28.01,1288,Show Gravel
-7024978629,TC 5.0 km,Corrida,2022-04-22,Noite,5.0,00:05:28,78.6,Puma Flyer Runner
-7034469000,TP 89.0 km,Pedalada,2022-04-24,Manhã,89.0,23.44,965,Show Gravel
-7047039121,TP 40.0 km,Pedalada,2022-04-26,Noite,40.0,30.42,201,Show Gravel
-7051644340,TC 8.0 km,Corrida,2022-04-27,Noite,8.0,00:05:39,103.8,Puma Flyer Runner
-7057766550,TP 68.0 km,Pedalada,2022-04-28,Noite,68.0,23.96,490,Show Gravel
-7067485949,TP 50.0 km,Pedalada,2022-04-30,Noite,50.0,30.17,232,Show Gravel
-7078622147,TP 42.0 km,Pedalada,2022-05-02,Noite,42.0,30.17,184,Show Gravel
-7084090280,TC 8.0 km,Corrida,2022-05-03,Noite,8.0,00:05:22,90.1,Puma Flyer Runner
-7095334021,TP 49.0 km,Pedalada,2022-05-05,Noite,49.0,21.21,422,Show Gravel
-7107472500,TP 60.0 km,Pedalada,2022-05-08,Manhã,60.0,29.54,325,Show Gravel
-7116441531,TP 36.0 km,Pedalada,2022-05-09,Noite,36.0,20.68,603,Show Gravel
-7133041925,TC 6.0 km,Corrida,2022-05-12,Noite,6.0,00:04:58,46.1,Puma Flyer Runner
-7143804076,TP 50.0 km,Pedalada,2022-05-14,Noite,50.0,29.37,206,Show Gravel
-7149852786,TP 53.0 km,Pedalada,2022-05-15,Tarde,53.0,21.69,449,Show Gravel
-7154985539,TP 53.0 km,Pedalada,2022-05-16,Noite,53.0,24.61,283,Show Gravel
-7171782207,TP 48.0 km,Pedalada,2022-05-19,Noite,48.0,23.16,284,Show Gravel
-7181683841,TP 40.0 km,Pedalada,2022-05-21,Noite,40.0,26.43,135,Show Gravel
-7186620442,TC 6.0 km,Corrida,2022-05-22,Tarde,6.0,00:05:50,158.4,Puma Flyer Runner
-7192850658,TP 68.0 km,Pedalada,2022-05-23,Noite,68.0,26.56,411,Show Gravel
-7213412683,TP 41.0 km,Pedalada,2022-05-27,Noite,41.0,28.0,147,Show Gravel
-7223360320,TP 91.0 km,Pedalada,2022-05-29,Manhã,91.0,21.44,1064,Show Gravel
-7245924525,TP 46.0 km,Pedalada,2022-06-02,Noite,46.0,29.36,139,Show Gravel
-7250762143,TP 57.0 km,Pedalada,2022-06-03,Noite,57.0,24.36,237,Show Gravel
-7256228912,TP 21.0 km,Pedalada,2022-06-04,Noite,21.0,23.03,387,Show Gravel
-7261184183,TP 28.0 km,Pedalada,2022-06-05,Noite,28.0,27.95,319,Show Gravel
-7268928122,TC 6.0 km,Corrida,2022-06-07,Manhã,6.0,00:04:40,53.1,Puma Flyer Runner
-7274565940,TC 7.0 km,Corrida,2022-06-08,Manhã,7.0,00:05:18,52.1,Puma Flyer Runner
-7284926825,TC 8.0 km,Corrida,2022-06-10,Manhã,8.0,00:04:58,67.6,Puma Flyer Runner
-7291263633,TP 24.0 km,Pedalada,2022-06-11,Tarde,24.0,19.63,145.9,Show Gravel
-7306506871,TC 8.0 km,Corrida,2022-06-14,Manhã,8.0,00:05:23,36.7,Puma Flyer Runner
-7312131191,TC 6.0 km,Corrida,2022-06-15,Manhã,6.0,00:05:21,49.3,Puma Flyer Runner
-7319689742,TP 44.0 km,Pedalada,2022-06-16,Tarde,44.0,22.06,410,Show Gravel
-7324011220,TP 57.0 km,Pedalada,2022-06-16,Noite,57.0,21.93,465,Show Gravel
-7330851590,TP 89.0 km,Pedalada,2022-06-18,Tarde,89.0,24.25,790,Show Gravel
-7335357426,TP 72.0 km,Pedalada,2022-06-19,Manhã,72.0,26.32,337,Show Gravel
-7353627904,TP 39.0 km,Pedalada,2022-06-22,Noite,39.0,18.87,656,Show Gravel
-7358965368,TP 61.0 km,Pedalada,2022-06-23,Noite,61.0,23.95,402,Show Gravel
-7379509733,TP 48.0 km,Pedalada,2022-06-27,Noite,48.0,20.76,851,Show Gravel
-7385304571,TP 69.0 km,Pedalada,2022-06-28,Noite,69.0,24.93,421,Show Gravel
-7395411817,TC 10.0 km,Corrida,2022-06-30,Noite,10.0,00:05:51,197.6,Puma Flyer Runner
-7416611768,TP 33.0 km,Pedalada,2022-07-04,Noite,33.0,30.16,65,Show Gravel
-7422428003,TP 65.0 km,Pedalada,2022-07-05,Noite,65.0,20.56,414,Show Gravel
-7427741644,TP 37.0 km,Pedalada,2022-07-06,Noite,37.0,16.97,607,Show Gravel
-7442945388,TC 7.0 km,Corrida,2022-07-09,Noite,7.0,00:05:13,63.6,Puma Flyer Runner
-7453580083,TC 10.0 km,Corrida,2022-07-11,Noite,10.0,00:05:34,125.2,Puma Flyer Runner
-7465215113,TP 36.0 km,Pedalada,2022-07-13,Noite,36.0,17.58,594.3,GTSM1
-7470806086,TP 60.0 km,Pedalada,2022-07-14,Noite,60.0,21.27,540,Show Gravel
-7485291995,TP 26.0 km,Pedalada,2022-07-17,Manhã,26.0,15.24,525,Show Gravel
-7485300833,TP 39.0 km,Pedalada,2022-07-17,Tarde,39.0,14.54,523,Show Gravel
-7491735973,TP 46.0 km,Pedalada,2022-07-18,Noite,46.0,21.4,357,Show Gravel
-7507900619,TP 67.0 km,Pedalada,2022-07-21,Noite,67.0,24.79,512,Show Gravel
-7523223978,TP 82.0 km,Pedalada,2022-07-24,Tarde,82.0,27.42,757,Show Gravel
-7529165410,TP 83.0 km,Pedalada,2022-07-25,Noite,83.0,20.49,502,Show Gravel
-7540428187,TP 39.0 km,Pedalada,2022-07-27,Noite,39.0,17.53,675,Show Gravel
-7545722924,TP 48.0 km,Pedalada,2022-07-28,Noite,48.0,27.4,134,Show Gravel
-7550457657,TC 11.0 km,Corrida,2022-07-29,Noite,11.0,00:05:27,111.9,Olympikus Corre 1 Corre 1
-7561407819,TP 134.0 km,Pedalada,2022-07-31,Manhã,134.0,20.09,1622,Show Gravel
-7566654477,TC 11.0 km,Corrida,2022-08-01,Noite,11.0,00:06:09,143,Olympikus Corre 1 Corre 1
-7573269058,TP 38.0 km,Pedalada,2022-08-02,Noite,38.0,16.79,654,Show Gravel
-7584673511,TP 48.0 km,Pedalada,2022-08-04,Noite,48.0,16.73,927,Show Gravel
-7595256575,TP 79.0 km,Pedalada,2022-08-06,Noite,79.0,20.34,1043,Show Gravel
-7600728343,TC 10.0 km,Corrida,2022-08-07,Noite,10.0,00:05:37,54.8,Olympikus Corre 1 Corre 1
-7605908239,TP 30.0 km,Pedalada,2022-08-08,Noite,30.0,24.91,371,Show Gravel
-7628392386,TP 44.0 km,Pedalada,2022-08-12,Noite,44.0,20.93,806,Show Gravel
-7636275376,TP 40.0 km,Pedalada,2022-08-14,Manhã,40.0,20.01,718,Show Gravel
-7645028942,TP 40.0 km,Pedalada,2022-08-15,Noite,40.0,28.46,106,Show Gravel
-7651020706,TP 52.0 km,Pedalada,2022-08-16,Noite,52.0,21.57,564,Show Gravel
-7656066040,TC 10.0 km,Corrida,2022-08-17,Noite,10.0,00:05:29,225.9,Olympikus Corre 1 Corre 1
-7661987702,TP 67.0 km,Pedalada,2022-08-18,Noite,67.0,22.24,504,Show Gravel
-7677183269,TP 51.0 km,Pedalada,2022-08-21,Tarde,51.0,25.6,433,Show Gravel
-7683921834,TP 72.0 km,Pedalada,2022-08-22,Noite,72.0,24.99,550,Show Gravel
-7695554753,TP 50.0 km,Pedalada,2022-08-24,Noite,50.0,26.27,140,Show Gravel
-7701181802,TP 55.0 km,Pedalada,2022-08-25,Noite,55.0,21.3,557,Show Gravel
-7705687729,TC 8.0 km,Corrida,2022-08-26,Noite,8.0,00:05:49,44.4,Olympikus Corre 1 Corre 1
-7716673672,TP 103.0 km,Pedalada,2022-08-28,Manhã,103.0,17.4,1989,Show Gravel
-7727991941,TC 10.0 km,Corrida,2022-08-30,Noite,10.0,00:05:15,93.2,Olympikus Corre 1 Corre 1
-7744764832,TP 64.0 km,Pedalada,2022-09-02,Noite,64.0,17.74,606,Show Gravel
-7761297273,TP 35.0 km,Pedalada,2022-09-05,Noite,35.0,24.97,205,Show Gravel
-7772338742,TC 6.0 km,Corrida,2022-09-07,Noite,6.0,00:05:15,52,Olympikus Corre 1 Corre 1
-7798889183,TP 40.0 km,Pedalada,2022-09-12,Noite,40.0,26.74,134,Show Gravel
-7825195423,TP 60.0 km,Pedalada,2022-09-17,Noite,60.0,26.66,423,Show Gravel
-7852329859,TP 69.0 km,Pedalada,2022-09-22,Noite,69.0,25.45,516,Show Gravel
-7887827762,TP 51.0 km,Pedalada,2022-09-29,Noite,51.0,26.26,289,Show Gravel
-7915047678,TP 45.0 km,Pedalada,2022-10-04,Noite,45.0,19.92,760,Show Gravel
-7918462425,TP 46.0 km,Pedalada,2022-10-05,Noite,46.0,20.4,633,Show Gravel
-7923241652,TP 45.0 km,Pedalada,2022-10-06,Noite,45.0,25.06,265,Show Gravel
-7944124857,TP 40.0 km,Pedalada,2022-10-10,Noite,40.0,27.87,166,Show Gravel
-7953490021,TP 111.0 km,Pedalada,2022-10-12,Manhã,111.0,23.08,2262.4,Show Gravel
-7979932440,TP 62.0 km,Pedalada,2022-10-17,Noite,62.0,22.83,486,Show Gravel
-7999168887,TP 30.0 km,Pedalada,2022-10-21,Noite,30.0,29.56,73,Show Gravel
-8008054128,TP 22.0 km,Pedalada,2022-10-23,Tarde,22.0,22.24,289.3,Show Gravel
-8008870152,TP 52.0 km,Pedalada,2022-10-23,Manhã,52.0,18.42,1060,Show Gravel
-8020044538,TP 46.0 km,Pedalada,2022-10-25,Noite,46.0,22.51,285,Show Gravel
-8029633938,TC 7.0 km,Corrida,2022-10-27,Noite,7.0,00:05:46,108.7,Olympikus Corre 1 Corre 1
-8043329035,TP 79.0 km,Pedalada,2022-10-30,Manhã,79.0,22.23,515,Show Gravel
-8050215439,TP 45.0 km,Pedalada,2022-10-31,Noite,45.0,28.9,184,Show Gravel
-8065195603,TP 64.0 km,Pedalada,2022-11-03,Noite,64.0,20.95,546,Show Gravel
-8079583249,TP 86.0 km,Pedalada,2022-11-06,Tarde,86.0,26.7,510,Show Gravel
-8084967693,TP 56.0 km,Pedalada,2022-11-07,Noite,56.0,22.09,372,Show Gravel
-8094917632,TP 46.0 km,Pedalada,2022-11-09,Noite,46.0,29.36,121,Show Gravel
-8094922129,TP 23.0 km,Pedalada,2022-11-10,Noite,23.0,21.84,232,Show Gravel
-8104155414,TP 65.0 km,Pedalada,2022-11-11,Noite,65.0,22.4,436,Show Gravel
-8123843609,TC 8.0 km,Corrida,2022-11-15,Noite,8.0,00:05:17,63.9,Olympikus Corre 1 Corre 1
-8128904502,TP 25.0 km,Pedalada,2022-11-13,Manhã,25.0,24.17,287,Show Gravel
-8128923988,TP 30.0 km,Pedalada,2022-11-16,Noite,30.0,31.46,61,Show Gravel
-8137126782,TP 56.0 km,Pedalada,2022-11-18,Noite,56.0,23.48,364,Show Gravel
-8145562155,TP 101.0 km,Pedalada,2022-11-20,Manhã,101.0,21.73,2640.6,Show Gravel
-8150732078,TC 6.0 km,Corrida,2022-11-21,Noite,6.0,00:05:03,50.1,Olympikus Corre 1 Corre 1
-8156812715,TC 5.0 km,Corrida,2022-11-23,Manhã,5.0,00:04:59,24.2,Olympikus Corre 1 Corre 1
-8178350991,TP 49.0 km,Pedalada,2022-11-26,Noite,49.0,28.58,147,Show Gravel
-8212512230,TC 9.0 km,Corrida,2022-12-05,Noite,9.0,00:05:48,157.7,Olympikus Corre 1 Corre 1
-8229701915,TC 8.0 km,Corrida,2022-12-10,Noite,8.0,00:05:31,96.3,Olympikus Corre 1 Corre 1
-8256526015,TC 7.0 km,Corrida,2022-12-16,Noite,7.0,00:05:33,11.7,Olympikus Corre 1 Corre 1
-8272604365,TC 6.0 km,Corrida,2022-12-20,Noite,6.0,00:05:30,11.3,Olympikus Corre 1 Corre 1
-8283890201,TP 26.0 km,Pedalada,2022-12-02,Noite,26.0,25.72,148,Show Gravel
-8283898250,TP 30.0 km,Pedalada,2022-12-23,Noite,30.0,30.63,83,Show Gravel
-8291082624,TC 6.0 km,Corrida,2022-12-25,Noite,6.0,00:06:09,63.8,Olympikus Corre 1 Corre 1
-8295400408,TP 31.0 km,Pedalada,2022-12-26,Noite,31.0,31.02,67,Show Gravel
-8295412346,TP 32.0 km,Pedalada,2022-12-26,Noite,32.0,23.38,168,Show Gravel
-8299912149,TP 53.0 km,Pedalada,2022-12-27,Noite,53.0,27.68,171,Show Gravel
-8307858969,TP 45.0 km,Pedalada,2022-12-29,Tarde,45.0,29.5,141,Show Gravel
-8316675230,TP 58.0 km,Pedalada,2022-12-31,Manhã,58.0,28.95,160,Show Gravel
-8322969103,TC 6.0 km,Corrida,2023-01-01,Noite,6.0,00:05:34,43.5,Olympikus Corre 1 Corre 1
-8329090586,TP 55.0 km,Pedalada,2023-01-02,Noite,55.0,19.26,294,Show Gravel
-8355821325,TP 63.0 km,Pedalada,2023-01-07,Noite,63.0,21.97,479,Show Gravel
-8366726373,TP 41.0 km,Pedalada,2023-01-09,Noite,41.0,29.43,91,Show Gravel
-8404215076,TP 38.0 km,Pedalada,2023-01-16,Noite,38.0,18.53,605,Show Gravel
-8409773129,TP 29.0 km,Pedalada,2023-01-17,Noite,29.0,29.87,53,Show Gravel
-8447567342,TC 7.0 km,Corrida,2023-01-24,Noite,7.0,00:05:39,108.3,Olympikus Corre 1 Corre 1
-8458041403,TP 50.0 km,Pedalada,2023-01-26,Noite,50.0,24.33,277,Orbea Aqua
-8490966031,TP 24.0 km,Pedalada,2023-01-31,Noite,24.0,23.4,123,Orbea Aqua
-8491039719,TP 27.0 km,Pedalada,2023-02-01,Noite,27.0,30.44,69,Orbea Aqua
-8512838989,TP 45.0 km,Pedalada,2023-02-05,Noite,45.0,29.67,112,Orbea Aqua
-8529055516,TC 6.0 km,Corrida,2023-02-08,Noite,6.0,00:05:44,107.9,Olympikus Corre 1 Corre 1
-8564227770,TC 5.0 km,Corrida,2023-02-15,Manhã,5.0,00:06:06,39.8,Olympikus Corre 1 Corre 1
-8600880264,TC 6.0 km,Corrida,2023-02-21,Noite,6.0,00:05:54,43.8,Olympikus Corre 1 Corre 1
-8633751607,TP 29.0 km,Pedalada,2023-02-27,Noite,29.0,15.18,133.7,Show Gravel
-8651759679,TC 6.0 km,Corrida,2023-03-03,Manhã,6.0,00:05:11,12.8,Olympikus Corre 1 Corre 1
-8672720719,TP 39.0 km,Pedalada,2023-03-06,Noite,39.0,27.08,111,Show Gravel
-8710077755,TC 5.0 km,Corrida,2023-03-13,Noite,5.0,00:05:29,74.4,Olympikus Corre 1 Corre 1
-8727211061,TP 50.0 km,Pedalada,2023-03-16,Noite,50.0,25.38,259,Show Gravel
-8731757890,TC 6.0 km,Corrida,2023-03-17,Noite,6.0,00:05:27,64.4,Olympikus Corre 1 Corre 1
-8755812593,TP 44.0 km,Pedalada,2023-03-21,Noite,44.0,21.21,204,Show Gravel
-8767149772,TP 72.0 km,Pedalada,2023-03-23,Noite,72.0,23.66,462,Show Gravel
-8788469598,TC 7.0 km,Corrida,2023-03-27,Noite,7.0,00:05:40,98.4,Olympikus Corre 1 Corre 1
-8805962466,TP 40.0 km,Pedalada,2023-03-30,Noite,40.0,28.07,125,Show Gravel
-8828076971,TP 36.0 km,Pedalada,2023-04-03,Noite,36.0,30.22,59,Show Gravel
-8844993129,TC 6.0 km,Corrida,2023-04-06,Noite,6.0,00:05:36,92.2,Olympikus Corre 1 Corre 1
-8869276996,TP 31.0 km,Pedalada,2023-04-10,Noite,31.0,28.2,64,Show Gravel
-8891763700,TP 30.0 km,Pedalada,2023-04-14,Noite,30.0,30.26,46,Show Gravel
-8909963689,TP 56.0 km,Pedalada,2023-04-17,Noite,56.0,23.82,275,Show Gravel
-8933099960,TP 108.0 km,Pedalada,2023-04-21,Manhã,108.0,23.9,1333,Show Gravel
-8951196153,TC 5.0 km,Corrida,2023-04-24,Noite,5.0,00:05:13,59.6,Olympikus Corre 1 Corre 1
-8957662252,TP 30.0 km,Pedalada,2023-04-25,Noite,30.0,27.6,107,Show Gravel
-8957662291,TP 21.0 km,Pedalada,2023-04-25,Noite,21.0,20.95,151,Show Gravel
-8993511557,TP 27.0 km,Pedalada,2023-05-01,Tarde,27.0,21.54,145,Show Gravel
-8993533968,TP 34.0 km,Pedalada,2023-05-01,Noite,34.0,29.62,57,Show Gravel
-9002401149,TC 5.0 km,Corrida,2023-05-03,Tarde,5.0,00:05:08,42.6,Olympikus Corre 1 Corre 1
-9017807188,TC 8.0 km,Corrida,2023-05-05,Noite,8.0,00:06:22,158.7,Olympikus Corre 1 Corre 1
-9030069630,TC 6.0 km,Corrida,2023-05-07,Noite,6.0,00:05:23,55,Olympikus Corre 1 Corre 1
-9036308773,TC 5.0 km,Corrida,2023-05-08,Noite,5.0,00:05:49,24.4,Olympikus Corre 1 Corre 1
-9042514525,TC 6.0 km,Corrida,2023-05-09,Noite,6.0,00:05:29,63.3,Puma Flyer Runner
-9055523147,TP 75.0 km,Pedalada,2023-05-11,Noite,75.0,23.18,529,Show Gravel
-9063030647,TP 63.0 km,Pedalada,2023-05-13,Manhã,63.0,33.57,498,Show Gravel
-9075483379,TP 47.0 km,Pedalada,2023-05-15,Manhã,47.0,27.77,170,Show Gravel
-9081567200,TP 103.0 km,Pedalada,2023-05-16,Manhã,103.0,23.58,1689,Show Gravel
-9093874995,TP 78.0 km,Pedalada,2023-05-18,Manhã,78.0,21.37,1722,Show Gravel
-9108055867,TP 110.0 km,Pedalada,2023-05-20,Manhã,110.0,21.65,1263,Show Gravel
-9235243424,TC 5.0 km,Corrida,2023-06-09,Noite,5.0,00:05:43,41.8,Puma Flyer Runner
-9254415955,TP 23.0 km,Pedalada,2023-06-12,Noite,23.0,28.31,76,Show Gravel
-9260680214,TC 5.0 km,Corrida,2023-06-13,Noite,5.0,00:05:38,59.5,Olympikus Corre 1 Corre 1
-9273220391,TC 5.0 km,Corrida,2023-06-15,Noite,5.0,00:05:35,52.7,Olympikus Corre 1 Corre 1
-9298182524,TP 40.0 km,Pedalada,2023-06-19,Noite,40.0,22.55,278,Show Gravel
-9342864046,TP 50.0 km,Pedalada,2023-06-26,Noite,50.0,23.38,299,Show Gravel
-9346997038,TC 7.0 km,Corrida,2023-06-27,Noite,7.0,00:06:07,146.7,Olympikus Corre 1 Corre 1
-9359081039,TC 6.0 km,Corrida,2023-06-29,Noite,6.0,00:05:40,25.4,Olympikus Corre 1 Corre 1
-9364889119,TC 6.0 km,Corrida,2023-06-30,Noite,6.0,00:05:32,26.8,Olympikus Corre 1 Corre 1
-9377379833,TP 50.0 km,Pedalada,2023-07-02,Tarde,50.0,14.94,234.6,Show Gravel
-9383264388,TC 6.0 km,Corrida,2023-07-03,Noite,6.0,00:05:33,44,Olympikus Corre 1 Corre 1
-9408130324,TC 6.0 km,Corrida,2023-07-07,Noite,6.0,00:05:35,52.7,Olympikus Corre 1 Corre 1
-9426871643,TC 6.0 km,Corrida,2023-07-10,Noite,6.0,00:05:36,44.9,Olympikus Corre 1 Corre 1
-9446354092,TC 6.0 km,Corrida,2023-07-13,Noite,6.0,00:05:27,70.7,Olympikus Corre 1 Corre 1
-9521588799,TC 5.0 km,Corrida,2023-07-25,Noite,5.0,00:05:19,33.8,Olympikus Corre 1 Corre 1
-9552066320,TP 30.0 km,Pedalada,2023-07-30,Tarde,30.0,24.48,420,Show Gravel
-9596867397,TP 33.0 km,Pedalada,2023-08-06,Noite,33.0,22.3,268,Show Gravel
-9603442149,TP 30.0 km,Pedalada,2023-08-07,Noite,30.0,28.97,109,Show Gravel
-9675454678,TP 20.0 km,Pedalada,2023-08-18,Noite,20.0,16.61,275,Show Gravel
-9732950381,TP 110.0 km,Pedalada,2023-08-27,Manhã,110.0,22.13,1427,Show Gravel
-9778685381,TC 5.0 km,Corrida,2023-09-03,Noite,5.0,00:06:00,63.7,Olympikus Corre 1 Corre 1
-9810583336,TC 6.0 km,Corrida,2023-09-08,Noite,6.0,00:05:45,69.6,Olympikus Corre 1 Corre 1
-9876770079,TP 37.0 km,Pedalada,2023-09-18,Noite,37.0,18.45,236,Show Gravel
-9890224876,TP 44.0 km,Pedalada,2023-09-20,Noite,44.0,17.74,730,Show Gravel
-9907224568,TC 6.0 km,Corrida,2023-09-23,Noite,6.0,00:05:35,42.1,Olympikus Corre 1 Corre 1
-9939700346,TC 5.0 km,Corrida,2023-09-28,Noite,5.0,00:05:54,125.8,Olympikus Corre 1 Corre 1
-9951658030,TC 6.0 km,Corrida,2023-09-30,Noite,6.0,00:05:25,61.1,Olympikus Corre 1 Corre 1
-9962605845,TP 34.0 km,Pedalada,2023-10-02,Tarde,34.0,24.33,280,Show Gravel
-9990587682,TP 35.0 km,Pedalada,2023-10-06,Noite,35.0,15.96,504,Show Gravel
-10009131444,TC 8.0 km,Corrida,2023-10-09,Noite,8.0,00:05:46,105.2,Olympikus Corre 1 Corre 1
-10045526370,TP 54.0 km,Pedalada,2023-10-15,Tarde,54.0,23.31,376,Show Gravel
-10086721721,TC 8.0 km,Corrida,2023-10-22,Noite,8.0,00:05:45,86.3,Olympikus Corre 1 Corre 1
-10093107942,TP 22.0 km,Pedalada,2023-10-23,Noite,22.0,21.14,364,Show Gravel
-10127897965,TC 6.0 km,Corrida,2023-10-29,Noite,6.0,00:05:44,55.1,Olympikus Corre 1 Corre 1
-10133110796,TC 4.0 km,Corrida,2023-10-30,Noite,4.0,00:05:35,24.4,Olympikus Corre 1 Corre 1
-10167110041,TP 48.0 km,Pedalada,2023-11-05,Tarde,48.0,22.52,402,Show Gravel
-10208922351,TC 5.0 km,Corrida,2023-11-12,Noite,5.0,00:05:33,46.6,Olympikus Corre 1 Corre 1
-10208922372,TC 6.0 km,Corrida,2023-11-06,Noite,6.0,00:05:16,27,Olympikus Corre 1 Corre 1
-10238226253,TP 30.0 km,Pedalada,2023-11-17,Noite,30.0,29.93,13.2,Show Gravel
-10250605996,TP 31.0 km,Pedalada,2023-11-20,Manhã,31.0,34.02,116,Show Gravel
-10250646230,TP 36.0 km,Pedalada,2023-11-20,Manhã,36.0,25.17,203,Show Gravel
-10432146951,TC 5.0 km,Corrida,2023-12-24,Noite,5.0,00:05:34,16.7,Olympikus Corre 1 Corre 1
-10442282943,TC 5.0 km,Corrida,2023-12-25,Noite,5.0,00:05:35,17,Olympikus Corre 1 Corre 1
-10442282982,TP 32.0 km,Pedalada,2023-12-26,Noite,32.0,17.61,424.9,Show Gravel
-10459022330,TC 6.0 km,Corrida,2023-12-29,Noite,6.0,00:05:40,31.2,Olympikus Corre 1 Corre 1
-10466721054,TC 12.0 km,Corrida,2023-12-31,Manhã,12.0,00:05:57,165.6,Olympikus Corre 1 Corre 1
-10491594401,TC 6.0 km,Corrida,2024-01-03,Noite,6.0,00:05:32,30.6,Olympikus Corre 1 Corre 1
-10498206191,TC 15.0 km,Corrida,2024-01-05,Manhã,15.0,00:06:39,72,Olympikus Corre 1 Corre 1
-10572442702,TC 4.0 km,Corrida,2024-01-16,Noite,4.0,00:06:01,32.3,Olympikus Corre 1 Corre 1
-10572492983,TC 5.0 km,Corrida,2024-01-07,Noite,5.0,00:05:53,18.8,Olympikus Corre 1 Corre 1
-10600260073,TC 7.0 km,Corrida,2024-01-21,Manhã,7.0,00:05:59,123.2,Olympikus Corre 1 Corre 1
-10743780684,TC 5.0 km,Corrida,2024-02-11,Noite,5.0,00:05:42,39.9,Olympikus Corre 1 Corre 1
-10771985659,TC 5.0 km,Corrida,2024-02-13,Noite,5.0,00:05:43,25.6,Olympikus Corre 1 Corre 1
-10829832390,TC 5.0 km,Corrida,2024-02-18,Noite,5.0,00:05:53,37.4,Olympikus Corre 1 Corre 1
-10837677591,TC 4.0 km,Corrida,2024-02-25,Noite,4.0,00:05:39,54.1,Olympikus Corre 1 Corre 1
-10843522075,TC 4.0 km,Corrida,2024-02-26,Noite,4.0,00:05:37,20.3,Olympikus Corre 1 Corre 1
-10858055501,TC 5.0 km,Corrida,2024-02-28,Noite,5.0,00:06:07,129,Olympikus Corre 1 Corre 1
-10891492167,TP 35.0 km,Pedalada,2023-12-22,Noite,35.0,21.31,450,Show Gravel
-10891503394,TP 26.0 km,Pedalada,2024-03-04,Noite,26.0,21.07,387,Show Gravel
-10919184735,TC 5.0 km,Corrida,2024-03-03,Noite,5.0,00:05:45,46,Olympikus Corre 1 Corre 1
-10933727665,TP 25.0 km,Pedalada,2024-03-10,Noite,25.0,19.65,340.5,Show Gravel
-10947453416,TP 49.0 km,Pedalada,2024-03-12,Noite,49.0,21.66,312,Show Gravel
-11038200569,TC 6.0 km,Corrida,2024-03-17,Noite,6.0,00:05:37,57.3,Olympikus Corre 1 Corre 1
-11038200642,TC 5.0 km,Corrida,2024-03-24,Noite,5.0,00:05:40,43.9,Olympikus Corre 1 Corre 1
-11052044805,TC 5.0 km,Corrida,2024-03-27,Noite,5.0,00:06:05,123.5,Olympikus Corre 1 Corre 1
-11078930535,TC 5.0 km,Corrida,2024-03-29,Noite,5.0,00:05:40,99.4,Olympikus Corre 1 Corre 1
-11078930554,TC 6.0 km,Corrida,2024-03-31,Noite,6.0,00:05:47,59.3,Adidas Duramo rc
-11086720872,TC 6.0 km,Corrida,2024-04-01,Noite,6.0,00:05:44,54.2,Adidas Duramo rc
-11190523684,TC 5.0 km,Corrida,2024-04-15,Noite,5.0,00:05:25,44,Adidas Duramo rc
-11190523858,TC 4.0 km,Corrida,2024-04-06,Noite,4.0,00:05:14,26.3,Adidas Duramo rc
-11190523883,TC 5.0 km,Corrida,2024-04-14,Noite,5.0,00:05:21,41.5,Adidas Duramo rc
-11235351927,TC 5.0 km,Corrida,2024-04-21,Noite,5.0,00:05:22,44.3,Adidas Duramo rc
-11275479069,TC 9.0 km,Corrida,2024-04-26,Noite,9.0,00:05:59,152.7,Adidas Duramo rc
-11294367657,TC 6.0 km,Corrida,2024-04-29,Noite,6.0,00:05:43,34.8,Adidas Duramo rc
-11302183190,TC 6.0 km,Corrida,2024-04-30,Noite,6.0,00:05:54,16.6,Adidas Duramo rc
-11312160408,TP 31.0 km,Pedalada,2024-05-01,Noite,31.0,16.7,444,Show Gravel
-11325896448,TP 25.0 km,Pedalada,2024-05-03,Noite,25.0,25.36,311,Show Gravel
-11325903046,TP 25.0 km,Pedalada,2024-05-03,Noite,25.0,25.79,274.4,Show Gravel
-11349280731,TP 25.0 km,Pedalada,2024-05-06,Noite,25.0,27.23,288,Show Gravel
-11380874780,TP 23.0 km,Pedalada,2024-05-10,Noite,23.0,22.75,404,Show Gravel
-11396939720,TC 6.0 km,Corrida,2024-05-12,Noite,6.0,00:05:15,26.4,Adidas Duramo rc
-11405247656,TP 36.0 km,Pedalada,2024-05-13,Noite,36.0,35.76,134,Show Gravel
-11405252181,TP 20.0 km,Pedalada,2024-05-14,Noite,20.0,25.78,241,Show Gravel
-11420617207,TP 24.0 km,Pedalada,2024-05-15,Noite,24.0,22.44,346,Show Gravel
-11442213679,TC 5.0 km,Corrida,2024-05-18,Noite,5.0,00:05:21,37.3,Adidas Duramo rc
-11451178139,TC 6.0 km,Corrida,2024-05-19,Noite,6.0,00:05:23,67.2,Adidas Duramo rc
-11459851723,TP 60.0 km,Pedalada,2024-05-20,Noite,60.0,30.33,495,Show Gravel
-11467158634,TC 5.0 km,Corrida,2024-05-21,Noite,5.0,00:05:24,37.2,Adidas Duramo rc
-11489597019,TC 5.0 km,Corrida,2024-05-24,Noite,5.0,00:05:22,49.5,Adidas Duramo rc
-11505732193,TC 7.0 km,Corrida,2024-05-26,Noite,7.0,00:05:24,45.8,Adidas Duramo rc
-11521154400,TP 54.0 km,Pedalada,2024-05-28,Noite,54.0,27.02,498,Show Gravel
-11543066369,TC 8.0 km,Corrida,2024-05-31,Noite,8.0,00:05:23,53.3,Adidas Duramo rc
-11562227597,TC 7.0 km,Corrida,2024-06-03,Manhã,7.0,00:05:24,55,Adidas Duramo rc
-11570215867,TC 8.0 km,Corrida,2024-06-04,Manhã,8.0,00:05:31,38.8,Adidas Duramo rc
-11587096617,TC 6.0 km,Corrida,2024-06-06,Manhã,6.0,00:05:47,65.8,Adidas Duramo rc
-11607319829,TC 4.0 km,Corrida,2024-06-08,Noite,4.0,00:05:07,51.2,Adidas Duramo rc
-11618080865,TC 6.0 km,Corrida,2024-06-10,Manhã,6.0,00:05:34,28.1,Adidas Duramo rc
-11630729805,TC 4.0 km,Corrida,2024-06-11,Noite,4.0,00:05:56,13.3,Adidas Duramo rc
-11638856373,TP 47.0 km,Pedalada,2024-06-12,Noite,47.0,22.5,512.8,Show Gravel
-11653175402,TP 28.0 km,Pedalada,2024-06-14,Noite,28.0,29.06,7.2,Show Gravel
-11653457308,TP 61.0 km,Pedalada,2024-06-14,Noite,61.0,23.96,376,Show Gravel
-11660950831,TC 6.0 km,Corrida,2024-06-15,Noite,6.0,00:05:57,46.2,Adidas Duramo rc
-11685498839,TP 58.0 km,Pedalada,2024-06-18,Noite,58.0,24.89,369,Show Gravel
-11685575619,TP 23.0 km,Pedalada,2024-06-18,Noite,23.0,30.17,7.6,Show Gravel
-11708204153,TC 5.0 km,Corrida,2024-06-21,Noite,5.0,00:05:25,37.2,Adidas Duramo rc
-11708204203,TC 5.0 km,Corrida,2024-06-20,Noite,5.0,00:05:20,28.8,Adidas Duramo rc
-11723935734,TC 8.0 km,Corrida,2024-06-23,Noite,8.0,00:05:20,49,Adidas Duramo rc
-11731770698,TP 54.0 km,Pedalada,2024-06-24,Noite,54.0,22.33,458,Show Gravel
-11740010159,TC 8.0 km,Corrida,2024-06-25,Noite,8.0,00:05:26,57.2,PUMA Velocity Nitro 3
-11749066622,TP 47.0 km,Pedalada,2024-06-26,Noite,47.0,17.23,442,Show Gravel
-11762933075,TP 30.0 km,Pedalada,2024-06-28,Noite,30.0,30.32,12.7,Show Gravel
-11762933103,TC 5.0 km,Corrida,2024-06-27,Noite,5.0,00:05:15,34.9,PUMA Velocity Nitro 3
-11763338730,TP 72.0 km,Pedalada,2024-06-28,Noite,72.0,24.18,437,Show Gravel
-11785983856,TC 10.0 km,Corrida,2024-07-01,Noite,10.0,00:05:28,86,PUMA Velocity Nitro 3
-11817559718,TC 10.0 km,Corrida,2024-07-05,Noite,10.0,00:05:53,167.5,PUMA Velocity Nitro 3
-11833380312,TC 10.0 km,Corrida,2024-07-07,Noite,10.0,00:05:54,78.7,PUMA Velocity Nitro 3
-11857964508,TC 8.0 km,Corrida,2024-07-10,Noite,8.0,00:05:34,65.4,PUMA Velocity Nitro 3
-11897891729,TP 45.0 km,Pedalada,2024-07-15,Noite,45.0,17.28,499,Show Gravel
-11930865784,TC 7.0 km,Corrida,2024-07-19,Noite,7.0,00:06:38,68.8,PUMA Velocity Nitro 3
-11947715527,TC 8.0 km,Corrida,2024-07-21,Noite,8.0,00:05:28,54.6,Adidas Duramo rc
-11955399794,TC 8.0 km,Corrida,2024-07-22,Noite,8.0,00:05:30,49.7,PUMA Velocity Nitro 3
-11973356232,TC 9.0 km,Corrida,2024-07-24,Noite,9.0,00:05:31,67.5,PUMA Velocity Nitro 3
-11989212249,TC 10.0 km,Corrida,2024-07-26,Noite,10.0,00:05:43,167.5,PUMA Velocity Nitro 3
-12014671479,TP 21.0 km,Pedalada,2024-07-29,Noite,21.0,12.34,371,Show Gravel
-12046808856,TC 10.0 km,Corrida,2024-08-02,Noite,10.0,00:05:40,73.5,PUMA Velocity Nitro 3
-12046808927,TC 10.0 km,Corrida,2024-07-28,Noite,10.0,00:06:12,84,PUMA Velocity Nitro 3
-12046808975,TC 8.0 km,Corrida,2024-07-30,Noite,8.0,00:05:43,54.4,PUMA Velocity Nitro 3
-12072161588,TC 8.0 km,Corrida,2024-08-05,Noite,8.0,00:05:39,101,PUMA Velocity Nitro 3
-12090368530,TC 8.0 km,Corrida,2024-08-07,Noite,8.0,00:05:25,63.4,PUMA Velocity Nitro 3
-12098659207,TC 8.0 km,Corrida,2024-08-08,Noite,8.0,00:05:32,62,PUMA Velocity Nitro 3
-12106341317,TC 8.0 km,Corrida,2024-08-09,Noite,8.0,00:05:11,59.6,PUMA Velocity Nitro 3
-12114612053,TC 8.0 km,Corrida,2024-08-10,Noite,8.0,00:05:42,65.4,PUMA Velocity Nitro 3
-12123798642,TC 8.0 km,Corrida,2024-08-11,Noite,8.0,00:05:47,52.4,PUMA Velocity Nitro 3
-12131880314,TC 8.0 km,Corrida,2024-08-12,Noite,8.0,00:05:37,138.1,PUMA Velocity Nitro 3
-12140914418,TC 8.0 km,Corrida,2024-08-13,Noite,8.0,00:05:12,61,PUMA Velocity Nitro 3
-12165618096,TC 6.0 km,Corrida,2024-08-16,Noite,6.0,00:05:34,52.3,PUMA Velocity Nitro 3
-12183629895,TC 10.0 km,Corrida,2024-08-18,Noite,10.0,00:05:30,53.6,PUMA Velocity Nitro 3
-12191336123,TP 28.0 km,Pedalada,2024-08-19,Noite,28.0,20.92,457,Show Gravel
-12200494292,TC 8.0 km,Corrida,2024-08-20,Noite,8.0,00:06:17,73.6,PUMA Velocity Nitro 3
-12209506165,TC 8.0 km,Corrida,2024-08-21,Noite,8.0,00:05:33,65.4,PUMA Velocity Nitro 3
-12218380182,TC 6.0 km,Corrida,2024-08-22,Noite,6.0,00:05:17,22.8,PUMA Velocity Nitro 3
-12260624784,TC 10.0 km,Corrida,2024-08-27,Noite,10.0,00:05:31,82.6,PUMA Velocity Nitro 3
-12260624936,TC 10.0 km,Corrida,2024-08-26,Noite,10.0,00:05:57,68.6,PUMA Velocity Nitro 3
-12284933279,TC 9.0 km,Corrida,2024-08-29,Noite,9.0,00:05:52,76.3,PUMA Velocity Nitro 3
-12293450212,TC 8.0 km,Corrida,2024-08-31,Noite,8.0,00:05:25,84.7,PUMA Velocity Nitro 3
-12301887007,TC 12.0 km,Corrida,2024-09-01,Noite,12.0,00:05:42,128.1,PUMA Velocity Nitro 3
-12345844441,TC 6.0 km,Corrida,2024-09-02,Noite,6.0,00:07:16,24.3,Puma Flyer Runner
-12345844475,TC 10.0 km,Corrida,2024-09-03,Noite,10.0,00:06:00,123.2,PUMA Velocity Nitro 3
-12345844548,TC 6.0 km,Corrida,2024-09-04,Noite,6.0,00:05:34,61.3,PUMA Velocity Nitro 3
-12345844592,TC 8.0 km,Corrida,2024-09-05,Noite,8.0,00:05:30,66.4,PUMA Velocity Nitro 3
-12362141790,TC 3.0 km,Corrida,2024-09-08,Noite,3.0,00:06:02,38.9,PUMA Velocity Nitro 3
-12362141884,TC 8.0 km,Corrida,2024-09-08,Noite,8.0,00:05:35,46.4,PUMA Velocity Nitro 3
-12370738192,TC 7.0 km,Corrida,2024-09-09,Noite,7.0,00:08:33,61.3,PUMA Velocity Nitro 3
-12379414701,TC 8.0 km,Corrida,2024-09-10,Noite,8.0,00:05:21,51.5,PUMA Velocity Nitro 3
-12387779224,TP 23.0 km,Pedalada,2024-09-11,Noite,23.0,21.36,381,Show Gravel
-12402892395,TC 11.0 km,Corrida,2024-09-13,Noite,11.0,00:05:35,71.4,PUMA Velocity Nitro 3
-12411749139,TC 8.0 km,Corrida,2024-09-14,Noite,8.0,00:06:33,72.3,PUMA Velocity Nitro 3
-12419825726,TC 10.0 km,Corrida,2024-09-15,Noite,10.0,00:05:18,66.8,PUMA Velocity Nitro 3
-12428295328,TC 8.0 km,Corrida,2024-09-16,Noite,8.0,00:06:06,48.2,PUMA Velocity Nitro 3
-12446089875,TC 5.0 km,Corrida,2024-09-18,Noite,5.0,00:05:30,120.2,PUMA Velocity Nitro 3
-12470310299,TC 8.0 km,Corrida,2024-09-21,Noite,8.0,00:05:27,70.9,PUMA Velocity Nitro 3
-12479205247,TC 10.0 km,Corrida,2024-09-22,Noite,10.0,00:05:30,69.6,PUMA Velocity Nitro 3
-12487509007,TC 5.0 km,Corrida,2024-09-23,Noite,5.0,00:07:26,17.1,Puma Flyer Runner
-12496366087,TC 8.0 km,Corrida,2024-09-24,Noite,8.0,00:05:20,52,PUMA Velocity Nitro 3
-12519251882,TC 3.0 km,Corrida,2024-09-27,Noite,3.0,00:05:46,20.4,PUMA Velocity Nitro 3
-12519252066,TC 9.0 km,Corrida,2024-09-27,Noite,9.0,00:05:27,75.7,PUMA Velocity Nitro 3
-12527114530,TC 9.0 km,Corrida,2024-09-28,Noite,9.0,00:06:19,79.5,PUMA Velocity Nitro 3
-12536057634,TC 15.0 km,Corrida,2024-09-29,Noite,15.0,00:05:42,132.7,PUMA Velocity Nitro 3
-12584784218,TC 8.0 km,Corrida,2024-10-01,Noite,8.0,00:05:41,61,PUMA Velocity Nitro 3
-12584784226,TC 10.0 km,Corrida,2024-10-02,Noite,10.0,00:05:56,81.2,PUMA Velocity Nitro 3
-12584784347,TC 8.0 km,Corrida,2024-10-04,Noite,8.0,00:05:49,77,PUMA Velocity Nitro 3
-12594580596,TC 8.0 km,Corrida,2024-10-06,Noite,8.0,00:05:15,49.3,PUMA Velocity Nitro 3
-12601499153,TC 10.0 km,Corrida,2024-10-07,Noite,10.0,00:05:55,67.1,PUMA Velocity Nitro 3
-12618036322,TC 8.0 km,Corrida,2024-10-09,Noite,8.0,00:05:14,67.5,PUMA Velocity Nitro 3
-12643804379,TC 8.0 km,Corrida,2024-10-13,Manhã,8.0,00:05:17,57.3,Fila Racer T2 T2
-12649255889,TC 8.0 km,Corrida,2024-10-13,Noite,8.0,00:05:23,90.5,Fila Racer T2 T2
-12656889395,TC 10.0 km,Corrida,2024-10-14,Noite,10.0,00:05:51,8,Fila Racer T2 T2
-12665307407,TC 8.0 km,Corrida,2024-10-15,Noite,8.0,00:04:59,71.4,Fila Racer T2 T2
-12705607552,TC 10.0 km,Corrida,2024-10-20,Noite,10.0,00:05:21,84.1,Fila Racer T2 T2
-12705607599,TC 8.0 km,Corrida,2024-10-19,Noite,8.0,00:05:41,91.7,Fila Racer T2 T2
-12713052594,TP 59.0 km,Pedalada,2024-10-21,Noite,59.0,25.28,264,Show Gravel
-12729603120,TC 10.0 km,Corrida,2024-10-23,Noite,10.0,00:05:27,75.6,Fila Racer T2 T2
-12744450351,TC 15.0 km,Corrida,2024-10-25,Noite,15.0,00:05:36,121.3,PUMA Velocity Nitro 3
-12758353864,TC 10.0 km,Corrida,2024-10-27,Tarde,10.0,00:05:00,83.2,PUMA Velocity Nitro 3
-12769479869,TC 7.0 km,Corrida,2024-10-28,Noite,7.0,00:06:34,78.4,PUMA Velocity Nitro 3
-12784896587,TC 6.0 km,Corrida,2024-10-30,Noite,6.0,00:05:07,69,PUMA Velocity Nitro 3
-12799850150,TC 5.0 km,Corrida,2024-11-01,Noite,5.0,00:04:51,25.9,PUMA Velocity Nitro 3
-12808099894,TC 10.0 km,Corrida,2024-11-02,Noite,10.0,00:05:31,119.7,PUMA Velocity Nitro 3
-12824291528,TC 11.0 km,Corrida,2024-11-04,Noite,11.0,00:05:38,131.8,PUMA Velocity Nitro 3
-12848107527,TC 9.0 km,Corrida,2024-11-07,Noite,9.0,00:05:33,110.3,PUMA Velocity Nitro 3
-12848107842,TC 9.0 km,Corrida,2024-11-05,Noite,9.0,00:05:43,67.4,PUMA Velocity Nitro 3
-12863090412,TC 9.0 km,Corrida,2024-11-09,Noite,9.0,00:05:05,64.8,PUMA Velocity Nitro 3
-12879455563,TC 12.0 km,Corrida,2024-11-10,Noite,12.0,00:05:08,101.4,PUMA Velocity Nitro 3
-12879455809,TC 8.0 km,Corrida,2024-11-11,Noite,8.0,00:05:53,45.9,PUMA Velocity Nitro 3
-12894613307,TC 8.0 km,Corrida,2024-11-13,Noite,8.0,00:05:01,73,PUMA Velocity Nitro 3
-12916917795,TC 8.0 km,Corrida,2024-11-16,Noite,8.0,00:05:55,64.9,PUMA Velocity Nitro 3
-12925065787,TC 12.0 km,Corrida,2024-11-17,Noite,12.0,00:05:42,102.7,PUMA Velocity Nitro 3
-12932524447,TC 10.0 km,Corrida,2024-11-18,Noite,10.0,00:05:28,91.4,Fila Racer T2 T2
-12947159862,TC 10.0 km,Corrida,2024-11-20,Noite,10.0,00:05:19,97,PUMA Velocity Nitro 3
-12983216469,TC 12.0 km,Corrida,2024-11-25,Noite,12.0,00:05:38,183.1,PUMA Velocity Nitro 3
-12991009139,TC 6.0 km,Corrida,2024-11-23,Noite,6.0,00:05:31,54,PUMA Velocity Nitro 3
-12997906554,TC 8.0 km,Corrida,2024-11-27,Noite,8.0,00:05:28,82.8,PUMA Velocity Nitro 3
-13018801792,TC 10.0 km,Corrida,2024-11-30,Noite,10.0,00:05:18,103.3,Fila Racer T2 T2
-13026911409,TC 12.0 km,Corrida,2024-12-01,Noite,12.0,00:06:06,102.3,PUMA Velocity Nitro 3
-13033821158,TC 15.0 km,Corrida,2024-12-02,Noite,15.0,00:05:38,158.5,Fila Racer T2 T2
-13068156224,TC 12.0 km,Corrida,2024-12-07,Noite,12.0,00:05:36,184.7,PUMA Velocity Nitro 3
-13075570875,TC 10.0 km,Corrida,2024-12-08,Noite,10.0,00:05:56,74.7,PUMA Velocity Nitro 3
-13089304328,TC 8.0 km,Corrida,2024-12-10,Noite,8.0,00:05:15,68,PUMA Velocity Nitro 3
-13095676371,TC 10.0 km,Corrida,2024-12-11,Noite,10.0,00:05:08,134.5,PUMA Velocity Nitro 3
-13116773140,TC 9.0 km,Corrida,2024-12-14,Noite,9.0,00:06:26,82.9,PUMA Velocity Nitro 3
-13124504397,TC 12.0 km,Corrida,2024-12-15,Noite,12.0,00:05:17,155.3,PUMA Velocity Nitro 3
-13131423657,TC 8.0 km,Corrida,2024-12-16,Noite,8.0,00:06:12,48.6,PUMA Velocity Nitro 3
-13145676319,TC 6.0 km,Corrida,2024-12-18,Noite,6.0,00:05:01,37.8,Fila Racer T2 T2
-13151010201,TC 10.0 km,Corrida,2024-12-19,Noite,10.0,00:05:42,87.5,PUMA Velocity Nitro 3
-13161490951,TC 12.0 km,Corrida,2024-12-21,Tarde,12.0,00:05:31,19.7,PUMA Velocity Nitro 3
-13171015122,TC 10.0 km,Corrida,2024-12-22,Noite,10.0,00:05:23,79,PUMA Velocity Nitro 3
-13177688432,TC 11.0 km,Corrida,2024-12-23,Noite,11.0,00:06:16,99.5,PUMA Velocity Nitro 3
-13184396121,TC 10.0 km,Corrida,2024-12-24,Noite,10.0,00:05:14,81.9,Fila Racer T2 T2
-13187677642,TP 54.0 km,Pedalada,2024-12-25,Manhã,54.0,24.78,172.2,Show Gravel
-13189776514,TC 6.0 km,Corrida,2024-12-25,Noite,6.0,00:05:43,53.3,PUMA Velocity Nitro 3
-13200838018,TC 3.0 km,Corrida,2024-12-27,Tarde,3.0,00:05:45,54.7,PUMA Velocity Nitro 3
-13200838253,TC 12.0 km,Corrida,2024-12-27,Tarde,12.0,00:05:37,93.7,PUMA Velocity Nitro 3
-13207407725,TC 10.0 km,Corrida,2024-12-28,Manhã,10.0,00:05:44,104.1,Fila Racer T2 T2
-13238226331,TC 10.0 km,Corrida,2025-01-01,Tarde,10.0,00:05:59,86.9,PUMA Velocity Nitro 3
-13238226432,TC 6.0 km,Corrida,2024-12-30,Noite,6.0,00:06:24,57.2,PUMA Velocity Nitro 3
-13259178190,TP 61.0 km,Pedalada,2025-01-03,Noite,61.0,23.82,210.8,Show Gravel
-13284667093,TC 8.0 km,Corrida,2025-01-06,Noite,8.0,00:05:50,93.5,Fila Racer T2 T2
-13294196688,TC 21.0 km,Corrida,2025-01-07,Noite,21.0,00:05:28,217.5,PUMA Velocity Nitro 3
-13320407307,TC 10.0 km,Corrida,2025-01-10,Noite,10.0,00:05:26,124.7,Adidas Adizero SL Adizero SL
-13328751445,TC 8.0 km,Corrida,2025-01-11,Noite,8.0,00:06:11,68.4,Adidas Adizero SL Adizero SL
-13347088239,TC 12.0 km,Corrida,2025-01-13,Noite,12.0,00:05:36,181.4,Fila Racer T2 T2
-13382713558,TC 8.0 km,Corrida,2025-01-17,Noite,8.0,00:05:45,59.9,Adidas Adizero SL Adizero SL
-13391504817,TC 5.0 km,Corrida,2025-01-18,Noite,5.0,00:07:57,187.6,Adidas Adizero SL Adizero SL
-13401226127,TC 8.0 km,Corrida,2025-01-19,Noite,8.0,00:05:25,64.5,Adidas Adizero SL Adizero SL
-13418373693,TC 8.0 km,Corrida,2025-01-21,Noite,8.0,00:05:20,85.4,Adidas Adizero SL Adizero SL
-13443358625,TC 15.0 km,Corrida,2025-01-24,Noite,15.0,00:05:42,138.8,PUMA Velocity Nitro 3
-13452064180,TC 5.0 km,Corrida,2025-01-25,Noite,5.0,00:04:50,193.6,Adidas Adizero SL Adizero SL
-13479102654,TC 10.0 km,Corrida,2025-01-28,Noite,10.0,00:05:10,71.7,Adidas Adizero SL Adizero SL
-13479102685,TC 8.0 km,Corrida,2025-01-27,Noite,8.0,00:05:59,73.2,Adidas Adizero SL Adizero SL
-13505233316,TC 10.0 km,Corrida,2025-01-31,Noite,10.0,00:05:30,102.9,Adidas Adizero SL Adizero SL
-13513739362,TC 8.0 km,Corrida,2025-02-01,Noite,8.0,00:05:05,66.6,PUMA Velocity Nitro 3
-13542796638,TC 10.0 km,Corrida,2025-02-04,Noite,10.0,00:05:40,101.4,PUMA Velocity Nitro 3
-13542796668,TC 8.0 km,Corrida,2025-02-03,Noite,8.0,00:06:04,67.3,Adidas Adizero SL Adizero SL
-13577230614,TC 10.0 km,Corrida,2025-02-08,Noite,10.0,00:05:43,86.3,Adidas Adizero SL Adizero SL
-13586814566,TC 16.0 km,Corrida,2025-02-09,Noite,16.0,00:05:42,132.2,Adidas Adizero SL Adizero SL
-13628709450,TC 8.0 km,Corrida,2025-02-14,Noite,8.0,00:06:13,114.3,Fila Racer T2 T2
-13637352801,TC 15.0 km,Corrida,2025-02-15,Noite,15.0,00:05:48,127.6,Adidas Adizero SL Adizero SL
-13656415392,TC 12.0 km,Corrida,2025-02-17,Noite,12.0,00:05:40,181.4,PUMA Velocity Nitro 3
-13690795135,TC 8.0 km,Corrida,2025-02-19,Noite,8.0,00:05:41,64.7,Adidas Adizero SL Adizero SL
-13690834149,TP 51.0 km,Pedalada,2025-01-03,Noite,51.0,26.33,243,Show Gravel
-13690834186,TP 28.0 km,Pedalada,2025-02-21,Noite,28.0,23.41,384,Show Gravel
-13699580632,TC 8.0 km,Corrida,2025-02-22,Noite,8.0,00:05:07,57.6,Adidas Adizero SL Adizero SL
-13709514128,TP 63.0 km,Pedalada,2025-02-23,Noite,63.0,24.76,561.7,Show Gravel
-13709564238,TP 30.0 km,Pedalada,2025-02-23,Noite,30.0,29.49,12.8,Show Gravel
-13755111673,TC 10.0 km,Corrida,2025-02-28,Noite,10.0,00:05:16,72.8,Adidas Adizero SL Adizero SL
-13755111779,TC 8.0 km,Corrida,2025-02-26,Manhã,8.0,00:05:16,80,Adidas Adizero SL Adizero SL
-13763486321,TP 33.0 km,Pedalada,2025-03-01,Noite,33.0,27.82,14.8,Show Gravel
-13763505497,TP 67.0 km,Pedalada,2025-03-01,Noite,67.0,25.1,401,Show Gravel
-13791716208,TP 40.0 km,Pedalada,2025-03-04,Noite,40.0,16.49,467.6,Show Gravel
-13799897990,TC 10.0 km,Corrida,2025-03-05,Noite,10.0,00:05:06,65.5,Adidas Adizero SL Adizero SL
-13810201370,TP 37.0 km,Pedalada,2025-03-06,Noite,37.0,16.32,164.6,Show Gravel
-13828782884,TC 16.0 km,Corrida,2025-03-08,Noite,16.0,00:05:36,231,Adidas Adizero SL Adizero SL
-13840743174,TC 9.0 km,Corrida,2025-03-09,Noite,9.0,00:05:30,88.7,Adidas Adizero SL Adizero SL
-13856993538,TC 10.0 km,Corrida,2025-03-11,Noite,10.0,00:05:39,82.2,PUMA Velocity Nitro 3
-13893155379,TC 16.0 km,Corrida,2025-03-15,Noite,16.0,00:05:24,126.9,Adidas Adizero SL Adizero SL
-13909942793,TC 10.0 km,Corrida,2025-03-16,Noite,10.0,00:05:59,77.7,PUMA Velocity Nitro 3
-13921178492,TC 10.0 km,Corrida,2025-03-18,Noite,10.0,00:05:57,203.2,PUMA Velocity Nitro 3
-13952981337,TC 10.0 km,Corrida,2025-03-21,Noite,10.0,00:05:10,70.6,Adidas Adizero SL Adizero SL
-13978169437,TC 11.0 km,Corrida,2025-03-24,Noite,11.0,00:05:30,199.4,Adidas Adizero SL Adizero SL
-13987880443,TC 8.0 km,Corrida,2025-03-25,Noite,8.0,00:05:36,70.7,Adidas Adizero SL Adizero SL
-14024638795,TC 21.0 km,Corrida,2025-03-29,Noite,21.0,00:05:33,258.7,Adidas Adizero SL Adizero SL
-14057608358,TC 8.0 km,Corrida,2025-04-02,Manhã,8.0,00:05:20,63.1,Adidas Adizero SL Adizero SL
-14067135722,TC 8.0 km,Corrida,2025-04-03,Manhã,8.0,00:05:04,60.4,PUMA Velocity Nitro 3
-14081639093,TC 8.0 km,Corrida,2025-04-04,Noite,8.0,00:05:54,82.2,PUMA Velocity Nitro 3
-14091615467,TC 11.0 km,Corrida,2025-04-05,Noite,11.0,00:05:22,93.8,PUMA Velocity Nitro 3
-14111399692,TC 8.0 km,Corrida,2025-04-07,Noite,8.0,00:04:59,52.5,Adidas Adizero SL Adizero SL
-14135859724,TP 55.0 km,Pedalada,2025-04-10,Manhã,55.0,24.13,346,Show Gravel
-14150104575,TP 35.0 km,Pedalada,2025-04-11,Noite,35.0,21.44,582,Show Gravel
-14193295141,TC 8.0 km,Corrida,2025-04-16,Manhã,8.0,00:05:30,99.5,PUMA Velocity Nitro 3
-14193295611,TC 8.0 km,Corrida,2025-04-13,Noite,8.0,00:06:03,115.5,Adidas Adizero SL Adizero SL
-14217765831,TC 8.0 km,Corrida,2025-04-18,Noite,8.0,00:05:29,77.6,Adidas Adizero SL Adizero SL
-14235344534,TC 8.0 km,Corrida,2025-04-19,Noite,8.0,00:05:13,67.9,Adidas Adizero SL Adizero SL
-14236790864,TC 12.0 km,Corrida,2025-04-20,Noite,12.0,00:05:02,100.7,Fila Racer T2 T2
-14271743653,TC 12.0 km,Corrida,2025-04-24,Manhã,12.0,00:05:29,208.4,Adidas Adizero SL Adizero SL
-14307159141,TC 15.0 km,Corrida,2025-04-27,Noite,15.0,00:05:21,108.7,Adidas Adizero SL Adizero SL
-14307737916,TC 15.0 km,Corrida,2025-04-26,Noite,15.0,00:05:25,205.9,Adidas Adizero SL Adizero SL
-14327735102,TC 8.0 km,Corrida,2025-04-29,Noite,8.0,00:04:54,53.2,Fila Racer T2 T2
-14344363457,TP 20.0 km,Pedalada,2025-05-01,Manhã,20.0,26.4,177,Show Gravel
-14344407837,TP 43.0 km,Pedalada,2025-05-01,Manhã,43.0,32.04,135,Show Gravel
-14379931884,TC 10.0 km,Corrida,2025-05-04,Noite,10.0,00:04:47,59,Adidas Adizero SL Adizero SL
-14379932068,TC 8.0 km,Corrida,2025-05-02,Noite,8.0,00:06:03,59.5,Adidas Adizero SL Adizero SL
-14379932129,TC 10.0 km,Corrida,2025-05-03,Noite,10.0,00:05:32,155,Adidas Adizero SL Adizero SL
-14414417507,TC 15.0 km,Corrida,2025-05-08,Manhã,15.0,00:05:06,171.4,Adidas Adizero SL Adizero SL
-14451281912,TP 22.0 km,Pedalada,2025-05-11,Noite,22.0,22.5,245.1,Show Gravel
-14451281992,TC 8.0 km,Corrida,2025-05-10,Noite,8.0,00:06:05,82,Adidas Adizero SL Adizero SL
-14487232388,TC 8.0 km,Corrida,2025-05-15,Manhã,8.0,00:05:14,67.6,Adidas Adizero SL Adizero SL
-14502704740,TP 30.0 km,Pedalada,2025-05-16,Noite,30.0,24.98,200,Show Gravel
-14523393666,TP 30.0 km,Pedalada,2025-05-18,Noite,30.0,31.76,7.6,Show Gravel
-14523746716,TP 62.0 km,Pedalada,2025-05-18,Noite,62.0,26.45,334,Show Gravel
-14559459813,TC 6.0 km,Corrida,2025-05-22,Manhã,6.0,00:05:51,55.8,Fila Racer Speedzone
-14584229392,TC 6.0 km,Corrida,2025-05-24,Noite,6.0,00:05:08,35.9,Fila Racer Speedzone
-14615511166,TC 8.0 km,Corrida,2025-05-27,Noite,8.0,00:05:31,75.4,Fila Racer Speedzone
-14630400069,TC 8.0 km,Corrida,2025-05-29,Manhã,8.0,00:05:14,7.4,Fila Racer Speedzone
-14650480109,TC 12.0 km,Corrida,2025-05-31,Manhã,12.0,00:05:19,102.8,Fila Racer Speedzone
-14662267142,TC 11.0 km,Corrida,2025-06-01,Manhã,11.0,00:05:16,102,Fila Racer Speedzone
-14682356371,TC 10.0 km,Corrida,2025-06-03,Manhã,10.0,00:05:00,97.6,Fila Racer Speedzone
-14693843391,TC 11.0 km,Corrida,2025-06-04,Manhã,11.0,00:05:13,122.9,Fila Racer Speedzone
-14703713832,TC 8.0 km,Corrida,2025-06-05,Manhã,8.0,00:05:59,58.9,Fila Racer Speedzone
-14739215511,TC 16.0 km,Corrida,2025-06-08,Noite,16.0,00:05:12,141.1,Fila Racer Speedzone
-14775091693,TC 8.0 km,Corrida,2025-06-12,Manhã,8.0,00:05:22,73.7,Fila Racer Speedzone
-14790774245,TC 10.0 km,Corrida,2025-06-13,Noite,10.0,00:05:04,102.9,Fila Racer Speedzone
-14790774372,TC 4.0 km,Corrida,2025-06-12,Manhã,4.0,00:05:27,21.9,Fila Racer Speedzone
-14812243049,TC 12.0 km,Corrida,2025-06-15,Noite,12.0,00:05:07,108.2,Fila Racer Speedzone
-14812243089,TP 36.0 km,Pedalada,2025-06-14,Noite,36.0,22.52,156.3,Show Gravel
-14849034140,TC 5.0 km,Corrida,2025-06-19,Manhã,5.0,00:05:28,2.5,Fila Racer Speedzone
-14849034225,TC 7.0 km,Corrida,2025-06-19,Manhã,7.0,00:05:19,4.8,Fila Racer Speedzone
-14859430045,TC 14.0 km,Corrida,2025-06-20,Manhã,14.0,00:05:14,77.7,Fila Racer Speedzone
-14885246287,TC 22.0 km,Corrida,2025-06-22,Noite,22.0,00:05:22,203,Fila Racer Speedzone
-14920643546,TC 10.0 km,Corrida,2025-06-26,Manhã,10.0,00:05:49,101,Fila Racer Speedzone
-14946378169,TC 15.0 km,Corrida,2025-06-28,Noite,15.0,00:05:15,208.2,Fila Racer Speedzone
-14956547852,TC 8.0 km,Corrida,2025-06-29,Noite,8.0,00:05:51,64.9,Fila Racer Speedzone
-14968277548,TP 38.0 km,Pedalada,2025-06-30,Noite,38.0,20.81,242.3,Show Gravel
-14993095485,TC 8.0 km,Corrida,2025-07-03,Manhã,8.0,00:04:49,67.8,Fila Racer Speedzone
-15019462338,TP 37.0 km,Pedalada,2025-07-05,Noite,37.0,24.88,242,Show Gravel
-15062653187,TC 15.0 km,Corrida,2025-07-09,Noite,15.0,00:05:08,207.7,Fila Racer T2 T2
-15083399712,TP 22.0 km,Pedalada,2025-07-11,Noite,22.0,20.98,414,Show Gravel
-15093641421,TP 21.0 km,Pedalada,2025-07-11,Noite,21.0,19.83,377,Show Gravel
-15094334371,TC 8.0 km,Corrida,2025-07-12,Noite,8.0,00:05:54,62.1,Fila Racer Speedzone
-15105311014,TC 10.0 km,Corrida,2025-07-13,Noite,10.0,00:05:23,122.3,Fila Racer Speedzone
-15115817465,TC 7.0 km,Corrida,2025-07-14,Noite,7.0,00:05:12,172.3,Fila Racer Speedzone
-15169691893,TC 9.0 km,Corrida,2025-07-19,Noite,9.0,00:05:51,57.6,Fila Racer Speedzone
-15181587702,TC 15.0 km,Corrida,2025-07-20,Noite,15.0,00:05:08,113.4,Fila Racer Speedzone
-15203822885,TC 13.0 km,Corrida,2025-07-22,Noite,13.0,00:05:22,104.8,Fila Racer Speedzone
-15219716734,TC 10.0 km,Corrida,2025-07-24,Manhã,10.0,00:05:32,85.7,Fila Racer Speedzone
-15236500624,TC 8.0 km,Corrida,2025-07-25,Noite,8.0,00:05:29,74.7,Fila Racer T2 T2
-15258200095,TC 15.0 km,Corrida,2025-07-27,Noite,15.0,00:05:55,123.1,Fila Racer Speedzone
-15269126342,TC 7.0 km,Corrida,2025-07-28,Noite,7.0,00:05:54,53.9,Fila Racer Speedzone
-15280544104,TC 10.0 km,Corrida,2025-07-29,Noite,10.0,00:05:11,63,Fila Racer Speedzone
-15324332231,TC 13.0 km,Corrida,2025-08-02,Noite,13.0,00:05:39,122.6,Fila Racer Speedzone
-15335674958,TC 10.0 km,Corrida,2025-08-03,Noite,10.0,00:05:01,83.6,Fila Racer Speedzone
-15347485203,TP 52.0 km,Pedalada,2025-08-04,Noite,52.0,25.25,338,Show Gravel
-15483210161,TP 58.0 km,Pedalada,2025-08-16,Noite,58.0,24.07,309,Show Gravel
-15506019462,TC 10.0 km,Corrida,2025-08-18,Noite,10.0,00:05:41,100.7,Fila Racer Speedzone
-15519491579,TP 52.0 km,Pedalada,2025-08-19,Noite,52.0,22.59,459,Show Gravel
-15531432274,TC 8.0 km,Corrida,2025-08-05,Noite,8.0,00:05:29,75,Fila Racer Speedzone
-15531432321,TC 5.0 km,Corrida,2025-08-12,Noite,5.0,00:06:09,25.8,Fila Racer Speedzone
-15556223093,TC 13.0 km,Corrida,2025-08-22,Noite,13.0,00:05:38,153.8,Fila Racer Speedzone
-15562430984,TC 8.0 km,Corrida,2025-08-23,Noite,8.0,00:06:01,64.3,Fila Racer Speedzone
-15598298890,TC 8.0 km,Corrida,2025-08-26,Noite,8.0,00:05:22,61.4,Fila Racer T2 T2
-15631941430,TC 15.0 km,Corrida,2025-08-29,Noite,15.0,00:05:26,208.3,Fila Racer Speedzone
-15648486188,TC 21.0 km,Corrida,2025-08-31,Manhã,21.0,00:05:27,211.6,Fila Racer Speedzone
-15657615343,TP 29.0 km,Pedalada,2025-09-01,Manhã,29.0,28.13,78,Show Gravel
-15711082447,TC 10.0 km,Corrida,2025-09-05,Noite,10.0,00:05:05,73.3,Fila Racer Speedzone
-15711082811,TC 8.0 km,Corrida,2025-09-03,Manhã,8.0,00:05:40,47.5,Fila Racer Speedzone
-15722134033,TC 8.0 km,Corrida,2025-09-06,Noite,8.0,00:05:39,73.1,Fila Racer Speedzone
-15745919820,TC 10.0 km,Corrida,2025-09-08,Noite,10.0,00:05:02,77.1,Fila Racer T2 T2
-15762836410,TC 8.0 km,Corrida,2025-09-10,Manhã,8.0,00:05:08,75.7,Fila Racer Speedzone
-15790982769,TC 12.0 km,Corrida,2025-09-12,Noite,12.0,00:05:22,146.1,Fila Racer Speedzone
-15802247166,TP 57.0 km,Pedalada,2025-09-13,Noite,57.0,24.46,486,Show Gravel
-15824753859,TC 16.0 km,Corrida,2025-09-15,Noite,16.0,00:05:29,118.3,Fila Racer Speedzone
-15853112512,TC 15.0 km,Corrida,2025-09-18,Manhã,15.0,00:05:25,203.7,Fila Racer T2 T2
-15869800729,TC 15.0 km,Corrida,2025-09-19,Noite,15.0,00:05:27,99.5,Fila Racer Speedzone
-15893690595,TC 15.0 km,Corrida,2025-09-21,Noite,15.0,00:05:23,107.5,Fila Racer Speedzone
-15931463827,TC 11.0 km,Corrida,2025-09-25,Manhã,11.0,00:05:17,82.6,Fila Racer Speedzone
-15946768476,TC 11.0 km,Corrida,2025-09-26,Noite,11.0,00:05:13,73.6,Fila Racer T2 T2
-15970125258,TC 21.0 km,Corrida,2025-09-28,Noite,21.0,00:05:27,156.9,Fila Racer T2 T2
-15998274084,TC 12.0 km,Corrida,2025-10-01,Manhã,12.0,00:04:57,17.7,Fila Racer Speedzone
-16025170582,TC 8.0 km,Corrida,2025-10-03,Noite,8.0,00:05:58,51.7,Fila Racer Speedzone
-16034839956,TC 10.0 km,Corrida,2025-10-04,Noite,10.0,00:05:45,76.9,Fila Racer Speedzone
-16046612974,TC 9.0 km,Corrida,2025-10-05,Noite,9.0,00:05:28,76.1,Fila Racer Speedzone
-16084815464,TC 8.0 km,Corrida,2025-10-09,Manhã,8.0,00:05:03,63.2,Fila Racer T2 T2
-16084815711,TC 8.0 km,Corrida,2025-10-06,Noite,8.0,00:05:41,49.6,Fila Racer T2 T2
-16110594874,TC 10.0 km,Corrida,2025-10-11,Noite,10.0,00:05:02,88.7,Fila Racer T2 T2
-16110629253,TC 10.0 km,Corrida,2025-10-10,Noite,10.0,00:05:35,70,Fila Racer Speedzone
-16122369576,TC 8.0 km,Corrida,2025-10-12,Noite,8.0,00:05:55,72.3,Fila Racer Speedzone
-16133153346,TP 38.0 km,Pedalada,2025-10-13,Noite,38.0,22.28,293,Show Gravel
-16147894910,TC 8.0 km,Corrida,2025-10-15,Manhã,8.0,00:05:48,75.1,Fila Racer Speedzone
-16175394674,TC 10.0 km,Corrida,2025-10-17,Noite,10.0,00:05:41,125.6,Fila Racer Speedzone
-16196050953,TP 28.0 km,Pedalada,2025-10-19,Noite,28.0,22.46,174,Show Gravel
-16205950197,TC 10.0 km,Corrida,2025-10-20,Noite,10.0,00:05:32,177.1,Fila Racer Speedzone
-16220654987,TC 8.0 km,Corrida,2025-10-22,Manhã,8.0,00:05:07,72.5,New Balance Propel v5 Propel v5
-16246150691,TC 8.0 km,Corrida,2025-10-24,Noite,8.0,00:05:47,43.7,Fila Racer Speedzone
-16256325425,TC 10.0 km,Corrida,2025-10-25,Noite,10.0,00:05:13,76.3,New Balance Propel v5 Propel v5
-16256954759,TC 8.0 km,Corrida,2025-10-22,Manhã,8.0,00:05:07,75.5,Fila Racer Speedzone
-16266811394,TC 7.0 km,Corrida,2025-10-26,Noite,7.0,00:06:34,36,Fila Racer Speedzone
-16324988802,TC 5.0 km,Corrida,2025-11-01,Noite,5.0,00:06:32,50.4,Fila Racer Speedzone
-16347099343,TC 8.0 km,Corrida,2025-11-03,Noite,8.0,00:05:52,34.9,Fila Racer Speedzone
-16357766404,TP 30.0 km,Pedalada,2025-11-04,Noite,30.0,20.37,295.2,Show Gravel
-16387794030,TC 12.0 km,Corrida,2025-11-07,Noite,12.0,00:05:36,92.4,Fila Racer T2 T2
-16398062150,TC 18.0 km,Corrida,2025-11-08,Noite,18.0,00:05:55,160.9,Fila Racer Speedzone
-16418754681,TC 8.0 km,Corrida,2025-11-10,Noite,8.0,00:05:08,54,Fila Racer T2 T2
-16429915159,TC 10.0 km,Corrida,2025-11-11,Noite,10.0,00:05:56,65.8,Fila Racer Speedzone
-16444147356,TC 8.0 km,Corrida,2025-11-13,Manhã,8.0,00:05:05,38.9,Fila Racer T2 T2
-16464297882,TC 16.0 km,Corrida,2025-11-15,Manhã,16.0,00:05:12,63.7,New Balance Propel v5 Propel v5
-16499824488,TC 10.0 km,Corrida,2025-11-18,Noite,10.0,00:05:49,213.8,Fila Racer T2 T2
-16514548254,TC 21.0 km,Corrida,2025-11-20,Manhã,21.0,00:05:14,94.9,New Balance Propel v5 Propel v5
-16537003968,TC 8.0 km,Corrida,2025-11-22,Noite,8.0,00:05:41,66.2,Fila Racer Speedzone
-16547522650,TC 12.0 km,Corrida,2025-11-23,Noite,12.0,00:05:20,69.1,Fila Racer T2 T2
-16556747768,TC 14.0 km,Corrida,2025-11-24,Noite,14.0,00:05:30,168.7,Fila Racer Speedzone
-16586922925,TC 15.0 km,Corrida,2025-11-27,Noite,15.0,00:05:00,71.1,New Balance Propel v5 Propel v5
-16613848534,TC 15.0 km,Corrida,2025-11-30,Noite,15.0,00:05:41,86.2,Fila Racer T2 T2
-16633613581,TC 14.0 km,Corrida,2025-12-02,Noite,14.0,00:05:41,155.3,Fila Racer Speedzone
-16646846669,TC 11.0 km,Corrida,2025-12-04,Manhã,11.0,00:05:25,83,Fila Racer T2 T2
-16660739470,TC 10.0 km,Corrida,2025-12-05,Noite,10.0,00:04:55,84.3,New Balance Propel v5 Propel v5
-16679815985,TC 21.0 km,Corrida,2025-12-07,Noite,21.0,00:05:20,294.5,New Balance Propel v5 Propel v5
-16702144931,TC 10.0 km,Corrida,2025-12-10,Manhã,10.0,00:05:47,95.1,Fila Racer Speedzone
-16717903342,TP 36.0 km,Pedalada,2025-12-11,Noite,36.0,20.23,498,Show Gravel
-16753433852,TP 36.0 km,Pedalada,2025-12-15,Noite,36.0,21.27,450,Show Gravel
-16775083940,TC 10.0 km,Corrida,2025-12-18,Manhã,10.0,00:05:05,92.5,Fila Racer T2 T2
-16788137499,TC 10.0 km,Corrida,2025-12-19,Noite,10.0,00:04:56,65.1,Fila Racer T2 T2
-16797200366,TC 8.0 km,Corrida,2025-12-20,Noite,8.0,00:05:58,78.2,Fila Racer Speedzone
-16806588239,TC 12.0 km,Corrida,2025-12-21,Noite,12.0,00:04:53,90.4,New Balance Propel v5 Propel v5
-16818918351,TC 8.0 km,Corrida,2025-12-23,Manhã,8.0,00:04:24,93.6,New Balance Propel v5 Propel v5
-16832782319,TC 8.0 km,Corrida,2025-12-24,Noite,8.0,00:06:03,86.8,Fila Racer Speedzone
-16836799409,TC 10.0 km,Corrida,2025-12-25,Manhã,10.0,00:05:14,54.5,New Balance Propel v5 Propel v5
-16849411318,TC 15.0 km,Corrida,2025-12-26,Noite,15.0,00:07:28,66.9,Fila Racer T2 T2
-16862357833,TC 15.0 km,Corrida,2025-12-28,Manhã,15.0,00:04:49,145.3,Fila Racer T2 T2
-16878340648,TP 25.0 km,Pedalada,2025-12-29,Noite,25.0,21.77,126.2,GTSM1
-16888453780,TC 10.0 km,Corrida,2025-12-30,Noite,10.0,00:05:55,22.8,Fila Racer T2 T2
-16892261164,TC 21.0 km,Corrida,2025-12-31,Manhã,21.0,00:05:37,109.9,Fila Racer T2 T2
-16944094012,TC 12.0 km,Corrida,2026-01-05,Manhã,12.0,00:06:10,36.7,Fila Racer T2 T2
-16962525596,TC 12.0 km,Corrida,2026-01-06,Noite,12.0,00:06:07,73.6,Fila Racer Speedzone
-16977847518,TC 8.0 km,Corrida,2026-01-08,Manhã,8.0,00:05:59,45.4,Fila Racer Speedzone
-17005978184,TC 21.0 km,Corrida,2026-01-10,Noite,21.0,00:05:25,145.2,Fila Racer T2 T2
-17063789827,TC 8.0 km,Corrida,2026-01-15,Noite,8.0,00:05:24,72.6,Fila Racer T2 T2
-17077819841,TC 10.0 km,Corrida,2026-01-17,Manhã,10.0,00:05:01,103.8,Fila Racer Speedzone
-17098227898,TC 10.0 km,Corrida,2026-01-18,Noite,10.0,00:05:47,55.5,Fila Racer Speedzone
-17143800444,TC 12.0 km,Corrida,2026-01-22,Noite,12.0,00:05:00,97.1,New Balance Propel v5 Propel v5
-17147897045,TC 5.0 km,Corrida,2026-01-23,Manhã,5.0,00:06:58,38.1,Fila Racer Speedzone
-17176966940,TC 17.0 km,Corrida,2026-01-25,Noite,17.0,00:05:07,156.8,New Balance Propel v5 Propel v5
-17214867947,TC 10.0 km,Corrida,2026-01-29,Manhã,10.0,00:06:13,84.8,Fila Racer Speedzone
-17231825057,TC 15.0 km,Corrida,2026-01-30,Noite,15.0,00:05:39,211.8,Fila Racer T2 T2
-17243089735,TC 21.0 km,Corrida,2026-01-31,Noite,21.0,00:05:24,106.6,New Balance Propel v5 Propel v5
-17265490060,TC 9.0 km,Corrida,2026-02-02,Noite,9.0,00:06:29,79.7,Fila Racer Speedzone
-17281995874,TC 10.0 km,Corrida,2026-02-04,Manhã,10.0,00:05:51,69,Fila Racer Speedzone
-17293558026,TC 10.0 km,Corrida,2026-02-05,Manhã,10.0,00:04:53,76.9,New Balance Propel v5 Propel v5
-17321996488,TC 21.0 km,Corrida,2026-02-07,Noite,21.0,00:05:21,165.1,Fila Racer T2 T2
-17334217023,TC 10.0 km,Corrida,2026-02-08,Noite,10.0,00:06:12,67.6,Fila Racer Speedzone
-17361226568,TC 10.0 km,Corrida,2026-02-11,Manhã,10.0,00:06:14,114.6,Fila Racer Speedzone
-17388562180,TC 15.0 km,Corrida,2026-02-13,Noite,15.0,00:05:42,206.2,Fila Racer T2 T2
-17399706092,TC 10.0 km,Corrida,2026-02-14,Noite,10.0,00:04:47,68,New Balance Propel v5 Propel v5
-17409957738,TC 5.0 km,Corrida,2026-02-15,Noite,5.0,00:06:16,19.7,Fila Racer Speedzone
-17415872323,TC 25.0 km,Corrida,2026-02-16,Manhã,25.0,00:05:24,121.7,New Balance Propel v5 Propel v5
-17456805645,TC 8.0 km,Corrida,2026-02-19,Noite,8.0,00:05:39,24.5,Fila Racer T2 T2
-17465615115,TC 10.0 km,Corrida,2026-02-20,Noite,10.0,00:06:10,99.1,Fila Racer Speedzone
-17499514426,TC 15.0 km,Corrida,2026-02-23,Noite,15.0,00:05:31,251.3,Fila Racer T2 T2
-17516190020,TC 10.0 km,Corrida,2026-02-25,Manhã,10.0,00:06:09,86.3,Fila Racer Speedzone
-17546030519,TC 10.0 km,Corrida,2026-02-27,Noite,10.0,00:04:51,50.1,Fila Racer T2 T2
-17570859800,TC 15.0 km,Corrida,2026-03-01,Noite,15.0,00:05:22,221.5,Fila Racer T2 T2
-17614919024,TC 10.0 km,Corrida,2026-03-05,Manhã,10.0,00:06:09,93.1,Fila Racer Speedzone
-17629681378,TC 10.0 km,Corrida,2026-03-06,Noite,10.0,00:05:23,115.1,Fila Racer T2 T2
-17654822990,TC 10.0 km,Corrida,2026-03-08,Noite,10.0,00:04:52,32.5,Fila Racer T2 T2
-17683088644,TC 10.0 km,Corrida,2026-03-11,Manhã,10.0,00:06:10,82.6,Fila Racer Speedzone
-17724699770,TC 21.0 km,Corrida,2026-03-14,Noite,21.0,00:05:19,146.6,New Balance Propel v5 Propel v5
-17736573971,TC 8.0 km,Corrida,2026-03-15,Noite,8.0,00:06:27,50.1,Fila Racer T2 T2
-17764748155,TC 10.0 km,Corrida,2026-03-18,Manhã,10.0,00:06:07,81.5,New Balance Propel v5 Propel v5
-17797438853,TC 15.0 km,Corrida,2026-03-20,Noite,15.0,00:05:42,222,Fila Racer T2 T2
-17807986948,TC 10.0 km,Corrida,2026-03-21,Noite,10.0,00:05:13,93.9,New Balance Propel v5 Propel v5
-17822027205,TC 8.0 km,Corrida,2026-03-22,Noite,8.0,00:06:15,43.5,Fila Racer Speedzone
-17851556797,TC 10.0 km,Corrida,2026-03-25,Manhã,10.0,00:06:00,92.7,Fila Racer Speedzone
-17882681645,TC 5.0 km,Corrida,2026-03-27,Noite,5.0,00:07:17,61,Mizuno Wave Rider 28 Wave Rider 28
-17893863889,TC 8.0 km,Corrida,2026-03-28,Noite,8.0,00:06:19,112,Fila Racer Speedzone
-17906206455,TC 10.0 km,Corrida,2026-03-29,Noite,10.0,00:05:12,154,Mizuno Wave Rider 28 Wave Rider 28
-17918281576,TC 10.0 km,Corrida,2026-03-30,Noite,10.0,00:05:37,221.8,Fila Racer Speedzone
-17956498033,TC 21.0 km,Corrida,2026-04-02,Noite,21.0,00:05:16,247.4,New Balance Propel v5 Propel v5
-17967423033,TC 6.0 km,Corrida,2026-04-03,Noite,6.0,00:06:16,85,Mizuno Wave Rider 28 Wave Rider 28
-17980441111,TC 8.0 km,Corrida,2026-04-04,Noite,8.0,00:06:25,109,Fila Racer Speedzone
-17992314572,TC 10.0 km,Corrida,2026-04-05,Noite,10.0,00:05:19,110,Mizuno Wave Rider 28 Wave Rider 28
-18024715948,TC 10.0 km,Corrida,2026-04-08,Manhã,10.0,00:05:43,73,Fila Racer Speedzone
-18058803257,TC 13.0 km,Corrida,2026-04-10,Noite,13.0,00:05:26,274,Fila Racer Speedzone
-18084986581,TC 10.0 km,Corrida,2026-04-12,Noite,10.0,00:05:52,126,Mizuno Wave Rider 28 Wave Rider 28
-18097038661,TC 8.0 km,Corrida,2026-04-13,Noite,8.0,00:06:17,43,Fila Racer Speedzone
-18116101868,TC 10.0 km,Corrida,2026-04-15,Manhã,10.0,00:06:13,145,Fila Racer Speedzone
-18150306604,TC 13.0 km,Corrida,2026-04-17,Noite,13.0,00:05:08,148,Mizuno Wave Rider 28 Wave Rider 28
-18178325887,TC 14.0 km,Corrida,2026-04-19,Noite,14.0,00:06:22,121,Fila Racer T2 T2
-18183373121,TP 62.0 km,Pedalada,2026-04-20,Manhã,62.0,25.4,232,Tropix Madrid
-18223479370,TC 10.0 km,Corrida,2026-04-23,Manhã,10.0,00:06:02,38,Fila Racer Speedzone
-18244297154,TC 10.0 km,Corrida,2026-04-24,Noite,10.0,00:04:59,129,New Balance Propel v5 Propel v5
-18272426669,TP 60.0 km,Pedalada,2026-04-26,Noite,60.0,25.82,117,Tropix Madrid
-18284896076,TC 7.0 km,Corrida,2026-04-27,Noite,7.0,00:06:15,53,Fila Racer Speedzone
-18339386158,TC 15.0 km,Corrida,2026-05-01,Noite,15.0,00:05:15,201,Fila Racer Speedzone
-18352137249,TC 10.0 km,Corrida,2026-05-02,Noite,10.0,00:06:05,32,New Balance Propel v5 Propel v5
-18364709880,TC 10.0 km,Corrida,2026-05-03,Noite,10.0,00:04:59,134,Fila Racer T2 T2
-18379173853,TP 31.0 km,Pedalada,2026-05-04,Noite,31.0,21.88,118,Tropix Madrid
-18409997190,TC 10.0 km,Corrida,2026-05-07,Manhã,10.0,00:06:07,130,Fila Racer Speedzone
-18430669657,TC 10.0 km,Corrida,2026-05-08,Noite,10.0,00:05:18,49.6,Fila Racer Speedzone
-18444853153,TP 35.0 km,Pedalada,2026-05-09,Noite,35.0,22.59,183,Tropix Madrid
-18471624417,TP 68.0 km,Pedalada,2026-05-11,Noite,68.0,29.62,320,Tropix Madrid
-18471791484,TP 26.0 km,Pedalada,2025-11-04,Noite,26.0,20.88,438,Tropix Madrid
-18488483397,TC 10.0 km,Corrida,2026-05-13,Manhã,10.0,00:05:16,124,Fila Racer Speedzone
-18521927545,TC 15.0 km,Corrida,2026-05-15,Noite,15.0,00:05:16,234,Fila Racer T2 T2
-18534993121,TP 60.0 km,Pedalada,2026-05-16,Noite,60.0,24.83,277,Tropix Madrid
-18548287040,TC 15.0 km,Corrida,2026-05-17,Noite,15.0,00:05:07,251,New Balance Propel v5 Propel v5
-18580492872,TC 10.0 km,Corrida,2026-05-20,Manhã,10.0,00:05:34,132,Fila Racer Speedzone
-18614006871,TC 21.0 km,Corrida,2026-05-22,Noite,21.0,00:05:18,306,New Balance Propel v5 Propel v5
-18640024200,TC 10.0 km,Corrida,2026-05-24,Noite,10.0,00:05:07,115,New Balance Propel v5 Propel v5
-18673043646,TC 10.0 km,Corrida,2026-05-27,Manhã,10.0,00:05:04,136,Fila Racer T2 T2
-18707684927,TC 7.0 km,Corrida,2026-05-29,Noite,7.0,00:06:12,128,Mizuno Wave Rider 28 Wave Rider 28
-18720928720,TP 71.0 km,Pedalada,2026-05-30,Noite,71.0,25.73,343,Tropix Madrid
-18735380959,TC 8.0 km,Corrida,2026-05-31,Noite,8.0,00:06:19,105,Mizuno Wave Rider 28 Wave Rider 28
+id_atividade,nome_atividade,tipo_atividade,data_atividade_DMA,horario,distancia_percorrida,Tempo_total,pace,ritmo_medio,ganho_elevacao,equipamentos
+5638756330,TC 4.0 km,Corrida,2021-07-16,Noite,4.0,00:23:59,00:05:43,10.48,59.1,Puma Flyer Runner
+5654965254,TC 5.0 km,Corrida,2021-07-19,Noite,5.0,00:31:11,00:06:10,9.72,56.2,Puma Flyer Runner
+5676023275,TC 4.0 km,Corrida,2021-07-23,Noite,4.0,00:23:45,00:05:56,10.11,62.1,Puma Flyer Runner
+5777954981,TC 4.0 km,Corrida,2021-08-11,Noite,4.0,00:24:24,00:06:02,9.93,23.7,Puma Flyer Runner
+5788098018,TC 5.0 km,Corrida,2021-08-13,Noite,5.0,00:31:25,00:06:15,9.59,46.9,Puma Flyer Runner
+5793498511,TC 4.0 km,Corrida,2021-08-14,Noite,4.0,00:25:13,00:05:41,10.54,32.5,Puma Flyer Runner
+5804553149,TC 6.0 km,Corrida,2021-08-16,Noite,6.0,00:39:09,00:06:30,9.21,61.9,Puma Flyer Runner
+5825774271,TC 5.0 km,Corrida,2021-08-20,Noite,5.0,00:31:06,00:06:12,9.67,43.7,Puma Flyer Runner
+5842297287,TC 6.0 km,Corrida,2021-08-23,Noite,6.0,00:41:45,00:06:40,9.0,61,Puma Flyer Runner
+5853277422,TC 5.0 km,Corrida,2021-08-25,Noite,5.0,00:32:08,00:06:22,9.41,78.9,Puma Flyer Runner
+5863562115,TC 6.0 km,Corrida,2021-08-27,Noite,6.0,00:36:31,00:06:03,9.91,84.3,Puma Flyer Runner
+5879724030,TC 6.0 km,Corrida,2021-08-30,Noite,6.0,00:40:24,00:06:42,8.94,83.2,Puma Flyer Runner
+5918263028,TC 9.0 km,Corrida,2021-09-06,Noite,9.0,00:58:22,00:06:27,9.28,95.9,Puma Flyer Runner
+5931719894,TC 5.0 km,Corrida,2021-09-09,Manhã,5.0,00:35:32,00:06:09,9.74,49.1,Puma Flyer Runner
+5945169301,TC 9.0 km,Corrida,2021-09-11,Noite,9.0,00:57:35,00:06:23,9.38,91.6,Puma Flyer Runner
+5956199054,TC 5.0 km,Corrida,2021-09-13,Noite,5.0,00:37:39,00:06:44,8.89,80.9,Puma Flyer Runner
+5984869378,TC 5.0 km,Corrida,2021-09-19,Manhã,5.0,00:28:22,00:05:40,10.58,22.7,Puma Flyer Runner
+6054488627,TC 4.0 km,Corrida,2021-10-02,Noite,4.0,00:26:56,00:05:55,10.11,98.2,Puma Flyer Runner
+6074468261,TC 5.0 km,Corrida,2021-10-06,Noite,5.0,00:35:24,00:06:37,9.05,96.5,Puma Flyer Runner
+6114628296,TP 20.0 km,Pedalada,2021-10-15,Noite,20.0,00:57:53,00:02:53,20.8,245.5,GTSM1
+6125689150,TP 21.0 km,Pedalada,2021-10-17,Manhã,21.0,01:03:18,00:02:54,20.66,301,GTSM1
+6143606745,TP 24.0 km,Pedalada,2021-10-20,Noite,24.0,01:06:09,00:02:41,22.27,281.4,GTSM1
+6152170530,TP 24.0 km,Pedalada,2021-10-22,Noite,24.0,01:10:41,00:02:55,20.56,368.7,GTSM1
+6166469200,TC 7.0 km,Corrida,2021-10-25,Noite,7.0,00:44:18,00:06:05,9.85,79,Puma Flyer Runner
+6171901988,TP 23.0 km,Pedalada,2021-10-27,Noite,23.0,01:05:14,00:02:50,21.15,304.7,GTSM1
+6181206814,TP 26.0 km,Pedalada,2021-10-29,Noite,26.0,01:04:01,00:02:23,25.02,283.6,GTSM1
+6184972365,TP 26.0 km,Pedalada,2021-10-29,Noite,26.0,01:16:37,00:02:52,20.92,311.9,GTSM1
+6208705648,TP 25.0 km,Pedalada,2021-11-03,Noite,25.0,01:07:35,00:02:41,22.23,311.1,GTSM1
+6222064466,TP 31.0 km,Pedalada,2021-11-06,Noite,31.0,01:25:19,00:02:44,21.84,221.9,GTSM1
+6231472812,TP 35.0 km,Pedalada,2021-11-08,Noite,35.0,01:36:54,00:02:42,22.11,273.3,GTSM1
+6245687885,TP 31.0 km,Pedalada,2021-11-11,Noite,31.0,01:43:37,00:03:18,18.13,204,GTSM1
+6249501063,TP 24.0 km,Pedalada,2021-11-12,Noite,24.0,01:11:23,00:02:52,20.85,319.2,GTSM1
+6254479573,TP 30.0 km,Pedalada,2021-11-14,Noite,30.0,01:47:02,00:03:28,17.28,188.3,GTSM1
+6272867221,TP 25.0 km,Pedalada,2021-11-18,Noite,25.0,01:15:04,00:02:59,20.02,356,GTSM1
+6280925632,TC 10.0 km,Corrida,2021-11-19,Noite,10.0,00:57:52,00:05:44,10.44,104.4,Puma Flyer Runner
+6311063141,TC 11.0 km,Corrida,2021-11-26,Noite,11.0,01:08:56,00:05:59,10.01,108,Puma Flyer Runner
+6372263824,TC 8.0 km,Corrida,2021-12-11,Noite,8.0,00:50:31,00:06:18,9.5,152.9,Puma Flyer Runner
+6385146959,TP 20.0 km,Pedalada,2021-12-15,Noite,20.0,00:56:08,00:02:40,22.43,226,GTSM1
+6385151933,TP 25.0 km,Pedalada,2021-12-10,Noite,25.0,01:23:23,00:03:20,17.99,361,GTSM1
+6396306874,TC 6.0 km,Corrida,2021-12-17,Noite,6.0,00:35:34,00:05:55,10.14,63.6,Puma Flyer Runner
+6414114414,TC 7.0 km,Corrida,2021-12-22,Manhã,7.0,00:44:03,00:06:13,9.63,50,Puma Flyer Runner
+6433217322,TC 7.0 km,Corrida,2021-12-27,Manhã,7.0,00:45:16,00:06:27,9.29,19.2,Puma Flyer Runner
+6458352363,TP 20.0 km,Pedalada,2022-01-01,Noite,20.0,00:48:07,00:02:23,25.06,167,GTSM1
+6540830048,TP 24.0 km,Pedalada,2022-01-17,Noite,24.0,00:59:53,00:02:25,24.82,264,GTSM1
+6587553377,TP 25.0 km,Pedalada,2022-01-27,Noite,25.0,01:00:56,00:02:23,25.03,237.7,GTSM1
+6637783400,TP 32.0 km,Pedalada,2022-02-05,Noite,32.0,01:27:18,00:02:42,22.21,332,GTSM1
+6673892742,TP 22.0 km,Pedalada,2022-02-12,Noite,22.0,00:57:51,00:02:30,23.84,265,GTSM1
+6689557595,TP 25.0 km,Pedalada,2022-02-15,Noite,25.0,00:59:49,00:02:23,25.11,282,GTSM1
+6699421495,TP 26.0 km,Pedalada,2022-02-17,Noite,26.0,01:08:17,00:02:34,23.33,366,GTSM1
+6708743720,TP 27.0 km,Pedalada,2022-02-19,Noite,27.0,01:09:09,00:02:29,24.1,294,GTSM1
+6714378807,TP 24.0 km,Pedalada,2022-02-21,Noite,24.0,00:58:20,00:02:22,25.27,261,GTSM1
+6724298420,TP 31.0 km,Pedalada,2022-02-22,Noite,31.0,01:43:58,00:03:20,17.92,308,GTSM1
+6738220664,TP 37.0 km,Pedalada,2022-02-25,Noite,37.0,01:31:33,00:02:25,24.71,410,GTSM1
+6743283576,TP 40.0 km,Pedalada,2022-02-26,Noite,40.0,01:47:15,00:02:40,22.5,393,GTSM1
+6769689623,TP 58.0 km,Pedalada,2022-03-03,Noite,58.0,02:38:55,00:02:42,22.21,435,GTSM1
+6779057038,TC 7.0 km,Corrida,2022-03-05,Noite,7.0,00:33:38,00:04:44,12.67,88.7,Puma Flyer Runner
+6785056124,TP 25.0 km,Pedalada,2022-03-06,Noite,25.0,01:01:38,00:02:27,24.35,252,GTSM1
+6795269750,TP 38.0 km,Pedalada,2022-03-08,Noite,38.0,02:00:44,00:03:07,19.17,354,GTSM1
+6814884813,TP 33.0 km,Pedalada,2022-03-12,Noite,33.0,01:28:33,00:02:39,22.62,291,GTSM1
+6831209624,TP 79.0 km,Pedalada,2022-03-15,Noite,79.0,03:30:15,00:02:39,22.64,558,GTSM1
+6841131999,TP 57.0 km,Pedalada,2022-03-17,Noite,57.0,02:19:48,00:02:26,24.51,385,GTSM1
+6845705448,TP 54.0 km,Pedalada,2022-03-18,Noite,54.0,02:22:15,00:02:35,23.11,539,GTSM1
+6852601502,TC 5.0 km,Corrida,2022-03-20,Manhã,5.0,00:32:52,00:05:52,10.22,55.3,Puma Flyer Runner
+6867676610,TP 40.0 km,Pedalada,2022-03-22,Noite,40.0,02:00:10,00:02:58,20.14,417,GTSM1
+6873063962,TP 30.0 km,Pedalada,2022-03-24,Noite,30.0,01:01:44,00:02:03,29.23,245,GTSM1
+6878346701,TP 55.0 km,Pedalada,2022-03-24,Noite,55.0,02:45:02,00:02:57,20.29,595,GTSM1
+6882882043,TP 49.0 km,Pedalada,2022-03-25,Noite,49.0,02:34:42,00:03:06,19.3,442,GTSM1
+6892576968,TP 118.0 km,Pedalada,2022-03-27,Manhã,118.0,04:34:27,00:02:19,25.86,622,GTSM1
+6904492238,TP 43.0 km,Pedalada,2022-03-29,Noite,43.0,01:28:32,00:02:03,29.18,263,GTSM1
+6910756946,TC 5.0 km,Corrida,2022-03-31,Manhã,5.0,00:28:48,00:05:12,11.52,55.8,Puma Flyer Runner
+6922869755,TP 35.0 km,Pedalada,2022-04-03,Noite,35.0,01:17:45,00:02:13,27.04,316,GTSM1
+6928307904,TP 40.0 km,Pedalada,2022-04-03,Noite,40.0,01:25:29,00:02:08,28.1,210,GTSM1
+6947846912,TP 75.0 km,Pedalada,2022-04-07,Noite,75.0,03:23:00,00:02:41,22.24,496,Show Gravel
+6951615915,TC 10.0 km,Corrida,2022-04-08,Noite,10.0,00:58:28,00:05:50,10.26,105.1,Puma Flyer Runner
+6956791709,TP 43.0 km,Pedalada,2022-04-09,Noite,43.0,01:44:43,00:02:23,25.14,263,Show Gravel
+6967724386,TP 71.0 km,Pedalada,2022-04-11,Noite,71.0,02:58:05,00:02:28,24.24,494,Show Gravel
+6977552161,TC 7.0 km,Corrida,2022-04-13,Noite,7.0,00:37:00,00:05:16,11.37,78.5,Puma Flyer Runner
+6985581534,TP 73.0 km,Pedalada,2022-04-15,Manhã,73.0,02:59:54,00:02:26,24.59,482,Show Gravel
+6993619257,TP 40.0 km,Pedalada,2022-04-16,Noite,40.0,01:25:19,00:02:05,28.64,223,Show Gravel
+7004880384,TP 40.0 km,Pedalada,2022-04-18,Noite,40.0,02:13:06,00:03:17,18.26,696,Show Gravel
+7018015185,TP 105.0 km,Pedalada,2022-04-21,Manhã,105.0,03:45:17,00:02:08,28.01,1288,Show Gravel
+7024978629,TC 5.0 km,Corrida,2022-04-22,Noite,5.0,00:30:06,00:05:28,10.96,78.6,Puma Flyer Runner
+7034469000,TP 89.0 km,Pedalada,2022-04-24,Manhã,89.0,03:49:13,00:02:33,23.44,965,Show Gravel
+7047039121,TP 40.0 km,Pedalada,2022-04-26,Noite,40.0,01:20:45,00:01:58,30.42,201,Show Gravel
+7051644340,TC 8.0 km,Corrida,2022-04-27,Noite,8.0,00:45:18,00:05:39,10.6,103.8,Puma Flyer Runner
+7057766550,TP 68.0 km,Pedalada,2022-04-28,Noite,68.0,02:51:32,00:02:30,23.96,490,Show Gravel
+7067485949,TP 50.0 km,Pedalada,2022-04-30,Noite,50.0,01:39:33,00:01:59,30.17,232,Show Gravel
+7078622147,TP 42.0 km,Pedalada,2022-05-02,Noite,42.0,01:25:26,00:01:59,30.17,184,Show Gravel
+7084090280,TC 8.0 km,Corrida,2022-05-03,Noite,8.0,00:42:59,00:05:22,11.17,90.1,Puma Flyer Runner
+7095334021,TP 49.0 km,Pedalada,2022-05-05,Noite,49.0,02:20:16,00:02:49,21.21,422,Show Gravel
+7107472500,TP 60.0 km,Pedalada,2022-05-08,Manhã,60.0,02:03:04,00:02:01,29.54,325,Show Gravel
+7116441531,TP 36.0 km,Pedalada,2022-05-09,Noite,36.0,01:45:20,00:02:54,20.68,603,Show Gravel
+7133041925,TC 6.0 km,Corrida,2022-05-12,Noite,6.0,00:30:00,00:04:58,12.06,46.1,Puma Flyer Runner
+7143804076,TP 50.0 km,Pedalada,2022-05-14,Noite,50.0,01:42:17,00:02:02,29.37,206,Show Gravel
+7149852786,TP 53.0 km,Pedalada,2022-05-15,Tarde,53.0,02:27:18,00:02:45,21.69,449,Show Gravel
+7154985539,TP 53.0 km,Pedalada,2022-05-16,Noite,53.0,02:09:56,00:02:26,24.61,283,Show Gravel
+7171782207,TP 48.0 km,Pedalada,2022-05-19,Noite,48.0,02:05:07,00:02:35,23.16,284,Show Gravel
+7181683841,TP 40.0 km,Pedalada,2022-05-21,Noite,40.0,01:31:12,00:02:16,26.43,135,Show Gravel
+7186620442,TC 6.0 km,Corrida,2022-05-22,Tarde,6.0,00:37:59,00:05:50,10.28,158.4,Puma Flyer Runner
+7192850658,TP 68.0 km,Pedalada,2022-05-23,Noite,68.0,02:34:06,00:02:15,26.56,411,Show Gravel
+7213412683,TP 41.0 km,Pedalada,2022-05-27,Noite,41.0,01:28:06,00:02:08,28.0,147,Show Gravel
+7223360320,TP 91.0 km,Pedalada,2022-05-29,Manhã,91.0,04:15:16,00:02:47,21.44,1064,Show Gravel
+7245924525,TP 46.0 km,Pedalada,2022-06-02,Noite,46.0,01:34:08,00:02:02,29.36,139,Show Gravel
+7250762143,TP 57.0 km,Pedalada,2022-06-03,Noite,57.0,02:20:46,00:02:27,24.36,237,Show Gravel
+7256228912,TP 21.0 km,Pedalada,2022-06-04,Noite,21.0,00:55:41,00:02:36,23.03,387,Show Gravel
+7261184183,TP 28.0 km,Pedalada,2022-06-05,Noite,28.0,01:01:36,00:02:08,27.95,319,Show Gravel
+7268928122,TC 6.0 km,Corrida,2022-06-07,Manhã,6.0,00:30:30,00:04:40,12.85,53.1,Puma Flyer Runner
+7274565940,TC 7.0 km,Corrida,2022-06-08,Manhã,7.0,00:37:18,00:05:18,11.29,52.1,Puma Flyer Runner
+7284926825,TC 8.0 km,Corrida,2022-06-10,Manhã,8.0,00:39:48,00:04:58,12.06,67.6,Puma Flyer Runner
+7291263633,TP 24.0 km,Pedalada,2022-06-11,Tarde,24.0,01:15:44,00:03:03,19.63,145.9,Show Gravel
+7306506871,TC 8.0 km,Corrida,2022-06-14,Manhã,8.0,00:45:49,00:05:23,11.13,36.7,Puma Flyer Runner
+7312131191,TC 6.0 km,Corrida,2022-06-15,Manhã,6.0,00:32:15,00:05:21,11.2,49.3,Puma Flyer Runner
+7319689742,TP 44.0 km,Pedalada,2022-06-16,Tarde,44.0,02:00:28,00:02:43,22.06,410,Show Gravel
+7324011220,TP 57.0 km,Pedalada,2022-06-16,Noite,57.0,02:37:15,00:02:44,21.93,465,Show Gravel
+7330851590,TP 89.0 km,Pedalada,2022-06-18,Tarde,89.0,03:40:55,00:02:28,24.25,790,Show Gravel
+7335357426,TP 72.0 km,Pedalada,2022-06-19,Manhã,72.0,02:44:45,00:02:16,26.32,337,Show Gravel
+7353627904,TP 39.0 km,Pedalada,2022-06-22,Noite,39.0,02:04:30,00:03:10,18.87,656,Show Gravel
+7358965368,TP 61.0 km,Pedalada,2022-06-23,Noite,61.0,02:33:34,00:02:30,23.95,402,Show Gravel
+7379509733,TP 48.0 km,Pedalada,2022-06-27,Noite,48.0,02:20:31,00:02:53,20.76,851,Show Gravel
+7385304571,TP 69.0 km,Pedalada,2022-06-28,Noite,69.0,02:47:49,00:02:24,24.93,421,Show Gravel
+7395411817,TC 10.0 km,Corrida,2022-06-30,Noite,10.0,00:58:41,00:05:51,10.23,197.6,Puma Flyer Runner
+7416611768,TP 33.0 km,Pedalada,2022-07-04,Noite,33.0,01:07:08,00:01:59,30.16,65,Show Gravel
+7422428003,TP 65.0 km,Pedalada,2022-07-05,Noite,65.0,03:09:50,00:02:55,20.56,414,Show Gravel
+7427741644,TP 37.0 km,Pedalada,2022-07-06,Noite,37.0,02:10:59,00:03:32,16.97,607,Show Gravel
+7442945388,TC 7.0 km,Corrida,2022-07-09,Noite,7.0,00:41:18,00:05:13,11.48,63.6,Puma Flyer Runner
+7453580083,TC 10.0 km,Corrida,2022-07-11,Noite,10.0,00:55:40,00:05:34,10.78,125.2,Puma Flyer Runner
+7465215113,TP 36.0 km,Pedalada,2022-07-13,Noite,36.0,02:04:25,00:03:24,17.58,594.3,GTSM1
+7470806086,TP 60.0 km,Pedalada,2022-07-14,Noite,60.0,02:51:37,00:02:49,21.27,540,Show Gravel
+7485291995,TP 26.0 km,Pedalada,2022-07-17,Manhã,26.0,01:46:03,00:03:56,15.24,525,Show Gravel
+7485300833,TP 39.0 km,Pedalada,2022-07-17,Tarde,39.0,02:40:58,00:04:07,14.54,523,Show Gravel
+7491735973,TP 46.0 km,Pedalada,2022-07-18,Noite,46.0,02:09:02,00:02:48,21.4,357,Show Gravel
+7507900619,TP 67.0 km,Pedalada,2022-07-21,Noite,67.0,02:43:18,00:02:25,24.79,512,Show Gravel
+7523223978,TP 82.0 km,Pedalada,2022-07-24,Tarde,82.0,03:00:39,00:02:11,27.42,757,Show Gravel
+7529165410,TP 83.0 km,Pedalada,2022-07-25,Noite,83.0,04:03:20,00:02:55,20.49,502,Show Gravel
+7540428187,TP 39.0 km,Pedalada,2022-07-27,Noite,39.0,02:14:51,00:03:25,17.53,675,Show Gravel
+7545722924,TP 48.0 km,Pedalada,2022-07-28,Noite,48.0,01:47:02,00:02:11,27.4,134,Show Gravel
+7550457657,TC 11.0 km,Corrida,2022-07-29,Noite,11.0,01:00:02,00:05:27,10.99,111.9,Olympikus Corre 1 Corre 1
+7561407819,TP 134.0 km,Pedalada,2022-07-31,Manhã,134.0,06:41:01,00:02:59,20.09,1622,Show Gravel
+7566654477,TC 11.0 km,Corrida,2022-08-01,Noite,11.0,01:07:47,00:06:09,9.75,143,Olympikus Corre 1 Corre 1
+7573269058,TP 38.0 km,Pedalada,2022-08-02,Noite,38.0,02:19:01,00:03:34,16.79,654,Show Gravel
+7584673511,TP 48.0 km,Pedalada,2022-08-04,Noite,48.0,02:52:48,00:03:35,16.73,927,Show Gravel
+7595256575,TP 79.0 km,Pedalada,2022-08-06,Noite,79.0,03:53:05,00:02:56,20.34,1043,Show Gravel
+7600728343,TC 10.0 km,Corrida,2022-08-07,Noite,10.0,00:56:17,00:05:37,10.68,54.8,Olympikus Corre 1 Corre 1
+7605908239,TP 30.0 km,Pedalada,2022-08-08,Noite,30.0,01:12:33,00:02:24,24.91,371,Show Gravel
+7628392386,TP 44.0 km,Pedalada,2022-08-12,Noite,44.0,02:07:00,00:02:52,20.93,806,Show Gravel
+7636275376,TP 40.0 km,Pedalada,2022-08-14,Manhã,40.0,02:00:03,00:02:59,20.01,718,Show Gravel
+7645028942,TP 40.0 km,Pedalada,2022-08-15,Noite,40.0,01:24:34,00:02:06,28.46,106,Show Gravel
+7651020706,TP 52.0 km,Pedalada,2022-08-16,Noite,52.0,02:27:11,00:02:46,21.57,564,Show Gravel
+7656066040,TC 10.0 km,Corrida,2022-08-17,Noite,10.0,00:54:56,00:05:29,10.92,225.9,Olympikus Corre 1 Corre 1
+7661987702,TP 67.0 km,Pedalada,2022-08-18,Noite,67.0,03:02:01,00:02:41,22.24,504,Show Gravel
+7677183269,TP 51.0 km,Pedalada,2022-08-21,Tarde,51.0,02:00:54,00:02:20,25.6,433,Show Gravel
+7683921834,TP 72.0 km,Pedalada,2022-08-22,Noite,72.0,02:54:26,00:02:24,24.99,550,Show Gravel
+7695554753,TP 50.0 km,Pedalada,2022-08-24,Noite,50.0,01:54:18,00:02:17,26.27,140,Show Gravel
+7701181802,TP 55.0 km,Pedalada,2022-08-25,Noite,55.0,02:36:40,00:02:49,21.3,557,Show Gravel
+7705687729,TC 8.0 km,Corrida,2022-08-26,Noite,8.0,00:46:38,00:05:49,10.29,44.4,Olympikus Corre 1 Corre 1
+7716673672,TP 103.0 km,Pedalada,2022-08-28,Manhã,103.0,05:57:47,00:03:26,17.4,1989,Show Gravel
+7727991941,TC 10.0 km,Corrida,2022-08-30,Noite,10.0,00:52:34,00:05:15,11.41,93.2,Olympikus Corre 1 Corre 1
+7744764832,TP 64.0 km,Pedalada,2022-09-02,Noite,64.0,03:38:52,00:03:22,17.74,606,Show Gravel
+7761297273,TP 35.0 km,Pedalada,2022-09-05,Noite,35.0,01:24:56,00:02:24,24.97,205,Show Gravel
+7772338742,TC 6.0 km,Corrida,2022-09-07,Noite,6.0,00:31:39,00:05:15,11.39,52,Olympikus Corre 1 Corre 1
+7798889183,TP 40.0 km,Pedalada,2022-09-12,Noite,40.0,01:29:59,00:02:14,26.74,134,Show Gravel
+7825195423,TP 60.0 km,Pedalada,2022-09-17,Noite,60.0,02:15:18,00:02:15,26.66,423,Show Gravel
+7852329859,TP 69.0 km,Pedalada,2022-09-22,Noite,69.0,02:44:04,00:02:21,25.45,516,Show Gravel
+7887827762,TP 51.0 km,Pedalada,2022-09-29,Noite,51.0,01:57:48,00:02:17,26.26,289,Show Gravel
+7915047678,TP 45.0 km,Pedalada,2022-10-04,Noite,45.0,02:15:47,00:03:00,19.92,760,Show Gravel
+7918462425,TP 46.0 km,Pedalada,2022-10-05,Noite,46.0,02:15:56,00:02:56,20.4,633,Show Gravel
+7923241652,TP 45.0 km,Pedalada,2022-10-06,Noite,45.0,01:49:34,00:02:23,25.06,265,Show Gravel
+7944124857,TP 40.0 km,Pedalada,2022-10-10,Noite,40.0,01:26:25,00:02:09,27.87,166,Show Gravel
+7953490021,TP 111.0 km,Pedalada,2022-10-12,Manhã,111.0,04:48:37,00:02:35,23.08,2262.4,Show Gravel
+7979932440,TP 62.0 km,Pedalada,2022-10-17,Noite,62.0,02:44:03,00:02:37,22.83,486,Show Gravel
+7999168887,TP 30.0 km,Pedalada,2022-10-21,Noite,30.0,01:01:04,00:02:01,29.56,73,Show Gravel
+8008054128,TP 22.0 km,Pedalada,2022-10-23,Tarde,22.0,00:59:44,00:02:41,22.24,289.3,Show Gravel
+8008870152,TP 52.0 km,Pedalada,2022-10-23,Manhã,52.0,02:49:25,00:03:15,18.42,1060,Show Gravel
+8020044538,TP 46.0 km,Pedalada,2022-10-25,Noite,46.0,02:05:00,00:02:39,22.51,285,Show Gravel
+8029633938,TC 7.0 km,Corrida,2022-10-27,Noite,7.0,00:41:17,00:05:46,10.38,108.7,Olympikus Corre 1 Corre 1
+8043329035,TP 79.0 km,Pedalada,2022-10-30,Manhã,79.0,03:35:17,00:02:41,22.23,515,Show Gravel
+8050215439,TP 45.0 km,Pedalada,2022-10-31,Noite,45.0,01:35:07,00:02:04,28.9,184,Show Gravel
+8065195603,TP 64.0 km,Pedalada,2022-11-03,Noite,64.0,03:05:28,00:02:51,20.95,546,Show Gravel
+8079583249,TP 86.0 km,Pedalada,2022-11-06,Tarde,86.0,03:14:10,00:02:14,26.7,510,Show Gravel
+8084967693,TP 56.0 km,Pedalada,2022-11-07,Noite,56.0,02:32:08,00:02:43,22.09,372,Show Gravel
+8094917632,TP 46.0 km,Pedalada,2022-11-09,Noite,46.0,01:35:50,00:02:02,29.36,121,Show Gravel
+8094922129,TP 23.0 km,Pedalada,2022-11-10,Noite,23.0,01:04:05,00:02:44,21.84,232,Show Gravel
+8104155414,TP 65.0 km,Pedalada,2022-11-11,Noite,65.0,02:56:09,00:02:40,22.4,436,Show Gravel
+8123843609,TC 8.0 km,Corrida,2022-11-15,Noite,8.0,00:42:22,00:05:17,11.34,63.9,Olympikus Corre 1 Corre 1
+8128904502,TP 25.0 km,Pedalada,2022-11-13,Manhã,25.0,01:02:17,00:02:28,24.17,287,Show Gravel
+8128923988,TP 30.0 km,Pedalada,2022-11-16,Noite,30.0,00:57:21,00:01:54,31.46,61,Show Gravel
+8137126782,TP 56.0 km,Pedalada,2022-11-18,Noite,56.0,02:24:24,00:02:33,23.48,364,Show Gravel
+8145562155,TP 101.0 km,Pedalada,2022-11-20,Manhã,101.0,04:40:47,00:02:45,21.73,2640.6,Show Gravel
+8150732078,TC 6.0 km,Corrida,2022-11-21,Noite,6.0,00:30:33,00:05:03,11.84,50.1,Olympikus Corre 1 Corre 1
+8156812715,TC 5.0 km,Corrida,2022-11-23,Manhã,5.0,00:24:58,00:04:59,12.02,24.2,Olympikus Corre 1 Corre 1
+8178350991,TP 49.0 km,Pedalada,2022-11-26,Noite,49.0,01:43:39,00:02:05,28.58,147,Show Gravel
+8212512230,TC 9.0 km,Corrida,2022-12-05,Noite,9.0,00:52:17,00:05:48,10.33,157.7,Olympikus Corre 1 Corre 1
+8229701915,TC 8.0 km,Corrida,2022-12-10,Noite,8.0,00:44:08,00:05:31,10.88,96.3,Olympikus Corre 1 Corre 1
+8256526015,TC 7.0 km,Corrida,2022-12-16,Noite,7.0,00:41:44,00:05:33,10.78,11.7,Olympikus Corre 1 Corre 1
+8272604365,TC 6.0 km,Corrida,2022-12-20,Noite,6.0,00:33:01,00:05:30,10.9,11.3,Olympikus Corre 1 Corre 1
+8283890201,TP 26.0 km,Pedalada,2022-12-02,Noite,26.0,01:01:48,00:02:19,25.72,148,Show Gravel
+8283898250,TP 30.0 km,Pedalada,2022-12-23,Noite,30.0,00:58:50,00:01:57,30.63,83,Show Gravel
+8291082624,TC 6.0 km,Corrida,2022-12-25,Noite,6.0,00:37:04,00:06:09,9.74,63.8,Olympikus Corre 1 Corre 1
+8295400408,TP 31.0 km,Pedalada,2022-12-26,Noite,31.0,01:00:15,00:01:56,31.02,67,Show Gravel
+8295412346,TP 32.0 km,Pedalada,2022-12-26,Noite,32.0,01:23:56,00:02:34,23.38,168,Show Gravel
+8299912149,TP 53.0 km,Pedalada,2022-12-27,Noite,53.0,01:56:58,00:02:10,27.68,171,Show Gravel
+8307858969,TP 45.0 km,Pedalada,2022-12-29,Tarde,45.0,01:31:36,00:02:02,29.5,141,Show Gravel
+8316675230,TP 58.0 km,Pedalada,2022-12-31,Manhã,58.0,02:00:27,00:02:04,28.95,160,Show Gravel
+8322969103,TC 6.0 km,Corrida,2023-01-01,Noite,6.0,00:33:26,00:05:34,10.77,43.5,Olympikus Corre 1 Corre 1
+8329090586,TP 55.0 km,Pedalada,2023-01-02,Noite,55.0,02:52:54,00:03:06,19.26,294,Show Gravel
+8355821325,TP 63.0 km,Pedalada,2023-01-07,Noite,63.0,02:54:10,00:02:43,21.97,479,Show Gravel
+8366726373,TP 41.0 km,Pedalada,2023-01-09,Noite,41.0,01:24:26,00:02:02,29.43,91,Show Gravel
+8404215076,TP 38.0 km,Pedalada,2023-01-16,Noite,38.0,02:04:01,00:03:14,18.53,605,Show Gravel
+8409773129,TP 29.0 km,Pedalada,2023-01-17,Noite,29.0,00:58:25,00:02:00,29.87,53,Show Gravel
+8447567342,TC 7.0 km,Corrida,2023-01-24,Noite,7.0,00:39:39,00:05:39,10.59,108.3,Olympikus Corre 1 Corre 1
+8458041403,TP 50.0 km,Pedalada,2023-01-26,Noite,50.0,02:04:22,00:02:27,24.33,277,Orbea Aqua
+8490966031,TP 24.0 km,Pedalada,2023-01-31,Noite,24.0,01:03:10,00:02:33,23.4,123,Orbea Aqua
+8491039719,TP 27.0 km,Pedalada,2023-02-01,Noite,27.0,00:55:08,00:01:58,30.44,69,Orbea Aqua
+8512838989,TP 45.0 km,Pedalada,2023-02-05,Noite,45.0,01:31:04,00:02:01,29.67,112,Orbea Aqua
+8529055516,TC 6.0 km,Corrida,2023-02-08,Noite,6.0,00:34:36,00:05:44,10.44,107.9,Olympikus Corre 1 Corre 1
+8564227770,TC 5.0 km,Corrida,2023-02-15,Manhã,5.0,00:30:34,00:06:06,9.81,39.8,Olympikus Corre 1 Corre 1
+8600880264,TC 6.0 km,Corrida,2023-02-21,Noite,6.0,00:35:27,00:05:54,10.16,43.8,Olympikus Corre 1 Corre 1
+8633751607,TP 29.0 km,Pedalada,2023-02-27,Noite,29.0,01:58:26,00:03:57,15.18,133.7,Show Gravel
+8651759679,TC 6.0 km,Corrida,2023-03-03,Manhã,6.0,00:31:23,00:05:11,11.57,12.8,Olympikus Corre 1 Corre 1
+8672720719,TP 39.0 km,Pedalada,2023-03-06,Noite,39.0,01:26:53,00:02:12,27.08,111,Show Gravel
+8710077755,TC 5.0 km,Corrida,2023-03-13,Noite,5.0,00:27:43,00:05:29,10.91,74.4,Olympikus Corre 1 Corre 1
+8727211061,TP 50.0 km,Pedalada,2023-03-16,Noite,50.0,01:59:43,00:02:21,25.38,259,Show Gravel
+8731757890,TC 6.0 km,Corrida,2023-03-17,Noite,6.0,00:32:47,00:05:27,10.98,64.4,Olympikus Corre 1 Corre 1
+8755812593,TP 44.0 km,Pedalada,2023-03-21,Noite,44.0,02:06:35,00:02:49,21.21,204,Show Gravel
+8767149772,TP 72.0 km,Pedalada,2023-03-23,Noite,72.0,03:02:44,00:02:32,23.66,462,Show Gravel
+8788469598,TC 7.0 km,Corrida,2023-03-27,Noite,7.0,00:40:02,00:05:40,10.58,98.4,Olympikus Corre 1 Corre 1
+8805962466,TP 40.0 km,Pedalada,2023-03-30,Noite,40.0,01:27:26,00:02:08,28.07,125,Show Gravel
+8828076971,TP 36.0 km,Pedalada,2023-04-03,Noite,36.0,01:11:32,00:01:59,30.22,59,Show Gravel
+8844993129,TC 6.0 km,Corrida,2023-04-06,Noite,6.0,00:33:39,00:05:36,10.7,92.2,Olympikus Corre 1 Corre 1
+8869276996,TP 31.0 km,Pedalada,2023-04-10,Noite,31.0,01:08:00,00:02:07,28.2,64,Show Gravel
+8891763700,TP 30.0 km,Pedalada,2023-04-14,Noite,30.0,00:59:36,00:01:58,30.26,46,Show Gravel
+8909963689,TP 56.0 km,Pedalada,2023-04-17,Noite,56.0,02:21:46,00:02:31,23.82,275,Show Gravel
+8933099960,TP 108.0 km,Pedalada,2023-04-21,Manhã,108.0,04:33:02,00:02:30,23.9,1333,Show Gravel
+8951196153,TC 5.0 km,Corrida,2023-04-24,Noite,5.0,00:26:06,00:05:13,11.49,59.6,Olympikus Corre 1 Corre 1
+8957662252,TP 30.0 km,Pedalada,2023-04-25,Noite,30.0,01:05:20,00:02:10,27.6,107,Show Gravel
+8957662291,TP 21.0 km,Pedalada,2023-04-25,Noite,21.0,01:02:55,00:02:51,20.95,151,Show Gravel
+8993511557,TP 27.0 km,Pedalada,2023-05-01,Tarde,27.0,01:15:51,00:02:47,21.54,145,Show Gravel
+8993533968,TP 34.0 km,Pedalada,2023-05-01,Noite,34.0,01:09:47,00:02:01,29.62,57,Show Gravel
+9002401149,TC 5.0 km,Corrida,2023-05-03,Tarde,5.0,00:25:49,00:05:08,11.67,42.6,Olympikus Corre 1 Corre 1
+9017807188,TC 8.0 km,Corrida,2023-05-05,Noite,8.0,00:51:38,00:06:22,9.4,158.7,Olympikus Corre 1 Corre 1
+9030069630,TC 6.0 km,Corrida,2023-05-07,Noite,6.0,00:32:21,00:05:23,11.13,55,Olympikus Corre 1 Corre 1
+9036308773,TC 5.0 km,Corrida,2023-05-08,Noite,5.0,00:29:39,00:05:49,10.3,24.4,Olympikus Corre 1 Corre 1
+9042514525,TC 6.0 km,Corrida,2023-05-09,Noite,6.0,00:33:14,00:05:29,10.92,63.3,Puma Flyer Runner
+9055523147,TP 75.0 km,Pedalada,2023-05-11,Noite,75.0,03:15:15,00:02:35,23.18,529,Show Gravel
+9063030647,TP 63.0 km,Pedalada,2023-05-13,Manhã,63.0,01:54:05,00:01:47,33.57,498,Show Gravel
+9075483379,TP 47.0 km,Pedalada,2023-05-15,Manhã,47.0,01:43:35,00:02:09,27.77,170,Show Gravel
+9081567200,TP 103.0 km,Pedalada,2023-05-16,Manhã,103.0,04:22:18,00:02:32,23.58,1689,Show Gravel
+9093874995,TP 78.0 km,Pedalada,2023-05-18,Manhã,78.0,03:41:17,00:02:48,21.37,1722,Show Gravel
+9108055867,TP 110.0 km,Pedalada,2023-05-20,Manhã,110.0,05:04:59,00:02:46,21.65,1263,Show Gravel
+9235243424,TC 5.0 km,Corrida,2023-06-09,Noite,5.0,00:28:57,00:05:43,10.47,41.8,Puma Flyer Runner
+9254415955,TP 23.0 km,Pedalada,2023-06-12,Noite,23.0,00:50:30,00:02:07,28.31,76,Show Gravel
+9260680214,TC 5.0 km,Corrida,2023-06-13,Noite,5.0,00:28:11,00:05:38,10.64,59.5,Olympikus Corre 1 Corre 1
+9273220391,TC 5.0 km,Corrida,2023-06-15,Noite,5.0,00:28:29,00:05:35,10.72,52.7,Olympikus Corre 1 Corre 1
+9298182524,TP 40.0 km,Pedalada,2023-06-19,Noite,40.0,01:46:34,00:02:39,22.55,278,Show Gravel
+9342864046,TP 50.0 km,Pedalada,2023-06-26,Noite,50.0,02:10:34,00:02:34,23.38,299,Show Gravel
+9346997038,TC 7.0 km,Corrida,2023-06-27,Noite,7.0,00:42:55,00:06:07,9.79,146.7,Olympikus Corre 1 Corre 1
+9359081039,TC 6.0 km,Corrida,2023-06-29,Noite,6.0,00:34:02,00:05:40,10.58,25.4,Olympikus Corre 1 Corre 1
+9364889119,TC 6.0 km,Corrida,2023-06-30,Noite,6.0,00:33:12,00:05:32,10.84,26.8,Olympikus Corre 1 Corre 1
+9377379833,TP 50.0 km,Pedalada,2023-07-02,Tarde,50.0,03:21:23,00:04:00,14.94,234.6,Show Gravel
+9383264388,TC 6.0 km,Corrida,2023-07-03,Noite,6.0,00:33:25,00:05:33,10.79,44,Olympikus Corre 1 Corre 1
+9408130324,TC 6.0 km,Corrida,2023-07-07,Noite,6.0,00:33:44,00:05:35,10.73,52.7,Olympikus Corre 1 Corre 1
+9426871643,TC 6.0 km,Corrida,2023-07-10,Noite,6.0,00:33:38,00:05:36,10.7,44.9,Olympikus Corre 1 Corre 1
+9446354092,TC 6.0 km,Corrida,2023-07-13,Noite,6.0,00:32:47,00:05:27,10.98,70.7,Olympikus Corre 1 Corre 1
+9521588799,TC 5.0 km,Corrida,2023-07-25,Noite,5.0,00:26:41,00:05:19,11.27,33.8,Olympikus Corre 1 Corre 1
+9552066320,TP 30.0 km,Pedalada,2023-07-30,Tarde,30.0,01:14:24,00:02:27,24.48,420,Show Gravel
+9596867397,TP 33.0 km,Pedalada,2023-08-06,Noite,33.0,01:29:03,00:02:41,22.3,268,Show Gravel
+9603442149,TP 30.0 km,Pedalada,2023-08-07,Noite,30.0,01:02:22,00:02:04,28.97,109,Show Gravel
+9675454678,TP 20.0 km,Pedalada,2023-08-18,Noite,20.0,01:12:40,00:03:36,16.61,275,Show Gravel
+9732950381,TP 110.0 km,Pedalada,2023-08-27,Manhã,110.0,05:00:25,00:02:42,22.13,1427,Show Gravel
+9778685381,TC 5.0 km,Corrida,2023-09-03,Noite,5.0,00:30:04,00:06:00,10.0,63.7,Olympikus Corre 1 Corre 1
+9810583336,TC 6.0 km,Corrida,2023-09-08,Noite,6.0,00:34:30,00:05:45,10.43,69.6,Olympikus Corre 1 Corre 1
+9876770079,TP 37.0 km,Pedalada,2023-09-18,Noite,37.0,02:01:47,00:03:15,18.45,236,Show Gravel
+9890224876,TP 44.0 km,Pedalada,2023-09-20,Noite,44.0,02:29:32,00:03:22,17.74,730,Show Gravel
+9907224568,TC 6.0 km,Corrida,2023-09-23,Noite,6.0,00:33:55,00:05:35,10.74,42.1,Olympikus Corre 1 Corre 1
+9939700346,TC 5.0 km,Corrida,2023-09-28,Noite,5.0,00:29:43,00:05:54,10.16,125.8,Olympikus Corre 1 Corre 1
+9951658030,TC 6.0 km,Corrida,2023-09-30,Noite,6.0,00:32:35,00:05:25,11.07,61.1,Olympikus Corre 1 Corre 1
+9962605845,TP 34.0 km,Pedalada,2023-10-02,Tarde,34.0,01:25:22,00:02:27,24.33,280,Show Gravel
+9990587682,TP 35.0 km,Pedalada,2023-10-06,Noite,35.0,02:14:58,00:03:45,15.96,504,Show Gravel
+10009131444,TC 8.0 km,Corrida,2023-10-09,Noite,8.0,00:46:17,00:05:46,10.38,105.2,Olympikus Corre 1 Corre 1
+10045526370,TP 54.0 km,Pedalada,2023-10-15,Tarde,54.0,02:19:54,00:02:34,23.31,376,Show Gravel
+10086721721,TC 8.0 km,Corrida,2023-10-22,Noite,8.0,00:46:07,00:05:45,10.42,86.3,Olympikus Corre 1 Corre 1
+10093107942,TP 22.0 km,Pedalada,2023-10-23,Noite,22.0,01:03:40,00:02:50,21.14,364,Show Gravel
+10127897965,TC 6.0 km,Corrida,2023-10-29,Noite,6.0,00:34:36,00:05:44,10.46,55.1,Olympikus Corre 1 Corre 1
+10133110796,TC 4.0 km,Corrida,2023-10-30,Noite,4.0,00:22:21,00:05:35,10.74,24.4,Olympikus Corre 1 Corre 1
+10167110041,TP 48.0 km,Pedalada,2023-11-05,Tarde,48.0,02:08:07,00:02:39,22.52,402,Show Gravel
+10208922351,TC 5.0 km,Corrida,2023-11-12,Noite,5.0,00:28:02,00:05:33,10.79,46.6,Olympikus Corre 1 Corre 1
+10208922372,TC 6.0 km,Corrida,2023-11-06,Noite,6.0,00:31:50,00:05:16,11.37,27,Olympikus Corre 1 Corre 1
+10238226253,TP 30.0 km,Pedalada,2023-11-17,Noite,30.0,01:02:01,00:02:00,29.93,13.2,Show Gravel
+10250605996,TP 31.0 km,Pedalada,2023-11-20,Manhã,31.0,00:55:38,00:01:45,34.02,116,Show Gravel
+10250646230,TP 36.0 km,Pedalada,2023-11-20,Manhã,36.0,01:25:56,00:02:23,25.17,203,Show Gravel
+10432146951,TC 5.0 km,Corrida,2023-12-24,Noite,5.0,00:27:50,00:05:34,10.78,16.7,Olympikus Corre 1 Corre 1
+10442282943,TC 5.0 km,Corrida,2023-12-25,Noite,5.0,00:28:01,00:05:35,10.73,17,Olympikus Corre 1 Corre 1
+10442282982,TP 32.0 km,Pedalada,2023-12-26,Noite,32.0,01:51:30,00:03:24,17.61,424.9,Show Gravel
+10459022330,TC 6.0 km,Corrida,2023-12-29,Noite,6.0,00:34:00,00:05:40,10.59,31.2,Olympikus Corre 1 Corre 1
+10466721054,TC 12.0 km,Corrida,2023-12-31,Manhã,12.0,01:11:27,00:05:57,10.08,165.6,Olympikus Corre 1 Corre 1
+10491594401,TC 6.0 km,Corrida,2024-01-03,Noite,6.0,00:33:14,00:05:32,10.83,30.6,Olympikus Corre 1 Corre 1
+10498206191,TC 15.0 km,Corrida,2024-01-05,Manhã,15.0,01:39:53,00:06:39,9.01,72,Olympikus Corre 1 Corre 1
+10572442702,TC 4.0 km,Corrida,2024-01-16,Noite,4.0,00:28:53,00:06:01,9.95,32.3,Olympikus Corre 1 Corre 1
+10572492983,TC 5.0 km,Corrida,2024-01-07,Noite,5.0,00:29:30,00:05:53,10.19,18.8,Olympikus Corre 1 Corre 1
+10600260073,TC 7.0 km,Corrida,2024-01-21,Manhã,7.0,00:43:23,00:05:59,10.03,123.2,Olympikus Corre 1 Corre 1
+10743780684,TC 5.0 km,Corrida,2024-02-11,Noite,5.0,00:28:37,00:05:42,10.5,39.9,Olympikus Corre 1 Corre 1
+10771985659,TC 5.0 km,Corrida,2024-02-13,Noite,5.0,00:28:41,00:05:43,10.48,25.6,Olympikus Corre 1 Corre 1
+10829832390,TC 5.0 km,Corrida,2024-02-18,Noite,5.0,00:29:36,00:05:53,10.18,37.4,Olympikus Corre 1 Corre 1
+10837677591,TC 4.0 km,Corrida,2024-02-25,Noite,4.0,00:22:38,00:05:39,10.6,54.1,Olympikus Corre 1 Corre 1
+10843522075,TC 4.0 km,Corrida,2024-02-26,Noite,4.0,00:22:31,00:05:37,10.66,20.3,Olympikus Corre 1 Corre 1
+10858055501,TC 5.0 km,Corrida,2024-02-28,Noite,5.0,00:33:44,00:06:07,9.8,129,Olympikus Corre 1 Corre 1
+10891492167,TP 35.0 km,Pedalada,2023-12-22,Noite,35.0,01:38:56,00:02:48,21.31,450,Show Gravel
+10891503394,TP 26.0 km,Pedalada,2024-03-04,Noite,26.0,01:14:22,00:02:50,21.07,387,Show Gravel
+10919184735,TC 5.0 km,Corrida,2024-03-03,Noite,5.0,00:28:53,00:05:45,10.41,46,Olympikus Corre 1 Corre 1
+10933727665,TP 25.0 km,Pedalada,2024-03-10,Noite,25.0,01:17:32,00:03:03,19.65,340.5,Show Gravel
+10947453416,TP 49.0 km,Pedalada,2024-03-12,Noite,49.0,02:17:54,00:02:46,21.66,312,Show Gravel
+11038200569,TC 6.0 km,Corrida,2024-03-17,Noite,6.0,00:33:49,00:05:37,10.66,57.3,Olympikus Corre 1 Corre 1
+11038200642,TC 5.0 km,Corrida,2024-03-24,Noite,5.0,00:28:25,00:05:40,10.58,43.9,Olympikus Corre 1 Corre 1
+11052044805,TC 5.0 km,Corrida,2024-03-27,Noite,5.0,00:30:26,00:06:05,9.86,123.5,Olympikus Corre 1 Corre 1
+11078930535,TC 5.0 km,Corrida,2024-03-29,Noite,5.0,00:30:27,00:05:40,10.56,99.4,Olympikus Corre 1 Corre 1
+11078930554,TC 6.0 km,Corrida,2024-03-31,Noite,6.0,00:34:52,00:05:47,10.36,59.3,Adidas Duramo rc
+11086720872,TC 6.0 km,Corrida,2024-04-01,Noite,6.0,00:34:33,00:05:44,10.44,54.2,Adidas Duramo rc
+11190523684,TC 5.0 km,Corrida,2024-04-15,Noite,5.0,00:27:19,00:05:25,11.05,44,Adidas Duramo rc
+11190523858,TC 4.0 km,Corrida,2024-04-06,Noite,4.0,00:20:59,00:05:14,11.44,26.3,Adidas Duramo rc
+11190523883,TC 5.0 km,Corrida,2024-04-14,Noite,5.0,00:28:31,00:05:21,11.21,41.5,Adidas Duramo rc
+11235351927,TC 5.0 km,Corrida,2024-04-21,Noite,5.0,00:26:50,00:05:22,11.18,44.3,Adidas Duramo rc
+11275479069,TC 9.0 km,Corrida,2024-04-26,Noite,9.0,00:54:01,00:05:59,10.01,152.7,Adidas Duramo rc
+11294367657,TC 6.0 km,Corrida,2024-04-29,Noite,6.0,00:35:14,00:05:43,10.47,34.8,Adidas Duramo rc
+11302183190,TC 6.0 km,Corrida,2024-04-30,Noite,6.0,00:35:28,00:05:54,10.17,16.6,Adidas Duramo rc
+11312160408,TP 31.0 km,Pedalada,2024-05-01,Noite,31.0,01:52:35,00:03:35,16.7,444,Show Gravel
+11325896448,TP 25.0 km,Pedalada,2024-05-03,Noite,25.0,01:00:38,00:02:21,25.36,311,Show Gravel
+11325903046,TP 25.0 km,Pedalada,2024-05-03,Noite,25.0,00:58:44,00:02:19,25.79,274.4,Show Gravel
+11349280731,TP 25.0 km,Pedalada,2024-05-06,Noite,25.0,00:56:58,00:02:12,27.23,288,Show Gravel
+11380874780,TP 23.0 km,Pedalada,2024-05-10,Noite,23.0,01:01:37,00:02:38,22.75,404,Show Gravel
+11396939720,TC 6.0 km,Corrida,2024-05-12,Noite,6.0,00:31:39,00:05:15,11.39,26.4,Adidas Duramo rc
+11405247656,TP 36.0 km,Pedalada,2024-05-13,Noite,36.0,01:00:36,00:01:40,35.76,134,Show Gravel
+11405252181,TP 20.0 km,Pedalada,2024-05-14,Noite,20.0,00:47:15,00:02:19,25.78,241,Show Gravel
+11420617207,TP 24.0 km,Pedalada,2024-05-15,Noite,24.0,01:06:44,00:02:40,22.44,346,Show Gravel
+11442213679,TC 5.0 km,Corrida,2024-05-18,Noite,5.0,00:26:49,00:05:21,11.19,37.3,Adidas Duramo rc
+11451178139,TC 6.0 km,Corrida,2024-05-19,Noite,6.0,00:32:26,00:05:23,11.12,67.2,Adidas Duramo rc
+11459851723,TP 60.0 km,Pedalada,2024-05-20,Noite,60.0,01:59:05,00:01:58,30.33,495,Show Gravel
+11467158634,TC 5.0 km,Corrida,2024-05-21,Noite,5.0,00:27:37,00:05:24,11.1,37.2,Adidas Duramo rc
+11489597019,TC 5.0 km,Corrida,2024-05-24,Noite,5.0,00:30:13,00:05:22,11.16,49.5,Adidas Duramo rc
+11505732193,TC 7.0 km,Corrida,2024-05-26,Noite,7.0,00:40:02,00:05:24,11.11,45.8,Adidas Duramo rc
+11521154400,TP 54.0 km,Pedalada,2024-05-28,Noite,54.0,02:01:21,00:02:13,27.02,498,Show Gravel
+11543066369,TC 8.0 km,Corrida,2024-05-31,Noite,8.0,00:43:14,00:05:23,11.13,53.3,Adidas Duramo rc
+11562227597,TC 7.0 km,Corrida,2024-06-03,Manhã,7.0,00:37:53,00:05:24,11.09,55,Adidas Duramo rc
+11570215867,TC 8.0 km,Corrida,2024-06-04,Manhã,8.0,00:44:10,00:05:31,10.87,38.8,Adidas Duramo rc
+11587096617,TC 6.0 km,Corrida,2024-06-06,Manhã,6.0,00:40:25,00:05:47,10.36,65.8,Adidas Duramo rc
+11607319829,TC 4.0 km,Corrida,2024-06-08,Noite,4.0,00:24:28,00:05:07,11.72,51.2,Adidas Duramo rc
+11618080865,TC 6.0 km,Corrida,2024-06-10,Manhã,6.0,00:33:29,00:05:34,10.77,28.1,Adidas Duramo rc
+11630729805,TC 4.0 km,Corrida,2024-06-11,Noite,4.0,00:25:31,00:05:56,10.11,13.3,Adidas Duramo rc
+11638856373,TP 47.0 km,Pedalada,2024-06-12,Noite,47.0,02:07:01,00:02:40,22.5,512.8,Show Gravel
+11653175402,TP 28.0 km,Pedalada,2024-06-14,Noite,28.0,00:59:23,00:02:03,29.06,7.2,Show Gravel
+11653457308,TP 61.0 km,Pedalada,2024-06-14,Noite,61.0,02:35:06,00:02:30,23.96,376,Show Gravel
+11660950831,TC 6.0 km,Corrida,2024-06-15,Noite,6.0,00:39:58,00:05:57,10.07,46.2,Adidas Duramo rc
+11685498839,TP 58.0 km,Pedalada,2024-06-18,Noite,58.0,02:21:27,00:02:24,24.89,369,Show Gravel
+11685575619,TP 23.0 km,Pedalada,2024-06-18,Noite,23.0,00:46:35,00:01:59,30.17,7.6,Show Gravel
+11708204153,TC 5.0 km,Corrida,2024-06-21,Noite,5.0,00:27:09,00:05:25,11.07,37.2,Adidas Duramo rc
+11708204203,TC 5.0 km,Corrida,2024-06-20,Noite,5.0,00:26:43,00:05:20,11.23,28.8,Adidas Duramo rc
+11723935734,TC 8.0 km,Corrida,2024-06-23,Noite,8.0,00:42:46,00:05:20,11.22,49,Adidas Duramo rc
+11731770698,TP 54.0 km,Pedalada,2024-06-24,Noite,54.0,02:25:28,00:02:41,22.33,458,Show Gravel
+11740010159,TC 8.0 km,Corrida,2024-06-25,Noite,8.0,00:43:34,00:05:26,11.02,57.2,PUMA Velocity Nitro 3
+11749066622,TP 47.0 km,Pedalada,2024-06-26,Noite,47.0,02:46:28,00:03:28,17.23,442,Show Gravel
+11762933075,TP 30.0 km,Pedalada,2024-06-28,Noite,30.0,00:59:23,00:01:58,30.32,12.7,Show Gravel
+11762933103,TC 5.0 km,Corrida,2024-06-27,Noite,5.0,00:26:31,00:05:15,11.4,34.9,PUMA Velocity Nitro 3
+11763338730,TP 72.0 km,Pedalada,2024-06-28,Noite,72.0,02:59:42,00:02:28,24.18,437,Show Gravel
+11785983856,TC 10.0 km,Corrida,2024-07-01,Noite,10.0,00:54:55,00:05:28,10.95,86,PUMA Velocity Nitro 3
+11817559718,TC 10.0 km,Corrida,2024-07-05,Noite,10.0,01:00:16,00:05:53,10.19,167.5,PUMA Velocity Nitro 3
+11833380312,TC 10.0 km,Corrida,2024-07-07,Noite,10.0,01:00:10,00:05:54,10.15,78.7,PUMA Velocity Nitro 3
+11857964508,TC 8.0 km,Corrida,2024-07-10,Noite,8.0,00:44:32,00:05:34,10.78,65.4,PUMA Velocity Nitro 3
+11897891729,TP 45.0 km,Pedalada,2024-07-15,Noite,45.0,02:37:17,00:03:28,17.28,499,Show Gravel
+11930865784,TC 7.0 km,Corrida,2024-07-19,Noite,7.0,00:46:32,00:06:38,9.03,68.8,PUMA Velocity Nitro 3
+11947715527,TC 8.0 km,Corrida,2024-07-21,Noite,8.0,00:43:51,00:05:28,10.95,54.6,Adidas Duramo rc
+11955399794,TC 8.0 km,Corrida,2024-07-22,Noite,8.0,00:45:28,00:05:30,10.9,49.7,PUMA Velocity Nitro 3
+11973356232,TC 9.0 km,Corrida,2024-07-24,Noite,9.0,00:49:51,00:05:31,10.84,67.5,PUMA Velocity Nitro 3
+11989212249,TC 10.0 km,Corrida,2024-07-26,Noite,10.0,00:57:21,00:05:43,10.47,167.5,PUMA Velocity Nitro 3
+12014671479,TP 21.0 km,Pedalada,2024-07-29,Noite,21.0,01:42:44,00:04:51,12.34,371,Show Gravel
+12046808856,TC 10.0 km,Corrida,2024-08-02,Noite,10.0,00:56:48,00:05:40,10.57,73.5,PUMA Velocity Nitro 3
+12046808927,TC 10.0 km,Corrida,2024-07-28,Noite,10.0,01:02:10,00:06:12,9.66,84,PUMA Velocity Nitro 3
+12046808975,TC 8.0 km,Corrida,2024-07-30,Noite,8.0,00:45:56,00:05:43,10.48,54.4,PUMA Velocity Nitro 3
+12072161588,TC 8.0 km,Corrida,2024-08-05,Noite,8.0,00:45:41,00:05:39,10.6,101,PUMA Velocity Nitro 3
+12090368530,TC 8.0 km,Corrida,2024-08-07,Noite,8.0,00:43:27,00:05:25,11.05,63.4,PUMA Velocity Nitro 3
+12098659207,TC 8.0 km,Corrida,2024-08-08,Noite,8.0,00:44:41,00:05:32,10.82,62,PUMA Velocity Nitro 3
+12106341317,TC 8.0 km,Corrida,2024-08-09,Noite,8.0,00:41:46,00:05:11,11.55,59.6,PUMA Velocity Nitro 3
+12114612053,TC 8.0 km,Corrida,2024-08-10,Noite,8.0,00:45:58,00:05:42,10.52,65.4,PUMA Velocity Nitro 3
+12123798642,TC 8.0 km,Corrida,2024-08-11,Noite,8.0,00:46:30,00:05:47,10.37,52.4,PUMA Velocity Nitro 3
+12131880314,TC 8.0 km,Corrida,2024-08-12,Noite,8.0,00:45:01,00:05:37,10.68,138.1,PUMA Velocity Nitro 3
+12140914418,TC 8.0 km,Corrida,2024-08-13,Noite,8.0,00:41:40,00:05:12,11.53,61,PUMA Velocity Nitro 3
+12165618096,TC 6.0 km,Corrida,2024-08-16,Noite,6.0,00:34:03,00:05:34,10.75,52.3,PUMA Velocity Nitro 3
+12183629895,TC 10.0 km,Corrida,2024-08-18,Noite,10.0,00:55:04,00:05:30,10.9,53.6,PUMA Velocity Nitro 3
+12191336123,TP 28.0 km,Pedalada,2024-08-19,Noite,28.0,01:22:11,00:02:52,20.92,457,Show Gravel
+12200494292,TC 8.0 km,Corrida,2024-08-20,Noite,8.0,00:50:39,00:06:17,9.52,73.6,PUMA Velocity Nitro 3
+12209506165,TC 8.0 km,Corrida,2024-08-21,Noite,8.0,00:45:25,00:05:33,10.79,65.4,PUMA Velocity Nitro 3
+12218380182,TC 6.0 km,Corrida,2024-08-22,Noite,6.0,00:32:17,00:05:17,11.34,22.8,PUMA Velocity Nitro 3
+12260624784,TC 10.0 km,Corrida,2024-08-27,Noite,10.0,00:55:14,00:05:31,10.86,82.6,PUMA Velocity Nitro 3
+12260624936,TC 10.0 km,Corrida,2024-08-26,Noite,10.0,00:59:37,00:05:57,10.07,68.6,PUMA Velocity Nitro 3
+12284933279,TC 9.0 km,Corrida,2024-08-29,Noite,9.0,00:53:00,00:05:52,10.2,76.3,PUMA Velocity Nitro 3
+12293450212,TC 8.0 km,Corrida,2024-08-31,Noite,8.0,00:43:24,00:05:25,11.06,84.7,PUMA Velocity Nitro 3
+12301887007,TC 12.0 km,Corrida,2024-09-01,Noite,12.0,01:08:30,00:05:42,10.52,128.1,PUMA Velocity Nitro 3
+12345844441,TC 6.0 km,Corrida,2024-09-02,Noite,6.0,00:43:52,00:07:16,8.25,24.3,Puma Flyer Runner
+12345844475,TC 10.0 km,Corrida,2024-09-03,Noite,10.0,01:00:08,00:06:00,9.98,123.2,PUMA Velocity Nitro 3
+12345844548,TC 6.0 km,Corrida,2024-09-04,Noite,6.0,00:33:30,00:05:34,10.76,61.3,PUMA Velocity Nitro 3
+12345844592,TC 8.0 km,Corrida,2024-09-05,Noite,8.0,00:44:11,00:05:30,10.89,66.4,PUMA Velocity Nitro 3
+12362141790,TC 3.0 km,Corrida,2024-09-08,Noite,3.0,00:18:08,00:06:02,9.93,38.9,PUMA Velocity Nitro 3
+12362141884,TC 8.0 km,Corrida,2024-09-08,Noite,8.0,00:44:51,00:05:35,10.72,46.4,PUMA Velocity Nitro 3
+12370738192,TC 7.0 km,Corrida,2024-09-09,Noite,7.0,00:59:53,00:08:33,7.01,61.3,PUMA Velocity Nitro 3
+12379414701,TC 8.0 km,Corrida,2024-09-10,Noite,8.0,00:42:49,00:05:21,11.21,51.5,PUMA Velocity Nitro 3
+12387779224,TP 23.0 km,Pedalada,2024-09-11,Noite,23.0,01:05:36,00:02:48,21.36,381,Show Gravel
+12402892395,TC 11.0 km,Corrida,2024-09-13,Noite,11.0,01:01:29,00:05:35,10.74,71.4,PUMA Velocity Nitro 3
+12411749139,TC 8.0 km,Corrida,2024-09-14,Noite,8.0,00:52:29,00:06:33,9.16,72.3,PUMA Velocity Nitro 3
+12419825726,TC 10.0 km,Corrida,2024-09-15,Noite,10.0,00:53:08,00:05:18,11.3,66.8,PUMA Velocity Nitro 3
+12428295328,TC 8.0 km,Corrida,2024-09-16,Noite,8.0,00:48:57,00:06:06,9.82,48.2,PUMA Velocity Nitro 3
+12446089875,TC 5.0 km,Corrida,2024-09-18,Noite,5.0,00:29:19,00:05:30,10.91,120.2,PUMA Velocity Nitro 3
+12470310299,TC 8.0 km,Corrida,2024-09-21,Noite,8.0,00:43:46,00:05:27,10.98,70.9,PUMA Velocity Nitro 3
+12479205247,TC 10.0 km,Corrida,2024-09-22,Noite,10.0,00:55:25,00:05:30,10.9,69.6,PUMA Velocity Nitro 3
+12487509007,TC 5.0 km,Corrida,2024-09-23,Noite,5.0,00:38:29,00:07:26,8.06,17.1,Puma Flyer Runner
+12496366087,TC 8.0 km,Corrida,2024-09-24,Noite,8.0,00:42:54,00:05:20,11.22,52,PUMA Velocity Nitro 3
+12519251882,TC 3.0 km,Corrida,2024-09-27,Noite,3.0,00:18:01,00:05:46,10.39,20.4,PUMA Velocity Nitro 3
+12519252066,TC 9.0 km,Corrida,2024-09-27,Noite,9.0,00:49:07,00:05:27,11.01,75.7,PUMA Velocity Nitro 3
+12527114530,TC 9.0 km,Corrida,2024-09-28,Noite,9.0,00:57:03,00:06:19,9.48,79.5,PUMA Velocity Nitro 3
+12536057634,TC 15.0 km,Corrida,2024-09-29,Noite,15.0,01:25:34,00:05:42,10.53,132.7,PUMA Velocity Nitro 3
+12584784218,TC 8.0 km,Corrida,2024-10-01,Noite,8.0,00:46:16,00:05:41,10.53,61,PUMA Velocity Nitro 3
+12584784226,TC 10.0 km,Corrida,2024-10-02,Noite,10.0,00:59:32,00:05:56,10.09,81.2,PUMA Velocity Nitro 3
+12584784347,TC 8.0 km,Corrida,2024-10-04,Noite,8.0,00:46:52,00:05:49,10.31,77,PUMA Velocity Nitro 3
+12594580596,TC 8.0 km,Corrida,2024-10-06,Noite,8.0,00:42:38,00:05:15,11.43,49.3,PUMA Velocity Nitro 3
+12601499153,TC 10.0 km,Corrida,2024-10-07,Noite,10.0,00:59:58,00:05:55,10.12,67.1,PUMA Velocity Nitro 3
+12618036322,TC 8.0 km,Corrida,2024-10-09,Noite,8.0,00:41:57,00:05:14,11.44,67.5,PUMA Velocity Nitro 3
+12643804379,TC 8.0 km,Corrida,2024-10-13,Manhã,8.0,00:42:27,00:05:17,11.32,57.3,Fila Racer T2 T2
+12649255889,TC 8.0 km,Corrida,2024-10-13,Noite,8.0,00:43:13,00:05:23,11.13,90.5,Fila Racer T2 T2
+12656889395,TC 10.0 km,Corrida,2024-10-14,Noite,10.0,00:58:36,00:05:51,10.25,8,Fila Racer T2 T2
+12665307407,TC 8.0 km,Corrida,2024-10-15,Noite,8.0,00:40:35,00:04:59,12.02,71.4,Fila Racer T2 T2
+12705607552,TC 10.0 km,Corrida,2024-10-20,Noite,10.0,00:53:34,00:05:21,11.21,84.1,Fila Racer T2 T2
+12705607599,TC 8.0 km,Corrida,2024-10-19,Noite,8.0,00:45:39,00:05:41,10.55,91.7,Fila Racer T2 T2
+12713052594,TP 59.0 km,Pedalada,2024-10-21,Noite,59.0,02:20:52,00:02:22,25.28,264,Show Gravel
+12729603120,TC 10.0 km,Corrida,2024-10-23,Noite,10.0,00:54:34,00:05:27,11.01,75.6,Fila Racer T2 T2
+12744450351,TC 15.0 km,Corrida,2024-10-25,Noite,15.0,01:24:01,00:05:36,10.71,121.3,PUMA Velocity Nitro 3
+12758353864,TC 10.0 km,Corrida,2024-10-27,Tarde,10.0,00:50:05,00:05:00,11.98,83.2,PUMA Velocity Nitro 3
+12769479869,TC 7.0 km,Corrida,2024-10-28,Noite,7.0,00:49:53,00:06:34,9.13,78.4,PUMA Velocity Nitro 3
+12784896587,TC 6.0 km,Corrida,2024-10-30,Noite,6.0,00:31:41,00:05:07,11.7,69,PUMA Velocity Nitro 3
+12799850150,TC 5.0 km,Corrida,2024-11-01,Noite,5.0,00:24:15,00:04:51,12.37,25.9,PUMA Velocity Nitro 3
+12808099894,TC 10.0 km,Corrida,2024-11-02,Noite,10.0,00:55:14,00:05:31,10.87,119.7,PUMA Velocity Nitro 3
+12824291528,TC 11.0 km,Corrida,2024-11-04,Noite,11.0,01:02:11,00:05:38,10.62,131.8,PUMA Velocity Nitro 3
+12848107527,TC 9.0 km,Corrida,2024-11-07,Noite,9.0,00:50:03,00:05:33,10.79,110.3,PUMA Velocity Nitro 3
+12848107842,TC 9.0 km,Corrida,2024-11-05,Noite,9.0,00:51:31,00:05:43,10.48,67.4,PUMA Velocity Nitro 3
+12863090412,TC 9.0 km,Corrida,2024-11-09,Noite,9.0,00:45:45,00:05:05,11.8,64.8,PUMA Velocity Nitro 3
+12879455563,TC 12.0 km,Corrida,2024-11-10,Noite,12.0,01:01:50,00:05:08,11.65,101.4,PUMA Velocity Nitro 3
+12879455809,TC 8.0 km,Corrida,2024-11-11,Noite,8.0,00:47:09,00:05:53,10.19,45.9,PUMA Velocity Nitro 3
+12894613307,TC 8.0 km,Corrida,2024-11-13,Noite,8.0,00:40:24,00:05:01,11.93,73,PUMA Velocity Nitro 3
+12916917795,TC 8.0 km,Corrida,2024-11-16,Noite,8.0,00:47:27,00:05:55,10.13,64.9,PUMA Velocity Nitro 3
+12925065787,TC 12.0 km,Corrida,2024-11-17,Noite,12.0,01:08:55,00:05:42,10.51,102.7,PUMA Velocity Nitro 3
+12932524447,TC 10.0 km,Corrida,2024-11-18,Noite,10.0,00:54:50,00:05:28,10.95,91.4,Fila Racer T2 T2
+12947159862,TC 10.0 km,Corrida,2024-11-20,Noite,10.0,00:53:20,00:05:19,11.26,97,PUMA Velocity Nitro 3
+12983216469,TC 12.0 km,Corrida,2024-11-25,Noite,12.0,01:07:47,00:05:38,10.64,183.1,PUMA Velocity Nitro 3
+12991009139,TC 6.0 km,Corrida,2024-11-23,Noite,6.0,00:33:36,00:05:31,10.86,54,PUMA Velocity Nitro 3
+12997906554,TC 8.0 km,Corrida,2024-11-27,Noite,8.0,00:43:53,00:05:28,10.95,82.8,PUMA Velocity Nitro 3
+13018801792,TC 10.0 km,Corrida,2024-11-30,Noite,10.0,00:53:13,00:05:18,11.29,103.3,Fila Racer T2 T2
+13026911409,TC 12.0 km,Corrida,2024-12-01,Noite,12.0,01:13:23,00:06:06,9.81,102.3,PUMA Velocity Nitro 3
+13033821158,TC 15.0 km,Corrida,2024-12-02,Noite,15.0,01:24:51,00:05:38,10.64,158.5,Fila Racer T2 T2
+13068156224,TC 12.0 km,Corrida,2024-12-07,Noite,12.0,01:07:21,00:05:36,10.7,184.7,PUMA Velocity Nitro 3
+13075570875,TC 10.0 km,Corrida,2024-12-08,Noite,10.0,00:59:35,00:05:56,10.1,74.7,PUMA Velocity Nitro 3
+13089304328,TC 8.0 km,Corrida,2024-12-10,Noite,8.0,00:42:03,00:05:15,11.41,68,PUMA Velocity Nitro 3
+13095676371,TC 10.0 km,Corrida,2024-12-11,Noite,10.0,00:51:30,00:05:08,11.69,134.5,PUMA Velocity Nitro 3
+13116773140,TC 9.0 km,Corrida,2024-12-14,Noite,9.0,00:58:14,00:06:26,9.32,82.9,PUMA Velocity Nitro 3
+13124504397,TC 12.0 km,Corrida,2024-12-15,Noite,12.0,01:05:33,00:05:17,11.33,155.3,PUMA Velocity Nitro 3
+13131423657,TC 8.0 km,Corrida,2024-12-16,Noite,8.0,00:49:52,00:06:12,9.66,48.6,PUMA Velocity Nitro 3
+13145676319,TC 6.0 km,Corrida,2024-12-18,Noite,6.0,00:30:15,00:05:01,11.94,37.8,Fila Racer T2 T2
+13151010201,TC 10.0 km,Corrida,2024-12-19,Noite,10.0,00:57:23,00:05:42,10.51,87.5,PUMA Velocity Nitro 3
+13161490951,TC 12.0 km,Corrida,2024-12-21,Tarde,12.0,01:06:23,00:05:31,10.85,19.7,PUMA Velocity Nitro 3
+13171015122,TC 10.0 km,Corrida,2024-12-22,Noite,10.0,00:53:59,00:05:23,11.11,79,PUMA Velocity Nitro 3
+13177688432,TC 11.0 km,Corrida,2024-12-23,Noite,11.0,01:09:32,00:06:16,9.56,99.5,PUMA Velocity Nitro 3
+13184396121,TC 10.0 km,Corrida,2024-12-24,Noite,10.0,00:52:25,00:05:14,11.45,81.9,Fila Racer T2 T2
+13187677642,TP 54.0 km,Pedalada,2024-12-25,Manhã,54.0,02:13:00,00:02:25,24.78,172.2,Show Gravel
+13189776514,TC 6.0 km,Corrida,2024-12-25,Noite,6.0,00:34:26,00:05:43,10.47,53.3,PUMA Velocity Nitro 3
+13200838018,TC 3.0 km,Corrida,2024-12-27,Tarde,3.0,00:20:44,00:05:45,10.42,54.7,PUMA Velocity Nitro 3
+13200838253,TC 12.0 km,Corrida,2024-12-27,Tarde,12.0,01:08:12,00:05:37,10.66,93.7,PUMA Velocity Nitro 3
+13207407725,TC 10.0 km,Corrida,2024-12-28,Manhã,10.0,00:57:21,00:05:44,10.46,104.1,Fila Racer T2 T2
+13238226331,TC 10.0 km,Corrida,2025-01-01,Tarde,10.0,01:00:47,00:05:59,10.01,86.9,PUMA Velocity Nitro 3
+13238226432,TC 6.0 km,Corrida,2024-12-30,Noite,6.0,00:38:30,00:06:24,9.37,57.2,PUMA Velocity Nitro 3
+13259178190,TP 61.0 km,Pedalada,2025-01-03,Noite,61.0,02:34:14,00:02:31,23.82,210.8,Show Gravel
+13284667093,TC 8.0 km,Corrida,2025-01-06,Noite,8.0,00:46:47,00:05:50,10.29,93.5,Fila Racer T2 T2
+13294196688,TC 21.0 km,Corrida,2025-01-07,Noite,21.0,01:54:53,00:05:28,10.97,217.5,PUMA Velocity Nitro 3
+13320407307,TC 10.0 km,Corrida,2025-01-10,Noite,10.0,00:54:26,00:05:26,11.03,124.7,Adidas Adizero SL Adizero SL
+13328751445,TC 8.0 km,Corrida,2025-01-11,Noite,8.0,00:49:33,00:06:11,9.7,68.4,Adidas Adizero SL Adizero SL
+13347088239,TC 12.0 km,Corrida,2025-01-13,Noite,12.0,01:07:59,00:05:36,10.71,181.4,Fila Racer T2 T2
+13382713558,TC 8.0 km,Corrida,2025-01-17,Noite,8.0,00:46:11,00:05:45,10.41,59.9,Adidas Adizero SL Adizero SL
+13391504817,TC 5.0 km,Corrida,2025-01-18,Noite,5.0,00:40:05,00:07:57,7.54,187.6,Adidas Adizero SL Adizero SL
+13401226127,TC 8.0 km,Corrida,2025-01-19,Noite,8.0,00:43:29,00:05:25,11.07,64.5,Adidas Adizero SL Adizero SL
+13418373693,TC 8.0 km,Corrida,2025-01-21,Noite,8.0,00:42:47,00:05:20,11.25,85.4,Adidas Adizero SL Adizero SL
+13443358625,TC 15.0 km,Corrida,2025-01-24,Noite,15.0,01:29:41,00:05:42,10.52,138.8,PUMA Velocity Nitro 3
+13452064180,TC 5.0 km,Corrida,2025-01-25,Noite,5.0,00:24:13,00:04:50,12.39,193.6,Adidas Adizero SL Adizero SL
+13479102654,TC 10.0 km,Corrida,2025-01-28,Noite,10.0,00:51:41,00:05:10,11.61,71.7,Adidas Adizero SL Adizero SL
+13479102685,TC 8.0 km,Corrida,2025-01-27,Noite,8.0,00:49:00,00:05:59,10.0,73.2,Adidas Adizero SL Adizero SL
+13505233316,TC 10.0 km,Corrida,2025-01-31,Noite,10.0,00:55:05,00:05:30,10.89,102.9,Adidas Adizero SL Adizero SL
+13513739362,TC 8.0 km,Corrida,2025-02-01,Noite,8.0,00:40:50,00:05:05,11.78,66.6,PUMA Velocity Nitro 3
+13542796638,TC 10.0 km,Corrida,2025-02-04,Noite,10.0,01:00:27,00:05:40,10.56,101.4,PUMA Velocity Nitro 3
+13542796668,TC 8.0 km,Corrida,2025-02-03,Noite,8.0,00:49:13,00:06:04,9.87,67.3,Adidas Adizero SL Adizero SL
+13577230614,TC 10.0 km,Corrida,2025-02-08,Noite,10.0,00:57:22,00:05:43,10.47,86.3,Adidas Adizero SL Adizero SL
+13586814566,TC 16.0 km,Corrida,2025-02-09,Noite,16.0,01:31:20,00:05:42,10.52,132.2,Adidas Adizero SL Adizero SL
+13628709450,TC 8.0 km,Corrida,2025-02-14,Noite,8.0,00:49:56,00:06:13,9.65,114.3,Fila Racer T2 T2
+13637352801,TC 15.0 km,Corrida,2025-02-15,Noite,15.0,01:27:10,00:05:48,10.34,127.6,Adidas Adizero SL Adizero SL
+13656415392,TC 12.0 km,Corrida,2025-02-17,Noite,12.0,01:08:09,00:05:40,10.56,181.4,PUMA Velocity Nitro 3
+13690795135,TC 8.0 km,Corrida,2025-02-19,Noite,8.0,00:45:49,00:05:41,10.54,64.7,Adidas Adizero SL Adizero SL
+13690834149,TP 51.0 km,Pedalada,2025-01-03,Noite,51.0,01:56:36,00:02:16,26.33,243,Show Gravel
+13690834186,TP 28.0 km,Pedalada,2025-02-21,Noite,28.0,01:13:09,00:02:33,23.41,384,Show Gravel
+13699580632,TC 8.0 km,Corrida,2025-02-22,Noite,8.0,00:41:02,00:05:07,11.71,57.6,Adidas Adizero SL Adizero SL
+13709514128,TP 63.0 km,Pedalada,2025-02-23,Noite,63.0,02:34:21,00:02:25,24.76,561.7,Show Gravel
+13709564238,TP 30.0 km,Pedalada,2025-02-23,Noite,30.0,01:01:27,00:02:02,29.49,12.8,Show Gravel
+13755111673,TC 10.0 km,Corrida,2025-02-28,Noite,10.0,00:52:40,00:05:16,11.39,72.8,Adidas Adizero SL Adizero SL
+13755111779,TC 8.0 km,Corrida,2025-02-26,Manhã,8.0,00:42:13,00:05:16,11.37,80,Adidas Adizero SL Adizero SL
+13763486321,TP 33.0 km,Pedalada,2025-03-01,Noite,33.0,01:13:06,00:02:09,27.82,14.8,Show Gravel
+13763505497,TP 67.0 km,Pedalada,2025-03-01,Noite,67.0,02:40:35,00:02:23,25.1,401,Show Gravel
+13791716208,TP 40.0 km,Pedalada,2025-03-04,Noite,40.0,02:25:34,00:03:38,16.49,467.6,Show Gravel
+13799897990,TC 10.0 km,Corrida,2025-03-05,Noite,10.0,00:51:13,00:05:06,11.73,65.5,Adidas Adizero SL Adizero SL
+13810201370,TP 37.0 km,Pedalada,2025-03-06,Noite,37.0,02:16:47,00:03:40,16.32,164.6,Show Gravel
+13828782884,TC 16.0 km,Corrida,2025-03-08,Noite,16.0,01:30:07,00:05:36,10.69,231,Adidas Adizero SL Adizero SL
+13840743174,TC 9.0 km,Corrida,2025-03-09,Noite,9.0,00:49:32,00:05:30,10.9,88.7,Adidas Adizero SL Adizero SL
+13856993538,TC 10.0 km,Corrida,2025-03-11,Noite,10.0,00:56:31,00:05:39,10.62,82.2,PUMA Velocity Nitro 3
+13893155379,TC 16.0 km,Corrida,2025-03-15,Noite,16.0,01:26:26,00:05:24,11.11,126.9,Adidas Adizero SL Adizero SL
+13909942793,TC 10.0 km,Corrida,2025-03-16,Noite,10.0,01:00:01,00:05:59,10.01,77.7,PUMA Velocity Nitro 3
+13921178492,TC 10.0 km,Corrida,2025-03-18,Noite,10.0,00:59:44,00:05:57,10.07,203.2,PUMA Velocity Nitro 3
+13952981337,TC 10.0 km,Corrida,2025-03-21,Noite,10.0,00:51:40,00:05:10,11.61,70.6,Adidas Adizero SL Adizero SL
+13978169437,TC 11.0 km,Corrida,2025-03-24,Noite,11.0,01:00:43,00:05:30,10.9,199.4,Adidas Adizero SL Adizero SL
+13987880443,TC 8.0 km,Corrida,2025-03-25,Noite,8.0,00:47:47,00:05:36,10.71,70.7,Adidas Adizero SL Adizero SL
+14024638795,TC 21.0 km,Corrida,2025-03-29,Noite,21.0,01:56:50,00:05:33,10.78,258.7,Adidas Adizero SL Adizero SL
+14057608358,TC 8.0 km,Corrida,2025-04-02,Manhã,8.0,00:42:50,00:05:20,11.22,63.1,Adidas Adizero SL Adizero SL
+14067135722,TC 8.0 km,Corrida,2025-04-03,Manhã,8.0,00:40:52,00:05:04,11.8,60.4,PUMA Velocity Nitro 3
+14081639093,TC 8.0 km,Corrida,2025-04-04,Noite,8.0,00:47:12,00:05:54,10.17,82.2,PUMA Velocity Nitro 3
+14091615467,TC 11.0 km,Corrida,2025-04-05,Noite,11.0,00:59:09,00:05:22,11.16,93.8,PUMA Velocity Nitro 3
+14111399692,TC 8.0 km,Corrida,2025-04-07,Noite,8.0,00:39:52,00:04:59,12.04,52.5,Adidas Adizero SL Adizero SL
+14135859724,TP 55.0 km,Pedalada,2025-04-10,Manhã,55.0,02:18:36,00:02:29,24.13,346,Show Gravel
+14150104575,TP 35.0 km,Pedalada,2025-04-11,Noite,35.0,01:39:59,00:02:47,21.44,582,Show Gravel
+14193295141,TC 8.0 km,Corrida,2025-04-16,Manhã,8.0,00:44:11,00:05:30,10.88,99.5,PUMA Velocity Nitro 3
+14193295611,TC 8.0 km,Corrida,2025-04-13,Noite,8.0,00:51:04,00:06:03,9.89,115.5,Adidas Adizero SL Adizero SL
+14217765831,TC 8.0 km,Corrida,2025-04-18,Noite,8.0,00:44:12,00:05:29,10.94,77.6,Adidas Adizero SL Adizero SL
+14235344534,TC 8.0 km,Corrida,2025-04-19,Noite,8.0,00:41:50,00:05:13,11.49,67.9,Adidas Adizero SL Adizero SL
+14236790864,TC 12.0 km,Corrida,2025-04-20,Noite,12.0,01:00:41,00:05:02,11.89,100.7,Fila Racer T2 T2
+14271743653,TC 12.0 km,Corrida,2025-04-24,Manhã,12.0,01:06:06,00:05:29,10.92,208.4,Adidas Adizero SL Adizero SL
+14307159141,TC 15.0 km,Corrida,2025-04-27,Noite,15.0,01:20:19,00:05:21,11.21,108.7,Adidas Adizero SL Adizero SL
+14307737916,TC 15.0 km,Corrida,2025-04-26,Noite,15.0,01:21:30,00:05:25,11.05,205.9,Adidas Adizero SL Adizero SL
+14327735102,TC 8.0 km,Corrida,2025-04-29,Noite,8.0,00:39:30,00:04:54,12.21,53.2,Fila Racer T2 T2
+14344363457,TP 20.0 km,Pedalada,2025-05-01,Manhã,20.0,00:45:31,00:02:16,26.4,177,Show Gravel
+14344407837,TP 43.0 km,Pedalada,2025-05-01,Manhã,43.0,01:21:34,00:01:52,32.04,135,Show Gravel
+14379931884,TC 10.0 km,Corrida,2025-05-04,Noite,10.0,00:48:02,00:04:47,12.5,59,Adidas Adizero SL Adizero SL
+14379932068,TC 8.0 km,Corrida,2025-05-02,Noite,8.0,00:48:33,00:06:03,9.9,59.5,Adidas Adizero SL Adizero SL
+14379932129,TC 10.0 km,Corrida,2025-05-03,Noite,10.0,00:55:26,00:05:32,10.82,155,Adidas Adizero SL Adizero SL
+14414417507,TC 15.0 km,Corrida,2025-05-08,Manhã,15.0,01:17:05,00:05:06,11.73,171.4,Adidas Adizero SL Adizero SL
+14451281912,TP 22.0 km,Pedalada,2025-05-11,Noite,22.0,01:00:52,00:02:40,22.5,245.1,Show Gravel
+14451281992,TC 8.0 km,Corrida,2025-05-10,Noite,8.0,00:48:43,00:06:05,9.85,82,Adidas Adizero SL Adizero SL
+14487232388,TC 8.0 km,Corrida,2025-05-15,Manhã,8.0,00:42:47,00:05:14,11.46,67.6,Adidas Adizero SL Adizero SL
+14502704740,TP 30.0 km,Pedalada,2025-05-16,Noite,30.0,01:12:39,00:02:24,24.98,200,Show Gravel
+14523393666,TP 30.0 km,Pedalada,2025-05-18,Noite,30.0,00:57:05,00:01:53,31.76,7.6,Show Gravel
+14523746716,TP 62.0 km,Pedalada,2025-05-18,Noite,62.0,02:20:48,00:02:16,26.45,334,Show Gravel
+14559459813,TC 6.0 km,Corrida,2025-05-22,Manhã,6.0,00:35:10,00:05:51,10.25,55.8,Fila Racer Speedzone
+14584229392,TC 6.0 km,Corrida,2025-05-24,Noite,6.0,00:30:55,00:05:08,11.68,35.9,Fila Racer Speedzone
+14615511166,TC 8.0 km,Corrida,2025-05-27,Noite,8.0,00:44:15,00:05:31,10.86,75.4,Fila Racer Speedzone
+14630400069,TC 8.0 km,Corrida,2025-05-29,Manhã,8.0,00:42:05,00:05:14,11.43,7.4,Fila Racer Speedzone
+14650480109,TC 12.0 km,Corrida,2025-05-31,Manhã,12.0,01:04:02,00:05:19,11.27,102.8,Fila Racer Speedzone
+14662267142,TC 11.0 km,Corrida,2025-06-01,Manhã,11.0,00:58:03,00:05:16,11.37,102,Fila Racer Speedzone
+14682356371,TC 10.0 km,Corrida,2025-06-03,Manhã,10.0,00:50:03,00:05:00,12.0,97.6,Fila Racer Speedzone
+14693843391,TC 11.0 km,Corrida,2025-06-04,Manhã,11.0,00:58:56,00:05:13,11.48,122.9,Fila Racer Speedzone
+14703713832,TC 8.0 km,Corrida,2025-06-05,Manhã,8.0,00:48:08,00:05:59,10.02,58.9,Fila Racer Speedzone
+14739215511,TC 16.0 km,Corrida,2025-06-08,Noite,16.0,01:23:19,00:05:12,11.53,141.1,Fila Racer Speedzone
+14775091693,TC 8.0 km,Corrida,2025-06-12,Manhã,8.0,00:43:08,00:05:22,11.16,73.7,Fila Racer Speedzone
+14790774245,TC 10.0 km,Corrida,2025-06-13,Noite,10.0,00:50:40,00:05:04,11.84,102.9,Fila Racer Speedzone
+14790774372,TC 4.0 km,Corrida,2025-06-12,Manhã,4.0,00:21:53,00:05:27,10.99,21.9,Fila Racer Speedzone
+14812243049,TC 12.0 km,Corrida,2025-06-15,Noite,12.0,01:01:28,00:05:07,11.71,108.2,Fila Racer Speedzone
+14812243089,TP 36.0 km,Pedalada,2025-06-14,Noite,36.0,01:37:00,00:02:39,22.52,156.3,Show Gravel
+14849034140,TC 5.0 km,Corrida,2025-06-19,Manhã,5.0,00:27:24,00:05:28,10.97,2.5,Fila Racer Speedzone
+14849034225,TC 7.0 km,Corrida,2025-06-19,Manhã,7.0,00:37:14,00:05:19,11.28,4.8,Fila Racer Speedzone
+14859430045,TC 14.0 km,Corrida,2025-06-20,Manhã,14.0,01:13:29,00:05:14,11.44,77.7,Fila Racer Speedzone
+14885246287,TC 22.0 km,Corrida,2025-06-22,Noite,22.0,01:58:09,00:05:22,11.17,203,Fila Racer Speedzone
+14920643546,TC 10.0 km,Corrida,2025-06-26,Manhã,10.0,00:58:54,00:05:49,10.29,101,Fila Racer Speedzone
+14946378169,TC 15.0 km,Corrida,2025-06-28,Noite,15.0,01:19:04,00:05:15,11.41,208.2,Fila Racer Speedzone
+14956547852,TC 8.0 km,Corrida,2025-06-29,Noite,8.0,00:47:31,00:05:51,10.25,64.9,Fila Racer Speedzone
+14968277548,TP 38.0 km,Pedalada,2025-06-30,Noite,38.0,01:49:59,00:02:52,20.81,242.3,Show Gravel
+14993095485,TC 8.0 km,Corrida,2025-07-03,Manhã,8.0,00:38:40,00:04:49,12.43,67.8,Fila Racer Speedzone
+15019462338,TP 37.0 km,Pedalada,2025-07-05,Noite,37.0,01:30:57,00:02:24,24.88,242,Show Gravel
+15062653187,TC 15.0 km,Corrida,2025-07-09,Noite,15.0,01:17:10,00:05:08,11.67,207.7,Fila Racer T2 T2
+15083399712,TP 22.0 km,Pedalada,2025-07-11,Noite,22.0,01:03:57,00:02:51,20.98,414,Show Gravel
+15093641421,TP 21.0 km,Pedalada,2025-07-11,Noite,21.0,01:06:10,00:03:01,19.83,377,Show Gravel
+15094334371,TC 8.0 km,Corrida,2025-07-12,Noite,8.0,00:49:59,00:05:54,10.14,62.1,Fila Racer Speedzone
+15105311014,TC 10.0 km,Corrida,2025-07-13,Noite,10.0,00:54:35,00:05:23,11.11,122.3,Fila Racer Speedzone
+15115817465,TC 7.0 km,Corrida,2025-07-14,Noite,7.0,00:38:58,00:05:12,11.5,172.3,Fila Racer Speedzone
+15169691893,TC 9.0 km,Corrida,2025-07-19,Noite,9.0,00:57:32,00:05:51,10.24,57.6,Fila Racer Speedzone
+15181587702,TC 15.0 km,Corrida,2025-07-20,Noite,15.0,01:17:12,00:05:08,11.67,113.4,Fila Racer Speedzone
+15203822885,TC 13.0 km,Corrida,2025-07-22,Noite,13.0,01:09:57,00:05:22,11.16,104.8,Fila Racer Speedzone
+15219716734,TC 10.0 km,Corrida,2025-07-24,Manhã,10.0,00:55:36,00:05:32,10.81,85.7,Fila Racer Speedzone
+15236500624,TC 8.0 km,Corrida,2025-07-25,Noite,8.0,00:43:56,00:05:29,10.93,74.7,Fila Racer T2 T2
+15258200095,TC 15.0 km,Corrida,2025-07-27,Noite,15.0,01:29:07,00:05:55,10.11,123.1,Fila Racer Speedzone
+15269126342,TC 7.0 km,Corrida,2025-07-28,Noite,7.0,00:41:25,00:05:54,10.16,53.9,Fila Racer Speedzone
+15280544104,TC 10.0 km,Corrida,2025-07-29,Noite,10.0,00:52:00,00:05:11,11.56,63,Fila Racer Speedzone
+15324332231,TC 13.0 km,Corrida,2025-08-02,Noite,13.0,01:13:31,00:05:39,10.62,122.6,Fila Racer Speedzone
+15335674958,TC 10.0 km,Corrida,2025-08-03,Noite,10.0,00:50:18,00:05:01,11.93,83.6,Fila Racer Speedzone
+15347485203,TP 52.0 km,Pedalada,2025-08-04,Noite,52.0,02:05:31,00:02:22,25.25,338,Show Gravel
+15483210161,TP 58.0 km,Pedalada,2025-08-16,Noite,58.0,02:25:54,00:02:29,24.07,309,Show Gravel
+15506019462,TC 10.0 km,Corrida,2025-08-18,Noite,10.0,00:57:08,00:05:41,10.53,100.7,Fila Racer Speedzone
+15519491579,TP 52.0 km,Pedalada,2025-08-19,Noite,52.0,02:19:28,00:02:39,22.59,459,Show Gravel
+15531432274,TC 8.0 km,Corrida,2025-08-05,Noite,8.0,00:44:04,00:05:29,10.92,75,Fila Racer Speedzone
+15531432321,TC 5.0 km,Corrida,2025-08-12,Noite,5.0,00:31:06,00:06:09,9.74,25.8,Fila Racer Speedzone
+15556223093,TC 13.0 km,Corrida,2025-08-22,Noite,13.0,01:16:08,00:05:38,10.65,153.8,Fila Racer Speedzone
+15562430984,TC 8.0 km,Corrida,2025-08-23,Noite,8.0,00:48:11,00:06:01,9.96,64.3,Fila Racer Speedzone
+15598298890,TC 8.0 km,Corrida,2025-08-26,Noite,8.0,00:43:00,00:05:22,11.16,61.4,Fila Racer T2 T2
+15631941430,TC 15.0 km,Corrida,2025-08-29,Noite,15.0,01:23:06,00:05:26,11.03,208.3,Fila Racer Speedzone
+15648486188,TC 21.0 km,Corrida,2025-08-31,Manhã,21.0,01:54:38,00:05:27,10.99,211.6,Fila Racer Speedzone
+15657615343,TP 29.0 km,Pedalada,2025-09-01,Manhã,29.0,01:02:28,00:02:07,28.13,78,Show Gravel
+15711082447,TC 10.0 km,Corrida,2025-09-05,Noite,10.0,00:51:38,00:05:05,11.78,73.3,Fila Racer Speedzone
+15711082811,TC 8.0 km,Corrida,2025-09-03,Manhã,8.0,00:45:21,00:05:40,10.58,47.5,Fila Racer Speedzone
+15722134033,TC 8.0 km,Corrida,2025-09-06,Noite,8.0,00:45:14,00:05:39,10.61,73.1,Fila Racer Speedzone
+15745919820,TC 10.0 km,Corrida,2025-09-08,Noite,10.0,00:50:30,00:05:02,11.89,77.1,Fila Racer T2 T2
+15762836410,TC 8.0 km,Corrida,2025-09-10,Manhã,8.0,00:41:12,00:05:08,11.68,75.7,Fila Racer Speedzone
+15790982769,TC 12.0 km,Corrida,2025-09-12,Noite,12.0,01:04:32,00:05:22,11.17,146.1,Fila Racer Speedzone
+15802247166,TP 57.0 km,Pedalada,2025-09-13,Noite,57.0,02:20:02,00:02:27,24.46,486,Show Gravel
+15824753859,TC 16.0 km,Corrida,2025-09-15,Noite,16.0,01:27:59,00:05:29,10.92,118.3,Fila Racer Speedzone
+15853112512,TC 15.0 km,Corrida,2025-09-18,Manhã,15.0,01:21:22,00:05:25,11.07,203.7,Fila Racer T2 T2
+15869800729,TC 15.0 km,Corrida,2025-09-19,Noite,15.0,01:21:52,00:05:27,10.99,99.5,Fila Racer Speedzone
+15893690595,TC 15.0 km,Corrida,2025-09-21,Noite,15.0,01:20:56,00:05:23,11.12,107.5,Fila Racer Speedzone
+15931463827,TC 11.0 km,Corrida,2025-09-25,Manhã,11.0,00:59:17,00:05:17,11.35,82.6,Fila Racer Speedzone
+15946768476,TC 11.0 km,Corrida,2025-09-26,Noite,11.0,00:59:59,00:05:13,11.48,73.6,Fila Racer T2 T2
+15970125258,TC 21.0 km,Corrida,2025-09-28,Noite,21.0,01:54:45,00:05:27,10.98,156.9,Fila Racer T2 T2
+15998274084,TC 12.0 km,Corrida,2025-10-01,Manhã,12.0,00:59:27,00:04:57,12.12,17.7,Fila Racer Speedzone
+16025170582,TC 8.0 km,Corrida,2025-10-03,Noite,8.0,00:47:46,00:05:58,10.05,51.7,Fila Racer Speedzone
+16034839956,TC 10.0 km,Corrida,2025-10-04,Noite,10.0,00:57:42,00:05:45,10.41,76.9,Fila Racer Speedzone
+16046612974,TC 9.0 km,Corrida,2025-10-05,Noite,9.0,00:49:24,00:05:28,10.94,76.1,Fila Racer Speedzone
+16084815464,TC 8.0 km,Corrida,2025-10-09,Manhã,8.0,00:40:54,00:05:03,11.87,63.2,Fila Racer T2 T2
+16084815711,TC 8.0 km,Corrida,2025-10-06,Noite,8.0,00:45:35,00:05:41,10.54,49.6,Fila Racer T2 T2
+16110594874,TC 10.0 km,Corrida,2025-10-11,Noite,10.0,00:50:28,00:05:02,11.9,88.7,Fila Racer T2 T2
+16110629253,TC 10.0 km,Corrida,2025-10-10,Noite,10.0,00:56:00,00:05:35,10.72,70,Fila Racer Speedzone
+16122369576,TC 8.0 km,Corrida,2025-10-12,Noite,8.0,00:47:24,00:05:55,10.13,72.3,Fila Racer Speedzone
+16133153346,TP 38.0 km,Pedalada,2025-10-13,Noite,38.0,01:44:34,00:02:41,22.28,293,Show Gravel
+16147894910,TC 8.0 km,Corrida,2025-10-15,Manhã,8.0,00:46:31,00:05:48,10.33,75.1,Fila Racer Speedzone
+16175394674,TC 10.0 km,Corrida,2025-10-17,Noite,10.0,00:58:19,00:05:41,10.56,125.6,Fila Racer Speedzone
+16196050953,TP 28.0 km,Pedalada,2025-10-19,Noite,28.0,01:16:57,00:02:40,22.46,174,Show Gravel
+16205950197,TC 10.0 km,Corrida,2025-10-20,Noite,10.0,00:55:32,00:05:32,10.82,177.1,Fila Racer Speedzone
+16220654987,TC 8.0 km,Corrida,2025-10-22,Manhã,8.0,00:45:28,00:05:07,11.72,72.5,New Balance Propel v5 Propel v5
+16246150691,TC 8.0 km,Corrida,2025-10-24,Noite,8.0,00:46:24,00:05:47,10.36,43.7,Fila Racer Speedzone
+16256325425,TC 10.0 km,Corrida,2025-10-25,Noite,10.0,00:52:14,00:05:13,11.49,76.3,New Balance Propel v5 Propel v5
+16256954759,TC 8.0 km,Corrida,2025-10-22,Manhã,8.0,00:44:58,00:05:07,11.69,75.5,Fila Racer Speedzone
+16266811394,TC 7.0 km,Corrida,2025-10-26,Noite,7.0,00:46:07,00:06:34,9.12,36,Fila Racer Speedzone
+16324988802,TC 5.0 km,Corrida,2025-11-01,Noite,5.0,00:32:59,00:06:32,9.17,50.4,Fila Racer Speedzone
+16347099343,TC 8.0 km,Corrida,2025-11-03,Noite,8.0,00:47:17,00:05:52,10.22,34.9,Fila Racer Speedzone
+16357766404,TP 30.0 km,Pedalada,2025-11-04,Noite,30.0,01:28:52,00:02:56,20.37,295.2,Show Gravel
+16387794030,TC 12.0 km,Corrida,2025-11-07,Noite,12.0,01:07:32,00:05:36,10.7,92.4,Fila Racer T2 T2
+16398062150,TC 18.0 km,Corrida,2025-11-08,Noite,18.0,01:46:55,00:05:55,10.12,160.9,Fila Racer Speedzone
+16418754681,TC 8.0 km,Corrida,2025-11-10,Noite,8.0,00:41:16,00:05:08,11.68,54,Fila Racer T2 T2
+16429915159,TC 10.0 km,Corrida,2025-11-11,Noite,10.0,00:59:49,00:05:56,10.11,65.8,Fila Racer Speedzone
+16444147356,TC 8.0 km,Corrida,2025-11-13,Manhã,8.0,00:40:51,00:05:05,11.78,38.9,Fila Racer T2 T2
+16464297882,TC 16.0 km,Corrida,2025-11-15,Manhã,16.0,01:24:17,00:05:12,11.51,63.7,New Balance Propel v5 Propel v5
+16499824488,TC 10.0 km,Corrida,2025-11-18,Noite,10.0,01:00:49,00:05:49,10.3,213.8,Fila Racer T2 T2
+16514548254,TC 21.0 km,Corrida,2025-11-20,Manhã,21.0,01:50:16,00:05:14,11.44,94.9,New Balance Propel v5 Propel v5
+16537003968,TC 8.0 km,Corrida,2025-11-22,Noite,8.0,00:45:33,00:05:41,10.55,66.2,Fila Racer Speedzone
+16547522650,TC 12.0 km,Corrida,2025-11-23,Noite,12.0,01:04:18,00:05:20,11.22,69.1,Fila Racer T2 T2
+16556747768,TC 14.0 km,Corrida,2025-11-24,Noite,14.0,01:18:19,00:05:30,10.89,168.7,Fila Racer Speedzone
+16586922925,TC 15.0 km,Corrida,2025-11-27,Noite,15.0,01:15:12,00:05:00,11.98,71.1,New Balance Propel v5 Propel v5
+16613848534,TC 15.0 km,Corrida,2025-11-30,Noite,15.0,01:25:36,00:05:41,10.54,86.2,Fila Racer T2 T2
+16633613581,TC 14.0 km,Corrida,2025-12-02,Noite,14.0,01:19:45,00:05:41,10.55,155.3,Fila Racer Speedzone
+16646846669,TC 11.0 km,Corrida,2025-12-04,Manhã,11.0,00:59:51,00:05:25,11.07,83,Fila Racer T2 T2
+16660739470,TC 10.0 km,Corrida,2025-12-05,Noite,10.0,00:49:15,00:04:55,12.19,84.3,New Balance Propel v5 Propel v5
+16679815985,TC 21.0 km,Corrida,2025-12-07,Noite,21.0,01:52:06,00:05:20,11.25,294.5,New Balance Propel v5 Propel v5
+16702144931,TC 10.0 km,Corrida,2025-12-10,Manhã,10.0,00:58:01,00:05:47,10.35,95.1,Fila Racer Speedzone
+16717903342,TP 36.0 km,Pedalada,2025-12-11,Noite,36.0,01:46:52,00:02:57,20.23,498,Show Gravel
+16753433852,TP 36.0 km,Pedalada,2025-12-15,Noite,36.0,01:44:10,00:02:49,21.27,450,Show Gravel
+16775083940,TC 10.0 km,Corrida,2025-12-18,Manhã,10.0,00:51:07,00:05:05,11.78,92.5,Fila Racer T2 T2
+16788137499,TC 10.0 km,Corrida,2025-12-19,Noite,10.0,00:49:30,00:04:56,12.16,65.1,Fila Racer T2 T2
+16797200366,TC 8.0 km,Corrida,2025-12-20,Noite,8.0,00:47:49,00:05:58,10.05,78.2,Fila Racer Speedzone
+16806588239,TC 12.0 km,Corrida,2025-12-21,Noite,12.0,01:00:09,00:04:53,12.26,90.4,New Balance Propel v5 Propel v5
+16818918351,TC 8.0 km,Corrida,2025-12-23,Manhã,8.0,00:35:40,00:04:24,13.61,93.6,New Balance Propel v5 Propel v5
+16832782319,TC 8.0 km,Corrida,2025-12-24,Noite,8.0,00:48:42,00:06:03,9.89,86.8,Fila Racer Speedzone
+16836799409,TC 10.0 km,Corrida,2025-12-25,Manhã,10.0,00:52:30,00:05:14,11.44,54.5,New Balance Propel v5 Propel v5
+16849411318,TC 15.0 km,Corrida,2025-12-26,Noite,15.0,01:52:11,00:07:28,8.03,66.9,Fila Racer T2 T2
+16862357833,TC 15.0 km,Corrida,2025-12-28,Manhã,15.0,01:14:44,00:04:49,12.43,145.3,Fila Racer T2 T2
+16878340648,TP 25.0 km,Pedalada,2025-12-29,Noite,25.0,01:08:58,00:02:45,21.77,126.2,GTSM1
+16888453780,TC 10.0 km,Corrida,2025-12-30,Noite,10.0,00:59:18,00:05:55,10.13,22.8,Fila Racer T2 T2
+16892261164,TC 21.0 km,Corrida,2025-12-31,Manhã,21.0,01:59:06,00:05:37,10.65,109.9,Fila Racer T2 T2
+16944094012,TC 12.0 km,Corrida,2026-01-05,Manhã,12.0,01:17:09,00:06:10,9.72,36.7,Fila Racer T2 T2
+16962525596,TC 12.0 km,Corrida,2026-01-06,Noite,12.0,01:13:41,00:06:07,9.79,73.6,Fila Racer Speedzone
+16977847518,TC 8.0 km,Corrida,2026-01-08,Manhã,8.0,00:48:03,00:05:59,10.0,45.4,Fila Racer Speedzone
+17005978184,TC 21.0 km,Corrida,2026-01-10,Noite,21.0,01:54:38,00:05:25,11.06,145.2,Fila Racer T2 T2
+17063789827,TC 8.0 km,Corrida,2026-01-15,Noite,8.0,00:43:44,00:05:24,11.1,72.6,Fila Racer T2 T2
+17077819841,TC 10.0 km,Corrida,2026-01-17,Manhã,10.0,00:50:25,00:05:01,11.92,103.8,Fila Racer Speedzone
+17098227898,TC 10.0 km,Corrida,2026-01-18,Noite,10.0,00:59:57,00:05:47,10.37,55.5,Fila Racer Speedzone
+17143800444,TC 12.0 km,Corrida,2026-01-22,Noite,12.0,01:00:20,00:05:00,11.96,97.1,New Balance Propel v5 Propel v5
+17147897045,TC 5.0 km,Corrida,2026-01-23,Manhã,5.0,00:35:00,00:06:58,8.61,38.1,Fila Racer Speedzone
+17176966940,TC 17.0 km,Corrida,2026-01-25,Noite,17.0,01:30:18,00:05:07,11.7,156.8,New Balance Propel v5 Propel v5
+17214867947,TC 10.0 km,Corrida,2026-01-29,Manhã,10.0,01:02:18,00:06:13,9.64,84.8,Fila Racer Speedzone
+17231825057,TC 15.0 km,Corrida,2026-01-30,Noite,15.0,01:25:03,00:05:39,10.59,211.8,Fila Racer T2 T2
+17243089735,TC 21.0 km,Corrida,2026-01-31,Noite,21.0,01:54:35,00:05:24,11.09,106.6,New Balance Propel v5 Propel v5
+17265490060,TC 9.0 km,Corrida,2026-02-02,Noite,9.0,00:59:58,00:06:29,9.24,79.7,Fila Racer Speedzone
+17281995874,TC 10.0 km,Corrida,2026-02-04,Manhã,10.0,01:00:07,00:05:51,10.24,69,Fila Racer Speedzone
+17293558026,TC 10.0 km,Corrida,2026-02-05,Manhã,10.0,00:48:57,00:04:53,12.28,76.9,New Balance Propel v5 Propel v5
+17321996488,TC 21.0 km,Corrida,2026-02-07,Noite,21.0,01:53:39,00:05:21,11.18,165.1,Fila Racer T2 T2
+17334217023,TC 10.0 km,Corrida,2026-02-08,Noite,10.0,01:02:10,00:06:12,9.66,67.6,Fila Racer Speedzone
+17361226568,TC 10.0 km,Corrida,2026-02-11,Manhã,10.0,01:02:25,00:06:14,9.62,114.6,Fila Racer Speedzone
+17388562180,TC 15.0 km,Corrida,2026-02-13,Noite,15.0,01:27:05,00:05:42,10.51,206.2,Fila Racer T2 T2
+17399706092,TC 10.0 km,Corrida,2026-02-14,Noite,10.0,00:47:53,00:04:47,12.53,68,New Balance Propel v5 Propel v5
+17409957738,TC 5.0 km,Corrida,2026-02-15,Noite,5.0,00:31:38,00:06:16,9.56,19.7,Fila Racer Speedzone
+17415872323,TC 25.0 km,Corrida,2026-02-16,Manhã,25.0,02:15:33,00:05:24,11.1,121.7,New Balance Propel v5 Propel v5
+17456805645,TC 8.0 km,Corrida,2026-02-19,Noite,8.0,00:45:16,00:05:39,10.6,24.5,Fila Racer T2 T2
+17465615115,TC 10.0 km,Corrida,2026-02-20,Noite,10.0,01:01:50,00:06:10,9.72,99.1,Fila Racer Speedzone
+17499514426,TC 15.0 km,Corrida,2026-02-23,Noite,15.0,01:23:10,00:05:31,10.86,251.3,Fila Racer T2 T2
+17516190020,TC 10.0 km,Corrida,2026-02-25,Manhã,10.0,01:01:43,00:06:09,9.73,86.3,Fila Racer Speedzone
+17546030519,TC 10.0 km,Corrida,2026-02-27,Noite,10.0,00:48:51,00:04:51,12.33,50.1,Fila Racer T2 T2
+17570859800,TC 15.0 km,Corrida,2026-03-01,Noite,15.0,01:20:43,00:05:22,11.16,221.5,Fila Racer T2 T2
+17614919024,TC 10.0 km,Corrida,2026-03-05,Manhã,10.0,01:01:53,00:06:09,9.73,93.1,Fila Racer Speedzone
+17629681378,TC 10.0 km,Corrida,2026-03-06,Noite,10.0,00:54:48,00:05:23,11.11,115.1,Fila Racer T2 T2
+17654822990,TC 10.0 km,Corrida,2026-03-08,Noite,10.0,00:48:55,00:04:52,12.29,32.5,Fila Racer T2 T2
+17683088644,TC 10.0 km,Corrida,2026-03-11,Manhã,10.0,01:01:48,00:06:10,9.72,82.6,Fila Racer Speedzone
+17724699770,TC 21.0 km,Corrida,2026-03-14,Noite,21.0,01:52:43,00:05:19,11.26,146.6,New Balance Propel v5 Propel v5
+17736573971,TC 8.0 km,Corrida,2026-03-15,Noite,8.0,00:51:47,00:06:27,9.28,50.1,Fila Racer T2 T2
+17764748155,TC 10.0 km,Corrida,2026-03-18,Manhã,10.0,01:01:22,00:06:07,9.81,81.5,New Balance Propel v5 Propel v5
+17797438853,TC 15.0 km,Corrida,2026-03-20,Noite,15.0,01:25:56,00:05:42,10.52,222,Fila Racer T2 T2
+17807986948,TC 10.0 km,Corrida,2026-03-21,Noite,10.0,00:52:17,00:05:13,11.49,93.9,New Balance Propel v5 Propel v5
+17822027205,TC 8.0 km,Corrida,2026-03-22,Noite,8.0,00:50:09,00:06:15,9.6,43.5,Fila Racer Speedzone
+17851556797,TC 10.0 km,Corrida,2026-03-25,Manhã,10.0,01:00:07,00:06:00,9.99,92.7,Fila Racer Speedzone
+17882681645,TC 5.0 km,Corrida,2026-03-27,Noite,5.0,00:37:41,00:07:17,8.23,61,Mizuno Wave Rider 28 Wave Rider 28
+17893863889,TC 8.0 km,Corrida,2026-03-28,Noite,8.0,00:50:43,00:06:19,9.48,112,Fila Racer Speedzone
+17906206455,TC 10.0 km,Corrida,2026-03-29,Noite,10.0,00:52:12,00:05:12,11.53,154,Mizuno Wave Rider 28 Wave Rider 28
+17918281576,TC 10.0 km,Corrida,2026-03-30,Noite,10.0,00:56:43,00:05:37,10.66,221.8,Fila Racer Speedzone
+17956498033,TC 21.0 km,Corrida,2026-04-02,Noite,21.0,01:51:26,00:05:16,11.37,247.4,New Balance Propel v5 Propel v5
+17967423033,TC 6.0 km,Corrida,2026-04-03,Noite,6.0,00:40:07,00:06:16,9.56,85,Mizuno Wave Rider 28 Wave Rider 28
+17980441111,TC 8.0 km,Corrida,2026-04-04,Noite,8.0,00:51:40,00:06:25,9.34,109,Fila Racer Speedzone
+17992314572,TC 10.0 km,Corrida,2026-04-05,Noite,10.0,00:53:25,00:05:19,11.27,110,Mizuno Wave Rider 28 Wave Rider 28
+18024715948,TC 10.0 km,Corrida,2026-04-08,Manhã,10.0,00:57:36,00:05:43,10.47,73,Fila Racer Speedzone
+18058803257,TC 13.0 km,Corrida,2026-04-10,Noite,13.0,01:10:54,00:05:26,11.02,274,Fila Racer Speedzone
+18084986581,TC 10.0 km,Corrida,2026-04-12,Noite,10.0,00:58:49,00:05:52,10.21,126,Mizuno Wave Rider 28 Wave Rider 28
+18097038661,TC 8.0 km,Corrida,2026-04-13,Noite,8.0,00:50:22,00:06:17,9.54,43,Fila Racer Speedzone
+18116101868,TC 10.0 km,Corrida,2026-04-15,Manhã,10.0,01:02:22,00:06:13,9.63,145,Fila Racer Speedzone
+18150306604,TC 13.0 km,Corrida,2026-04-17,Noite,13.0,01:06:49,00:05:08,11.68,148,Mizuno Wave Rider 28 Wave Rider 28
+18178325887,TC 14.0 km,Corrida,2026-04-19,Noite,14.0,01:30:10,00:06:22,9.42,121,Fila Racer T2 T2
+18183373121,TP 62.0 km,Pedalada,2026-04-20,Manhã,62.0,02:28:35,00:02:21,25.4,232,Tropix Madrid
+18223479370,TC 10.0 km,Corrida,2026-04-23,Manhã,10.0,01:00:41,00:06:02,9.93,38,Fila Racer Speedzone
+18244297154,TC 10.0 km,Corrida,2026-04-24,Noite,10.0,00:50:00,00:04:59,12.02,129,New Balance Propel v5 Propel v5
+18272426669,TP 60.0 km,Pedalada,2026-04-26,Noite,60.0,02:19:48,00:02:19,25.82,117,Tropix Madrid
+18284896076,TC 7.0 km,Corrida,2026-04-27,Noite,7.0,00:45:27,00:06:15,9.58,53,Fila Racer Speedzone
+18339386158,TC 15.0 km,Corrida,2026-05-01,Noite,15.0,01:19:02,00:05:15,11.4,201,Fila Racer Speedzone
+18352137249,TC 10.0 km,Corrida,2026-05-02,Noite,10.0,01:01:04,00:06:05,9.85,32,New Balance Propel v5 Propel v5
+18364709880,TC 10.0 km,Corrida,2026-05-03,Noite,10.0,00:50:06,00:04:59,12.01,134,Fila Racer T2 T2
+18379173853,TP 31.0 km,Pedalada,2026-05-04,Noite,31.0,01:27:11,00:02:44,21.88,118,Tropix Madrid
+18409997190,TC 10.0 km,Corrida,2026-05-07,Manhã,10.0,01:01:31,00:06:07,9.8,130,Fila Racer Speedzone
+18430669657,TC 10.0 km,Corrida,2026-05-08,Noite,10.0,00:53:31,00:05:18,11.31,49.6,Fila Racer Speedzone
+18444853153,TP 35.0 km,Pedalada,2026-05-09,Noite,35.0,01:33:14,00:02:39,22.59,183,Tropix Madrid
+18471624417,TP 68.0 km,Pedalada,2026-05-11,Noite,68.0,02:18:21,00:02:01,29.62,320,Tropix Madrid
+18471791484,TP 26.0 km,Pedalada,2025-11-04,Noite,26.0,01:16:49,00:02:52,20.88,438,Tropix Madrid
+18488483397,TC 10.0 km,Corrida,2026-05-13,Manhã,10.0,00:52:54,00:05:16,11.38,124,Fila Racer Speedzone
+18521927545,TC 15.0 km,Corrida,2026-05-15,Noite,15.0,01:19:24,00:05:16,11.38,234,Fila Racer T2 T2
+18534993121,TP 60.0 km,Pedalada,2026-05-16,Noite,60.0,02:25:18,00:02:24,24.83,277,Tropix Madrid
+18548287040,TC 15.0 km,Corrida,2026-05-17,Noite,15.0,01:16:54,00:05:07,11.72,251,New Balance Propel v5 Propel v5
+18580492872,TC 10.0 km,Corrida,2026-05-20,Manhã,10.0,00:55:51,00:05:34,10.76,132,Fila Racer Speedzone
+18614006871,TC 21.0 km,Corrida,2026-05-22,Noite,21.0,01:51:58,00:05:18,11.31,306,New Balance Propel v5 Propel v5
+18640024200,TC 10.0 km,Corrida,2026-05-24,Noite,10.0,00:51:21,00:05:07,11.71,115,New Balance Propel v5 Propel v5
+18673043646,TC 10.0 km,Corrida,2026-05-27,Manhã,10.0,00:50:53,00:05:04,11.82,136,Fila Racer T2 T2
+18707684927,TC 7.0 km,Corrida,2026-05-29,Noite,7.0,00:43:29,00:06:12,9.67,128,Mizuno Wave Rider 28 Wave Rider 28
+18720928720,TP 71.0 km,Pedalada,2026-05-30,Noite,71.0,02:47:40,00:02:19,25.73,343,Tropix Madrid
+18735380959,TC 8.0 km,Corrida,2026-05-31,Noite,8.0,00:50:47,00:06:19,9.49,105,Mizuno Wave Rider 28 Wave Rider 28

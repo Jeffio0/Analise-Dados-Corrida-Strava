@@ -52,17 +52,6 @@ WHERE tipo_atividade = 'Pedalada'
 ORDER BY ritmo_medio ASC
 
 
-
-
-
-
-
-
-
-
-
-
-
 SELECT id_atividade,
 TIME(tempo_movimentacao, 'unixepoch')/CAST(distancia AS REAL) AS minuto
 FROM atividades_gerais
@@ -92,3 +81,13 @@ SELECT id_atividade,
 Round((CAST(REPLACE(distancia,',','.')AS REAL)*3600.00)/tempo_movimentacao,2)
 AS tempo
 FROM atividades_gerais
+
+SELECT id_atividade,
+tipo_atividade,
+        time((tempo_movimentacao/
+                    CAST(REPLACE(distancia,',','.') AS REAL)),'unixepoch')
+                    AS pace,
+         ROUND((CAST(REPLACE(distancia,',','.')AS REAL)*3600.00)/tempo_movimentacao,2) AS ritmo_medio
+FROM atividades_gerais
+WHERE tipo_atividade = 'Corrida' OR tipo_atividade = 'Pedalada'
+

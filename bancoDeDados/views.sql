@@ -89,15 +89,11 @@ SELECT
             ELSE 'Noite'
     END AS horario,
 CAST(distancia AS REAL) AS distancia_percorrida,
-        CASE
-            WHEN tipo_atividade = 'Corrida'
-            THEN
-                time((tempo_movimentacao/
+time(tempo_movimentacao, 'unixepoch') AS Tempo_total,
+ time((tempo_movimentacao/
                     CAST(REPLACE(distancia,',','.') AS REAL)),'unixepoch')
-            ELSE
-                ROUND((CAST(REPLACE(distancia,',','.')AS REAL)*3600.00)/tempo_movimentacao,2)
-        END 
-    AS Pace_Ritmo, ---Cálculo do pace de corrida ( e velocidade média da pedalada
+                    AS pace,
+         ROUND((CAST(REPLACE(distancia,',','.')AS REAL)*3600.00)/              tempo_movimentacao,2) AS ritmo_medio, ---Cálculo do pace de corrida ( e velocidade média da pedalada
     ganho_elevacao,
         CASE
             WHEN equipamento = '' AND tipo_atividade = 'Corrida' THEN 'Puma Flyer Runner'
