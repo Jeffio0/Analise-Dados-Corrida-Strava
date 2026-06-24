@@ -91,9 +91,9 @@ FROM atividades_gerais
     
     
     --- Unificando as consultas
-    SELECT
-        id_atividade,
-        CASE
+SELECT
+    id_atividade,
+    CASE
         WHEN tipo_atividade = 'Corrida' THEN 'TC ' ---treino Corrida
         WHEN tipo_atividade = 'Pedalada' THEN 'TP ' ---treino Pedalada
         ELSE 'Indefinido' ---treino indefinido
@@ -102,46 +102,127 @@ FROM atividades_gerais
     || ' km'  AS nome_atividade,
         tipo_atividade,
         SUBSTR(data_atividade,(INSTR(data_atividade,',')-4),4)||'-'||
-CASE
-WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'jan' THEN '01'
-WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'fev' THEN '02'
-WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'mar' THEN '03'
-WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'abr' THEN '04'
-WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'mai' THEN '05'
-WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'jun' THEN '06'
-WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'jul' THEN '07'
-WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'ago' THEN '08'
-WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'set' THEN '09'
-WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'out' THEN '10'
-WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'nov' THEN '11'
-WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'dez' THEN '12'
-END ||'-'||
-CASE
-    WHEN LENGTH(TRIM(SUBSTR(data_atividade,1,2))) = 1 THEN 0||TRIM(SUBSTR(data_atividade,1,2))
-    ELSE TRIM(SUBSTR(data_atividade,1,2))
-END
-AS data_atividade_DMA,
+    CASE
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'jan' THEN '01'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'fev' THEN '02'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'mar' THEN '03'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'abr' THEN '04'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'mai' THEN '05'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'jun' THEN '06'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'jul' THEN '07'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'ago' THEN '08'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'set' THEN '09'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'out' THEN '10'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'nov' THEN '11'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'dez' THEN '12'
+    END ||'-'||
+    CASE
+        WHEN LENGTH(TRIM(SUBSTR(data_atividade,1,2))) = 1 THEN 0||TRIM(SUBSTR(data_atividade,1,2))
+        ELSE TRIM(SUBSTR(data_atividade,1,2))
+    END
+    AS data_atividade_DMA,
         CASE --Definição do período do dia
-        WHEN SUBSTR(data_atividade, -8, 5) BETWEEN '04:00' AND '11:59' THEN 'Manhã'
-        WHEN SUBSTR(data_atividade, -8, 5) BETWEEN '12:00' AND '17:59' THEN 'Tarde'
-        WHEN SUBSTR(data_atividade, -8, 5) BETWEEN '18:00' AND '23:59' THEN 'Noite'
-        ELSE 'Noite'
+            WHEN SUBSTR(data_atividade, -8, 5) BETWEEN '04:00' AND '11:59' THEN 'Manhã'
+            WHEN SUBSTR(data_atividade, -8, 5) BETWEEN '12:00' AND '17:59' THEN 'Tarde'
+            WHEN SUBSTR(data_atividade, -8, 5) BETWEEN '18:00' AND '23:59' THEN 'Noite'
+            ELSE 'Noite'
     END AS horario,
-        CAST(distancia AS REAL) AS distancia_absoluta,
-        ganho_elevacao,
-       CASE
-    WHEN equipamento = '' AND tipo_atividade = 'Corrida' THEN 'Puma Flyer Runner'
-    WHEN equipamento = '' AND tipo_atividade = 'Pedalada' THEN 'GTSM1'
-    WHEN equipamento = '' AND tipo_atividade = 'Treino' THEN 'Não se Aplica'
-    WHEN equipamento = '' AND tipo_atividade = 'Treinamento com peso' THEN 'Não se Aplica'
-    WHEN equipamento = '' AND tipo_atividade = 'Caminhada' THEN 'Não se Aplica'
-    ELSE equipamento
-    END AS equipamentos
-        FROM atividades_gerais
-       WHERE ganho_elevacao > 0 
-            AND
-            ((tipo_atividade = 'Corrida' AND CAST(distancia AS REAL) >= 3)
-            OR (tipo_atividade = 'Pedalada' AND CAST(distancia AS REAL) >= 20)) --ignora corridas com menos de 3km, pedaladas com menos de 20km e zero ganho de elevação para as mesmas atividade indoor
-        ORDER BY CAST(distancia AS REAL) ASC;
+CAST(distancia AS REAL) AS distancia_percorrida,
+        CASE
+            WHEN tipo_atividade = 'Corrida'
+            THEN
+                time((tempo_movimentacao/
+                    CAST(REPLACE(distancia,',','.') AS REAL)),'unixepoch')
+            ELSE
+                ROUND((CAST(REPLACE(distancia,',','.')AS REAL)*3600.00)/tempo_movimentacao,2)
+        END 
+    AS Pace_Ritmo, ---Cálculo do pace de corrida ( e velocidade média da pedalada
+    ganho_elevacao,
+        CASE
+            WHEN equipamento = '' AND tipo_atividade = 'Corrida' THEN 'Puma Flyer Runner'
+            WHEN equipamento = '' AND tipo_atividade = 'Pedalada' THEN 'GTSM1'
+            WHEN equipamento = '' AND tipo_atividade = 'Treino' THEN 'Não se Aplica'
+            WHEN equipamento = '' AND tipo_atividade = 'Treinamento com peso' THEN 'Não se Aplica'
+            WHEN equipamento = '' AND tipo_atividade = 'Caminhada' THEN 'Não se Aplica'
+            ELSE equipamento
+        END 
+    AS equipamentos --- Identificação dos equipamentos em celulas vazias para corrida e Pedalada
+FROM atividades_gerais
+WHERE ganho_elevacao > 0 
+    AND
+        ((tipo_atividade = 'Corrida' AND CAST(distancia AS REAL) >= 3)
+    OR 
+        (tipo_atividade = 'Pedalada' AND CAST(distancia AS REAL) >= 20)) --ignora corridas com menos de 3km, pedaladas com menos de 20km
+ORDER BY id_atividade ASC; ---Ordena a partir da menor distancia
 
 
+----------------------------------
+
+SELECT
+    id_atividade,
+    CASE
+        WHEN tipo_atividade = 'Corrida' THEN 'TC ' ---treino Corrida
+        WHEN tipo_atividade = 'Pedalada' THEN 'TP ' ---treino Pedalada
+        ELSE 'Indefinido' ---treino indefinido
+    END
+    || CAST(distancia AS REAL)
+    || ' km'  AS nome_atividade,
+        tipo_atividade,
+        SUBSTR(data_atividade,(INSTR(data_atividade,',')-4),4)||'-'||
+    CASE
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'jan' THEN '01'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'fev' THEN '02'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'mar' THEN '03'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'abr' THEN '04'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'mai' THEN '05'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'jun' THEN '06'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'jul' THEN '07'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'ago' THEN '08'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'set' THEN '09'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'out' THEN '10'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'nov' THEN '11'
+        WHEN SUBSTR(data_atividade,(INSTR(data_atividade,'.')-3),3) = 'dez' THEN '12'
+    END ||'-'||
+    CASE
+        WHEN LENGTH(TRIM(SUBSTR(data_atividade,1,2))) = 1 THEN 0||TRIM(SUBSTR(data_atividade,1,2))
+        ELSE TRIM(SUBSTR(data_atividade,1,2))
+    END
+    AS data_atividade_DMA,
+        CASE --Definição do período do dia
+            WHEN SUBSTR(data_atividade, -8, 5) BETWEEN '04:00' AND '11:59' THEN 'Manhã'
+            WHEN SUBSTR(data_atividade, -8, 5) BETWEEN '12:00' AND '17:59' THEN 'Tarde'
+            WHEN SUBSTR(data_atividade, -8, 5) BETWEEN '18:00' AND '23:59' THEN 'Noite'
+            ELSE 'Noite'
+    END AS horario,
+CAST(distancia AS REAL) AS distancia_percorrida,
+        CASE
+            WHEN tipo_atividade = 'Corrida'
+            THEN
+                CAST(((tempo_movimentacao/60.0)+((tempo_movimentacao%60)/60.0))/
+                CAST(REPLACE(distancia,',','.')AS REAL) AS INT) ||':'||
+                CAST((((tempo_movimentacao/60.0)+((tempo_movimentacao%60)/60.0))/
+                REPLACE(distancia,',','.') - 
+                CAST(((tempo_movimentacao/60.0)+((tempo_movimentacao%60)/60.0))/
+                REPLACE(distancia,',','.')AS INT))*60 AS INT)
+            ELSE
+                (CAST(REPLACE(distancia,',','.')AS REAL)*3600.00)/tempo_movimentacao
+        END 
+    AS Pace_Ritmo, ---Cálculo do pace de corrida ( e velocidade média da pedalada
+    ganho_elevacao,
+        CASE
+            WHEN equipamento = '' AND tipo_atividade = 'Corrida' THEN 'Puma Flyer Runner'
+            WHEN equipamento = '' AND tipo_atividade = 'Pedalada' THEN 'GTSM1'
+            WHEN equipamento = '' AND tipo_atividade = 'Treino' THEN 'Não se Aplica'
+            WHEN equipamento = '' AND tipo_atividade = 'Treinamento com peso' THEN 'Não se Aplica'
+            WHEN equipamento = '' AND tipo_atividade = 'Caminhada' THEN 'Não se Aplica'
+            ELSE equipamento
+        END 
+    AS equipamentos --- Identificação dos equipamentos em celulas vazias para corrida e Pedalada
+FROM atividades_gerais
+WHERE ganho_elevacao > 0 
+    AND
+        ((tipo_atividade = 'Corrida' AND CAST(distancia AS REAL) >= 3)
+    OR 
+        (tipo_atividade = 'Pedalada' AND CAST(distancia AS REAL) >= 20)) --ignora corridas com menos de 3km, pedaladas com menos de 20km
+ORDER BY CAST(
+    distancia AS REAL) ASC; ---Ordena a partir da menor distancia

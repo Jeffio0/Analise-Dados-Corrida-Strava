@@ -49,4 +49,39 @@ O banco de dados SQLite (Minhas_atividades_strava) utilizará estritamente as se
 ├── README.md        # Descrição do projeto
 └── .gitignore
 
+Cálculo de Ritmo
+## Exemplo de Cálculo de Pace (Corrida)
 
+**Dados**
+- Tempo Original: 23min59s (1.439 segundos)
+- Distância: 4.190 m (4,19 km)
+
+**Fórmula**
+Pace Decimal = (Tempo em segundos × 16.6667) ÷ Distância em metros
+
+**Cálculo**
+**Encontrando o Pace Decimal:**
+   (1.439 × 16.6667) ÷ 4.190 = 5,7239 min/km (Aproximadamente 5,72)
+
+**Convertendo a Sobra Decimal para Segundos Reais:**
+   - Parte inteira: 5 minutos
+   - Sobra decimal: 0,72
+   - Conversão (Base 100 para Base 60): 72 × 0.6 = 43,2 segundos (Arredondado para 43s)
+
+**Resultado**
+Pace = 05:43/km
+
+## Exemplo de Cálculo de Velocidade Média (Ciclismo)
+
+**Dados**
+- Tempo: 3.600 segundos (1 hora)
+- Distância: 25.800 m (25,8 km)
+
+**Fórmula**
+Velocidade Média (km/h) = (Distância em km × 3600) ÷ Tempo em segundos
+
+**Cálculo**
+(25,8 × 3600) ÷ 3600 = 25,80 km/h
+
+**Resultado**
+Velocidade Média = 25,80 km/h
