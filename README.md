@@ -39,6 +39,12 @@ O banco de dados SQLite (Minhas_atividades_strava) utilizará estritamente as se
 - `Distância`
 - `Ganho de elevação`
 - `Equipamento da atividade`
+Colunas Adicionais
+- `Nome da Atividade`
+- `Horário`
+- `Pace`
+- `Rítmo médio`
+
 
 ## Estrutura do Projeto
 │
