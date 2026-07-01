@@ -1,32 +1,52 @@
-# Dashboard de Performance Corrida - Análise essencial.
+# Dashboard de Performance em Corrida e Gestão de Ativos
 
-Este projeto tem como objetivo consolidar, limpar e analisar o histórico de atividades de corrida exportadas do Strava. Utilizou-se o SQLite para o processo de ETL (Extração, Transformação e Carga), o Gemini como mentor de apoio na interpretação e aplicação dos meus conhecimentos de SQL, e o Power BI para a criação de um dashboard interativo focado na análise de evolução, consistência esportiva e principais pontos de performance da atividade.
+Este projeto tem como objetivo consolidar, limpar e analisar o histórico de atividades de corrida exportadas de plataformas de monitoramento (Strava). A arquitetura do projeto utiliza SQLite para o processo de ETL (Extração, Transformação e Carga), garantindo a integridade e modelagem dos dados brutos linha a linha, e o Power BI para a criação de um dashboard executivo focado em evolução de performance, consistência e engenharia financeira aplicada aos equipamentos de treino.
 
-## Objetivos e Organização do Projeto
+---
 
-Para garantir uma análise estruturada e de valor incremental, o projeto foi dividido em dois níveis de complexidade. O foco inicial estará na exploração isolada e aprofundada de cada modalidade.
+## O Dashboard
 
-### Nível 1: Análises Isoladas por Modalidade (Escopo Atual)
+O painel foi desenhado seguindo as melhores práticas de Data Storytelling e UI/UX, dividindo-se em três pilares analíticos:
+1. **Recordes Pessoais (RP) e Distribuição Temporal:** Análise de ritmo crítico (pace) por distâncias padrão e volumetria de treinos segmentada por turnos (Manhã, Tarde, Noite).
+2. **Evolução Histórica:** Linha de tendência de volume de rodagem anual e mensal expressa em distância (km) e tempo acumulado de treino convertidos via DAX.
+3. **IEFE (Índice de Eficiência Financeira do Equipamento):** Cruzamento inédito entre o valor investido nos tênis e os quilômetros rodados, identificando visualmente o ponto de equilíbrio econômico do calçado.
 
-O objetivo principal nesta fase é responder às perguntas fundamentais de comportamento de forma separada para a Corrida e para o Ciclismo:
-- Volume e Consistência: Qual é a frequência de treinos em cada modalidade? Como o volume (quilometragens e minutos investidos) varia ao longo dos meses e anos?
-- Padrão de Rotina (Turnos): Em qual período do dia (manhã, tarde ou noite) costuma haver maior volume e frequência para cada esporte de forma isolada?
-- Impacto do Relevo (Altimetria): Qual é o impacto real do ganho de elevação acumulado no ritmo médio (pace) da corrida? E como ele afeta a velocidade média do ciclismo?
-- Performance em Corrida (Evolução Histórica): Como o pace nas corridas evoluiu ao longo do tempo, cruzando a distância percorrida com o ganho de elevação acumulado para identificar ganho de eficiência mecânica?
-- Velocidade Crítica - CS (Bônus de Performance): Como estimar a Velocidade Crítica do atleta na corrida utilizando o modelo linear matemático (Distância vs. Tempo) a partir dos seus recordes históricos?
-- Volume por Equipamento (Ciclo de Vida): Análise da quilometragem acumulada por equipamento utilizado nas atividades, considerando bicicletas e calçados de corrida. A visualização apresenta o volume total registrado por equipamento, sua representatividade em relação à vida útil estimada e a distribuição desse volume nas metas de treinamento do atleta (5 km, 8 km, 10 km, 12 km, 15 km, 20 km e 21,1 km).
+---
 
-### Nível 2: Relações Multimodais e Cruzamento de Performance (Backlog / Futuro)
+## Inteligência de Dados e Regras de Negócio
 
-Estas análises ficarão mapeadas como próximos passos e serão executadas apenas se for identificado um ganho intelectual e prático no cruzamento das bases:
-- Cruzamento Multimodal de Performance: Avaliar a relação de ganho de performance mútua (ex: entender se o aumento do volume de ciclismo em determinados períodos gerou ganho de poupança muscular ou resistência que impactou positivamente o rendimento ou a evolução do pace na corrida).
+Para extrair insights reais que vão além de um simples rastreador de treinos, foram implementadas regras de negócio complexas no modelo. O desenvolvimento contou com o apoio de Inteligência Artificial (Gemini), que atuou estritamente como mentora de apoio técnico na validação lógica, estruturação da sintaxe das cláusulas SQL e na construção das fórmulas DAX:
+
+### 1. Cálculo de Horas Acumuladas Mensais
+O tempo bruto extraído do banco em formato de frações de dia foi tratado via DAX para permitir o acúmulo infinito de horas (superando a barreira nativa de 24h do Power BI). O visual utiliza a técnica de Rótulo Personalizado, mantendo a escala matemática decimal perfeita no Eixo Y, mas exibindo a informação ao usuário no formato de relógio tradicional (HH:MM).
+
+### 2. Viabilidade Econômica do Tênis (Ponto de Equilíbrio)
+Considerando que o custo por quilômetro nunca chega a zero absoluto matematicamente, foi estabelecida uma linha de corte de eficiência de R$ 0,50 por KM. A partir do valor investido em cada equipamento, o modelo calcula dinamicamente a quilometragem mínima necessária para que o calçado "se pague" financeiramente, confrontando esse dado com o limite de desgaste mecânico estrutural (700 km).
+
+---
 
 ## Tecnologias Utilizadas
 
-- Banco de Dados: SQLite (para estruturação, limpeza e transformações via SQL).
-- Visualização de Dados: Power BI (para modelagem em estrela e criação do relatório visual).
-- Controle de Versão: Git e GitHub (para versionamento de scripts e documentação).
-- Inteligência Artificial: Gemini (atuando como mentor para orientação teórica, resolução de dúvidas e definição de diretrizes estratégicas do projeto, sem atuação direta na criação dos scripts).
+* **SQLite / SQL:** Engenharia de dados, limpeza, padronização de tipos e estruturação da View analítica de atividades, com suporte de IA para refinamento da sintaxe das cláusulas.
+* **Power BI / Power Query:** Modelagem de dados (Esquema Estrela / Star Schema), relacionamento com dimensão calendário (dCalendario) e desenvolvimento de medidas avançadas em DAX, utilizando mentoria de IA para otimização das fórmulas de tempo.
+* **AI Mentorship (Gemini):** Copiloto estratégico na tomada de decisão arquitetural (definição de granularidade banco vs. DAX) e orientação didática para aplicação prática de conceitos analíticos.
+
+---
+
+## Próxima Atualização e Backlog de Engenharia (Aprimoramento de Ativos)
+
+Os próximos passos do projeto consistem em enriquecer a granularidade da tabela de dimensão de calçados (dEquipamentos) para habilitar visuais de KPI dedicados a cada par de tênis selecionado. Os itens mapeados para desenvolvimento são:
+
+* **Métricas de Volume e Tempo de Uso:**
+    * Quilometragem total acumulada por tênis (Card).
+    * Cálculo de dias decorridos desde o primeiro uso em treino (Card).
+* **Métricas de Desgaste Estrutural:**
+    * Percentual de Vida Útil Restante baseado no teto mecânico individual (Visual de Gauge ou KPI de Alerta).
+* **Métricas de Performance por Equipamento:**
+    * Pace médio e velocidade média segregados por calçado para identificar quais modelos entregam maior eficiência biomecânica.
+* **Métricas de Retorno sobre Investimento (ROI):**
+    * Custo real por corrida realizada (Valor dividido pela Quantidade de Treinos).
+    * Custo por hora de treino efetiva (Valor dividido pelas Horas Totais Rodadas).
 
 ## Dicionário de Dados Selecionados (Campos da Tabela)
 
@@ -55,39 +75,4 @@ Colunas Adicionais
 ├── README.md        # Descrição do projeto
 └── .gitignore
 
-Cálculo de Ritmo
-## Exemplo de Cálculo de Pace (Corrida)
 
-**Dados**
-- Tempo Original: 23min59s (1.439 segundos)
-- Distância: 4.190 m (4,19 km)
-
-**Fórmula**
-Pace Decimal = (Tempo em segundos × 16.6667) ÷ Distância em metros
-
-**Cálculo**
-**Encontrando o Pace Decimal:**
-   (1.439 × 16.6667) ÷ 4.190 = 5,7239 min/km (Aproximadamente 5,72)
-
-**Convertendo a Sobra Decimal para Segundos Reais:**
-   - Parte inteira: 5 minutos
-   - Sobra decimal: 0,72
-   - Conversão (Base 100 para Base 60): 72 × 0.6 = 43,2 segundos (Arredondado para 43s)
-
-**Resultado**
-Pace = 05:43/km
-
-## Exemplo de Cálculo de Velocidade Média (Ciclismo)
-
-**Dados**
-- Tempo: 3.600 segundos (1 hora)
-- Distância: 25.800 m (25,8 km)
-
-**Fórmula**
-Velocidade Média (km/h) = (Distância em km × 3600) ÷ Tempo em segundos
-
-**Cálculo**
-(25,8 × 3600) ÷ 3600 = 25,80 km/h
-
-**Resultado**
-Velocidade Média = 25,80 km/h
