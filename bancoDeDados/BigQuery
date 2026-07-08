@@ -1,0 +1,9 @@
+SELECT equipamentos, 
+  sum(distancia_percorrida) AS distancia,
+  DATETIME_DIFF(MAX(data_atividade_DMA), MIN(data_atividade_DMA), DAY) AS tempoDeUso,
+  SUM(ROUND((CAST(TIME_DIFF(Tempo_total, TIME '00:00:00', SECOND) AS FLOAT64)/60.00),2)) AS Minutos2
+FROM
+  `projeto-501800.123.Atividades_Gerais`
+WHERE tipo_atividade = 'Corrida'
+GROUP BY equipamentos
+ORDER BY distancia ASC;
