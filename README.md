@@ -33,7 +33,7 @@ Considerando que o custo por quilômetro nunca chega a zero absoluto matematicam
 
 ---
 
-## Próxima Atualização e Backlog de Engenharia (Aprimoramento de Ativos)
+## Próxima Atualização - Aprimoramento de Ativos
 
 Os próximos passos do projeto consistem em enriquecer a granularidade da tabela de dimensão de calçados (dEquipamentos) para habilitar visuais de KPI dedicados a cada par de tênis selecionado. Os itens mapeados para desenvolvimento são:
 
