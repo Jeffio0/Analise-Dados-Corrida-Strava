@@ -1,7 +1,30 @@
-SELECT equipamentos, 
+SELECT 
+  CASE
+    WHEN equipamentos = 'Mizuno Wave Rider 28 Wave Rider 28' THEN 'Mizuno Wave Rider 28'
+    WHEN equipamentos = 'Adidas Duramo rc' THEN 'Adidas Duramo rc'
+    WHEN equipamentos = 'Puma Flyer Runner' THEN 'Puma Flyer Runner'
+    WHEN equipamentos = 'New Balance Propel v5 Propel v5' THEN 'New Balance Propel v5'
+    WHEN equipamentos = 'Adidas Adizero SL Adizero SL' THEN 'Adidas Adizero SL'
+    WHEN equipamentos = 'Olympikus Corre 1 Corre 1' THEN 'Olympikus Corre 1'
+    WHEN equipamentos = 'Fila Racer T2 T2' THEN 'Fila Racer T2'
+    WHEN equipamentos = 'PUMA Velocity Nitro 3' THEN 'PUMA Velocity Nitro 3'
+    WHEN equipamentos = 'Fila Racer Speedzone' THEN 'Fila Racer Speedzone'
+  END AS tenis,
   sum(distancia_percorrida) AS distancia,
-  DATETIME_DIFF(MAX(data_atividade_DMA), MIN(data_atividade_DMA), DAY) AS tempoDeUso,
-  SUM(ROUND((CAST(TIME_DIFF(Tempo_total, TIME '00:00:00', SECOND) AS FLOAT64)/60.00),2)) AS Minutos2
+  DATETIME_DIFF(MAX(data_atividade_DMA), MIN(data_atividade_DMA), DAY) AS tempo_dias,
+  round((SUM((CAST(TIME_DIFF(Tempo_total, TIME '00:00:00', SECOND) AS FLOAT64)))/(sum(distancia_percorrida))),2) AS pace_tenis_km,
+  ROUND(CASE
+    WHEN equipamentos = 'Mizuno Wave Rider 28 Wave Rider 28' THEN 495.00
+    WHEN equipamentos = 'Adidas Duramo rc' THEN 246.00
+    WHEN equipamentos = 'Puma Flyer Runner' THEN 275.00
+    WHEN equipamentos = 'New Balance Propel v5 Propel v5' THEN 584.00
+    WHEN equipamentos = 'Adidas Adizero SL Adizero SL' THEN 483.00
+    WHEN equipamentos = 'Olympikus Corre 1 Corre 1' THEN 230.00
+    WHEN equipamentos = 'Fila Racer T2 T2' THEN 400.00
+    WHEN equipamentos = 'PUMA Velocity Nitro 3' THEN 900.00
+    WHEN equipamentos = 'Fila Racer Speedzone' THEN 540.00
+    ELSE 00.00
+  END/ sum(distancia_percorrida),2) AS valor_km
 FROM
   `projeto-501800.123.Atividades_Gerais`
 WHERE tipo_atividade = 'Corrida'
